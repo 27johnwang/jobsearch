@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A curated list of **116+ open** new graduate positions in finance for the Class of 2026.
+> A curated list of **177+ open** new graduate positions in finance for the Class of 2026.
 >
 > Covers Investment Banking, Sales & Trading, Consulting, Asset Management, Quantitative Finance, Corporate Finance, Risk, FinTech, Product Management, and Sales roles.
 
@@ -26,26 +26,26 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Categories
 
-- [🏦 Investment Banking (27)](#investment-banking-27-open)
-- [📊 Sales & Trading (7)](#sales--trading-7-open)
-- [💼 Consulting (12)](#consulting-12-open)
-- [📈 Asset Management (18)](#asset-management-18-open)
-- [🔢 Quantitative Finance (19)](#quantitative-finance-19-open)
-- [🏢 Corporate Finance (15)](#corporate-finance-15-open)
+- [🏦 Investment Banking (42)](#investment-banking-42-open)
+- [📊 Sales & Trading (8)](#sales--trading-8-open)
+- [💼 Consulting (20)](#consulting-20-open)
+- [📈 Asset Management (27)](#asset-management-27-open)
+- [🔢 Quantitative Finance (31)](#quantitative-finance-31-open)
+- [🏢 Corporate Finance (24)](#corporate-finance-24-open)
 - [🛡️ Risk Management (3)](#risk-management-3-open)
-- [💻 Financial Technology (9)](#financial-technology-9-open)
-- [📱 Product Management (Finance) (2)](#product-management-finance-2-open)
-- [🤝 Sales (Financial Services) (4)](#sales-financial-services-4-open)
+- [💻 Financial Technology (11)](#financial-technology-11-open)
+- [📱 Product Management (Finance) (3)](#product-management-finance-3-open)
+- [🤝 Sales (Financial Services) (8)](#sales-financial-services-8-open)
 
 ---
 
-**Total listings: 116** | **Open: 116**
+**Total listings: 177** | **Open: 177**
 
-🏦 Investment Banking: 27 | 📊 Sales & Trading: 7 | 💼 Consulting: 12 | 📈 Asset Management: 18 | 🔢 Quantitative Finance: 19 | 🏢 Corporate Finance: 15 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 9 | 📱 Product Management (Finance): 2 | 🤝 Sales (Financial Services): 4
+🏦 Investment Banking: 42 | 📊 Sales & Trading: 8 | 💼 Consulting: 20 | 📈 Asset Management: 27 | 🔢 Quantitative Finance: 31 | 🏢 Corporate Finance: 24 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 11 | 📱 Product Management (Finance): 3 | 🤝 Sales (Financial Services): 8
 
 ---
 
-## 🏦 Investment Banking (27 open)
+## 🏦 Investment Banking (42 open)
 
 <table>
 <tr>
@@ -54,6 +54,111 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Goldman Sachs**</td>
+<td>2026 New Analyst Program</td>
+<td><details><summary>New York, NY (+4 more)</summary>San Francisco, CA</br>Dallas, TX</br>Salt Lake City, UT</br>Los Angeles, CA</details></td>
+<td><div align="center"><a href="https://www.goldmansachs.com/careers/students/programs-and-internships/americas/new-analyst-program"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Morgan Stanley**</td>
+<td>Full-Time Analyst Programs (Various Divisions)</td>
+<td>New York, NY</br>Multiple US locations</td>
+<td><div align="center"><a href="https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/jobboard/vacancy/1/adv/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Citi**</td>
+<td>Banking - Corporate Banking, Full-Time Analyst 2026</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://jobs.citi.com/job/new-york/banking-corporate-banking-full-time-analyst-new-york-usa-2026/287/84181764784"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Citi**</td>
+<td>Banking - Investment Banking, Full-Time Analyst 2026 (Frankfurt)</td>
+<td>Frankfurt, Germany</td>
+<td><div align="center"><a href="https://jobs.citi.com/job/frankfurt-am-main/banking-investment-banking-full-time-analyst-frankfurt-germany-2026/287/85946872800"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Citi**</td>
+<td>Banking - Investment Banking, Full-Time Analyst 2026 (Paris)</td>
+<td>Paris, France</td>
+<td><div align="center"><a href="https://jobs.citi.com/job/paris/banking-investment-banking-full-time-analyst-paris-france-2026/287/86287727920"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**UBS**</td>
+<td>2026 Full-Time Analyst Programs</td>
+<td>New York, NY</br>Multiple global locations</td>
+<td><div align="center"><a href="https://www.ubs.com/careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Deutsche Bank**</td>
+<td>2026 Analyst Programs (Origination & Advisory / Capital Markets)</td>
+<td><details><summary>New York, NY (+2 more)</summary>Chicago, IL</br>San Francisco, CA</details></td>
+<td><div align="center"><a href="https://careers.db.com/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**HSBC**</td>
+<td>2026 HSBC Hong Kong Investment Banking Graduate Programme</td>
+<td>Hong Kong</td>
+<td><div align="center"><a href="https://www.hsbc.com/careers/students-and-graduates"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Evercore**</td>
+<td>2026 Analyst Program</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.evercore.com/careers/students-graduates/students-graduates-u-s/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Moelis & Company**</td>
+<td>2026 Analyst Program</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.moelis.com/careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Centerview Partners**</td>
+<td>2026 Full-Time Analyst</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.centerviewpartners.com/careers.aspx"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**PJT Partners**</td>
+<td>2026 Full-Time Analyst Program</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://pjtpartners.wd1.myworkdayjobs.com/Students"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**RBC Capital Markets**</td>
+<td>2026 Full-Time Analyst Program</td>
+<td>New York, NY</br>Toronto, Canada</td>
+<td><div align="center"><a href="https://www.rbccm.com/en/careers/full-time.page"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Santander**</td>
+<td>US Corporate & Investment Banking Full-Time Analyst Program</td>
+<td><details><summary>New York, NY (+2 more)</summary>Los Angeles, CA</br>San Francisco, CA</details></td>
+<td><div align="center"><a href="https://www.santander.com/en/careers/where-you-want-to-create-an-impact/santander-future-talent/us-corporate-investment-banking-full-time-analyst-program"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**SMBC**</td>
+<td>2026 Analyst Program</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.smbcgroup.com/americas/careers/students-recent-graduates"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
 </tr>
 <tr>
 <td>**Deutsche Bank**</td>
@@ -73,7 +178,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>**Guggenheim Securities**</td>
 <td>2026 Investment Banking Analyst</td>
 <td>New York, NY</td>
-<td><div align="center"><a href="https://www.guggenheimpartners.com/firm/careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://guggenheim.wd1.myworkdayjobs.com/en-US/Guggenheim_Careers_Campus/job/XMLNAME-2026-Guggenheim-Securities-Investment-Banking-Summer-Analyst---New-York-Generalist-Program_14087"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6mo</td>
 </tr>
 <tr>
@@ -157,14 +262,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>**Wells Fargo**</td>
 <td>2026 Investment Banking Full-Time Analyst</td>
 <td><details><summary>New York, NY (+2 more)</summary>Charlotte, NC</br>Chicago, IL</details></td>
-<td><div align="center"><a href="https://www.wellsfargojobs.com/en/jobs/?search=2026+analyst"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.wellsfargojobs.com/en/jobs/r-480853/2026-investment-banking-program-analyst-ca-early-careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6mo</td>
 </tr>
 <tr>
 <td>**Jefferies**</td>
 <td>2026 Investment Banking Analyst</td>
 <td>New York, NY</td>
-<td><div align="center"><a href="https://jefferies.tal.net/vx/appcentre-ext/brand-2/spa-1/candidate/so/pm/1/pl/1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.jefferies.com/careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6mo</td>
 </tr>
 <tr>
@@ -192,7 +297,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>**Houlihan Lokey**</td>
 <td>2026 Financial Analyst - Investment Banking</td>
 <td><details><summary>New York, NY (+3 more)</summary>Los Angeles, CA</br>Chicago, IL</br>Dallas, TX</details></td>
-<td><div align="center"><a href="https://careers-hl.icims.com/jobs/search?ss=1&searchKeyword=2026+analyst"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://hl.wd1.myworkdayjobs.com/Campus"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6mo</td>
 </tr>
 <tr>
@@ -213,14 +318,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>**Bank of America**</td>
 <td>2026 Global Corporate & Investment Banking - Full-Time Analyst</td>
 <td><details><summary>New York, NY (+4 more)</summary>Charlotte, NC</br>Chicago, IL</br>Houston, TX</br>San Francisco, CA</details></td>
-<td><div align="center"><a href="https://campus.bankofamerica.com/careers/global_corporate__investment_banking.html"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://careers.bankofamerica.com/en-us/students/job-detail/12583/global-markets-sales-trading-rotational-summer-analyst-program-2026-new-york-new-york-united-states"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>7mo</td>
 </tr>
 <tr>
 <td>**Lazard**</td>
 <td>2026 Financial Advisory Analyst</td>
 <td>New York, NY</td>
-<td><div align="center"><a href="https://lazard-careers.tal.net/vx/appcentre-ext/brand-0/spa-1/candidate/so/pm/1/pl/1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.lazard.com/careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>7mo</td>
 </tr>
 <tr>
@@ -234,20 +339,20 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>**Goldman Sachs**</td>
 <td>2026 New Analyst - Investment Banking</td>
 <td><details><summary>New York, NY (+2 more)</summary>San Francisco, CA</br>Dallas, TX</details></td>
-<td><div align="center"><a href="https://higher.gs.com/roles/new-analyst"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://higher.gs.com/roles/150576"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>7mo</td>
 </tr>
 <tr>
 <td>**JPMorgan Chase**</td>
 <td>2026 Investment Banking - Full-Time Analyst</td>
 <td><details><summary>New York, NY (+4 more)</summary>Chicago, IL</br>Houston, TX</br>San Francisco, CA</br>Los Angeles, CA</details></td>
-<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210646415"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>7mo</td>
 </tr>
 </table>
 
 
-## 📊 Sales & Trading (7 open)
+## 📊 Sales & Trading (8 open)
 
 <table>
 <tr>
@@ -256,6 +361,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Macquarie**</td>
+<td>2026 Commodities and Global Markets Full-Time Analyst</td>
+<td>New York, NY</br>Houston, TX</td>
+<td><div align="center"><a href="https://www.macquarie.com/careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
 </tr>
 <tr>
 <td>**Deutsche Bank**</td>
@@ -296,7 +408,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>**JPMorgan Chase**</td>
 <td>2026 Sales & Trading - Full-Time Analyst</td>
 <td>New York, NY</td>
-<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?keyword=2026+full-time"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>7mo</td>
 </tr>
 <tr>
@@ -309,7 +421,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 💼 Consulting (12 open)
+## 💼 Consulting (20 open)
 
 <table>
 <tr>
@@ -362,6 +474,62 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>5mo</td>
 </tr>
 <tr>
+<td>**Boston Consulting Group (BCG)**</td>
+<td>Associate (Full-Time) - Class of 2026</td>
+<td>Multiple US offices</td>
+<td><div align="center"><a href="https://careers.bcg.com/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Bain & Company**</td>
+<td>ADvantage Program 2026 (PhD/JD/MD)</td>
+<td>Multiple US offices</td>
+<td><div align="center"><a href="https://www.bain.com/careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Deloitte**</td>
+<td>Consulting Analyst / Business Technology Analyst 2026</td>
+<td>Multiple US offices</td>
+<td><div align="center"><a href="https://apply.deloitte.com/careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**PwC**</td>
+<td>Advisory / Consulting Associate 2026</td>
+<td>Multiple US offices</td>
+<td><div align="center"><a href="https://jobs.us.pwc.com/entry-level"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**EY**</td>
+<td>Consulting / Strategy Analyst 2026</td>
+<td>Multiple US offices</td>
+<td><div align="center"><a href="https://www.ey.com/en_us/careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**KPMG**</td>
+<td>Advisory / Consulting Associate 2026</td>
+<td>Multiple US offices</td>
+<td><div align="center"><a href="https://www.kpmg.us/careers.html"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Oliver Wyman**</td>
+<td>Integrated Consulting Group (ICG) 2026</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.builtinnyc.com/job/oliver-wyman-integrated-consulting-group-2026/6928182"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Alvarez & Marsal**</td>
+<td>Analyst Program 2026</td>
+<td>New York, NY</br>Multiple US offices</td>
+<td><div align="center"><a href="https://careers.alvarezandmarsal.com/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
 <td>**Oliver Wyman**</td>
 <td>2026 Consultant - Full Time</td>
 <td><details><summary>New York, NY (+4 more)</summary>Chicago, IL</br>Boston, MA</br>San Francisco, CA</br>Dallas, TX</details></td>
@@ -400,13 +568,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>**Bain & Company**</td>
 <td>2026 Associate Consultant - Full Time</td>
 <td><details><summary>New York, NY (+7 more)</summary>Chicago, IL</br>Boston, MA</br>San Francisco, CA</br>Washington, DC</br>Dallas, TX</br>Atlanta, GA</br>Los Angeles, CA</details></td>
-<td><div align="center"><a href="https://www.bain.com/careers/find-a-role/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.bain.com/careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6mo</td>
 </tr>
 </table>
 
 
-## 📈 Asset Management (18 open)
+## 📈 Asset Management (27 open)
 
 <table>
 <tr>
@@ -466,6 +634,69 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>5mo</td>
 </tr>
 <tr>
+<td>**BlackRock**</td>
+<td>2026 Full-Time Analyst Programme - Investments (Portfolio Management)</td>
+<td>London, UK</br>Edinburgh, UK</td>
+<td><div align="center"><a href="https://www.gradcracker.com/hub/807/blackrock/graduate-job/71398/2026-full-time-analyst-programme-investments-portfolio-management"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**BlackRock**</td>
+<td>2026 Full-Time Analyst Programme - Private Markets Investing</td>
+<td>London, UK</td>
+<td><div align="center"><a href="https://www.gradcracker.com/hub/807/blackrock/graduate-job/71408/2026-full-time-analyst-programme-investments-private-markets-investing"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Vanguard**</td>
+<td>Investment Management Development Program (IMDP) 2026</td>
+<td>Malvern, PA</br>Charlotte, NC</td>
+<td><div align="center"><a href="https://www.vanguardjobs.com/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Blackstone**</td>
+<td>2026 Analyst Program</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.blackstone.com/careers/careers-blackstone/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**KKR**</td>
+<td>2026 Analyst Program</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.kkr.com/careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Ares Management**</td>
+<td>2026 Analyst - Private Equity</td>
+<td>Los Angeles, CA</br>New York, NY</td>
+<td><div align="center"><a href="https://www.builtinla.com/job/2026-analyst-private-equity/7272321"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Ares Management**</td>
+<td>Analyst - Private Equity Secondaries</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://builtin.com/job/analyst-private-equity-secondaries/2823414"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**BNY (Bank of New York Mellon)**</td>
+<td>2026 Analyst Program</td>
+<td>New York, NY</br>Multiple US locations</td>
+<td><div align="center"><a href="https://www.bny.com/corporate/global/en/about-us/careers/students/analyst-program.html"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Partners Group**</td>
+<td>2026 Financial Analyst Program</td>
+<td>Broomfield, CO</td>
+<td><div align="center"><a href="https://www.partnersgroup.com/careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
 <td>**PIMCO**</td>
 <td>2026 Full-Time Analyst - Investment Management</td>
 <td>Newport Beach, CA</br>New York, NY</td>
@@ -504,14 +735,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>**BlackRock**</td>
 <td>2026 Full-Time Analyst Program</td>
 <td><details><summary>New York, NY (+2 more)</summary>San Francisco, CA</br>Atlanta, GA</details></td>
-<td><div align="center"><a href="https://careers.blackrock.com/early-careers/americas/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://careers.blackrock.com/job/hong-kong-sar/2026-full-time-analyst-program-apac/45831/79499522848"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6mo</td>
 </tr>
 <tr>
 <td>**Point72**</td>
 <td>2026 Academy Investment Analyst</td>
 <td>New York, NY</td>
-<td><div align="center"><a href="https://careers.point72.com/CSJobDetail?jobName=academy-investment-analyst"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://careers.point72.com/CSJobDetail?jobName=point72-academy-investment-analyst-program-for-upcoming-graduates-2026-us-&jobCode=CPA-0013314"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6mo</td>
 </tr>
 <tr>
@@ -545,7 +776,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🔢 Quantitative Finance (19 open)
+## 🔢 Quantitative Finance (31 open)
 
 <table>
 <tr>
@@ -563,10 +794,94 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>5mo</td>
 </tr>
 <tr>
+<td>**Bridgewater Associates**</td>
+<td>Investment Associate Program 2026</td>
+<td>Westport, CT</td>
+<td><div align="center"><a href="https://www.bridgewater.com/working-at-bridgewater/job-openings"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Citadel**</td>
+<td>Equities - Citadel Associate Program - Full-Time Program 2026 (US)</td>
+<td>New York, NY</br>Miami, FL</td>
+<td><div align="center"><a href="https://www.citadel.com/careers/details/equities-citadel-associate-program-full-time-program-2026-us/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Citadel**</td>
+<td>Campus Full-Time 2026 Quantitative Trader</td>
+<td>Miami, FL</td>
+<td><div align="center"><a href="https://www.citadel.com/careers/open-opportunities/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Citadel Securities**</td>
+<td>Quantitative Trader - University Graduate (US)</td>
+<td>New York, NY</br>Miami, FL</td>
+<td><div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**D.E. Shaw**</td>
+<td>Full-Time Quantitative Analyst / Software Developer</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://campus.deshaw.com/roles"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Optiver**</td>
+<td>Graduate Quantitative Researcher, PhD (2026 Start)</td>
+<td><details><summary>Amsterdam, Netherlands (+2 more)</summary>Chicago, IL</br>Sydney, Australia</details></td>
+<td><div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/7923852002/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**SIG (Susquehanna International Group)**</td>
+<td>Graduate Quantitative Trader: 2026</td>
+<td>Sydney, Australia</td>
+<td><div align="center"><a href="https://careers.sig.com/job/8626/Graduate-Quantitative-Trader-2026"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**SIG (Susquehanna International Group)**</td>
+<td>Quantitative Systematic Trader - Master's: 2026</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://careers.sig.com/job/9442/Quantitative-Systematic-Trader-Master-s-2026"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Five Rings**</td>
+<td>Graduate Quantitative Researcher (PhD, 2026 Start)</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://fiverings.com/careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Akuna Capital**</td>
+<td>Junior Quantitative Researcher 2026</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://akunacapital.com/careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**IMC Trading**</td>
+<td>Graduate Trader / Quantitative Researcher 2026</td>
+<td><details><summary>Chicago, IL (+2 more)</summary>Amsterdam, Netherlands</br>Sydney, Australia</details></td>
+<td><div align="center"><a href="https://www.imc.com/careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**DRW**</td>
+<td>Quantitative Trader / Researcher - New Grad</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://drw.com/careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
 <td>**Two Sigma**</td>
 <td>2026 Quantitative Researcher - Full Time</td>
 <td>New York, NY</td>
-<td><div align="center"><a href="https://careers.twosigma.com/careers/SearchJobs/?2024=2026"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.twosigma.com/careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6mo</td>
 </tr>
 <tr>
@@ -643,7 +958,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>**Jump Trading**</td>
 <td>2026 Quantitative Trader - Campus</td>
 <td>Chicago, IL</td>
-<td><div align="center"><a href="https://www.jumptrading.com/careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://jumptrading.com/careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6mo</td>
 </tr>
 <tr>
@@ -678,20 +993,20 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>**Jane Street**</td>
 <td>2026 Quantitative Trader - Full Time</td>
 <td>New York, NY</td>
-<td><div align="center"><a href="https://www.janestreet.com/join-jane-street/position/7527332002/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.janestreet.com/join-jane-street/position/8047137002/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>7mo</td>
 </tr>
 <tr>
 <td>**Jane Street**</td>
 <td>2026 Quantitative Researcher - Full Time</td>
 <td>New York, NY</td>
-<td><div align="center"><a href="https://www.janestreet.com/join-jane-street/position/7527333002/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.janestreet.com/join-jane-street/open-roles/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>7mo</td>
 </tr>
 </table>
 
 
-## 🏢 Corporate Finance (15 open)
+## 🏢 Corporate Finance (24 open)
 
 <table>
 <tr>
@@ -800,6 +1115,69 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>5mo</td>
 </tr>
 <tr>
+<td>**Barclays**</td>
+<td>Finance Analyst Graduate Program 2026 (NYC)</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://search.jobs.barclays/job/new-york/finance-analyst-graduate-program-2026-new-york-city/13015/85324507552"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Capital One**</td>
+<td>Full-Time Analyst Development Program 2026</td>
+<td><details><summary>McLean, VA (+2 more)</summary>Richmond, VA</br>New York, NY</details></td>
+<td><div align="center"><a href="https://www.capitalonecareers.com/full-time-programs"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Genworth Financial**</td>
+<td>2026 Finance Development Program Analyst</td>
+<td>Richmond, VA</td>
+<td><div align="center"><a href="https://careers.genworth.com/us/en/job/GFOGFYUSREQ250321EXTERNALENUS/2026-Finance-Development-Program-Analyst"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Fitch Ratings**</td>
+<td>2026 Associate Analyst Program (July Cohort)</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.fitchratings.com/careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Visa**</td>
+<td>Finance Manager, Finance Leadership Development Program - MBA New Grad Rotational Program 2026</td>
+<td>Foster City, CA</td>
+<td><div align="center"><a href="https://www.visa.com/careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Morgan Stanley**</td>
+<td>2026 Finance Summer Analyst Program (New York)</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://morganstanley.tal.net/vx/mobile-0/brand-0/spa-1/candidate/so/pm/1/pl/1/opp/19105-2026-Finance-Summer-Analyst-Program-New-York/en-GB"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**GLOBALFOUNDRIES**</td>
+<td>Strategic Finance & Operations Analyst (2026 New College Graduate)</td>
+<td>Austin, TX</td>
+<td><div align="center"><a href="https://www.globalfoundries.com/careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Momentum (Private Equity)**</td>
+<td>Launch Graduate Program - Corporate Development Analyst / Financial Analyst 2026</td>
+<td>Dallas, TX</td>
+<td><div align="center"><a href="https://www.indeed.com/q-2026-full-time-analyst-program-jobs.html"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**RLJ Lodging Trust**</td>
+<td>Financial Analyst Program (Asset Management) 2026</td>
+<td>Bethesda, MD</td>
+<td><div align="center"><a href="https://www.indeed.com/q-2026-full-time-analyst-program-jobs.html"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
 <td>**D.E. Shaw**</td>
 <td>2026 Financial Analyst - Full Time</td>
 <td>New York, NY</td>
@@ -843,7 +1221,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 💻 Financial Technology (9 open)
+## 💻 Financial Technology (11 open)
 
 <table>
 <tr>
@@ -916,10 +1294,24 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td><div align="center"><a href="https://careers.bloomberg.com/job/search?qf=2026"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>5mo</td>
 </tr>
+<tr>
+<td>**Apex Fintech Solutions**</td>
+<td>Associate Product Analyst - ALDP Program 2026</td>
+<td>Dallas, TX</td>
+<td><div align="center"><a href="https://www.apexfintechsolutions.com/careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Fiserv**</td>
+<td>Corporate Analyst Program - Product Management 2026</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.fiserv.com/careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
 </table>
 
 
-## 📱 Product Management (Finance) (2 open)
+## 📱 Product Management (Finance) (3 open)
 
 <table>
 <tr>
@@ -928,6 +1320,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Citi**</td>
+<td>Services - Summer Analyst Program 2026</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://jobs.citi.com/job/new-york/services-summer-analyst-program-new-york-city-us-2026/287/85559254608"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
 </tr>
 <tr>
 <td>**Goldman Sachs**</td>
@@ -946,7 +1345,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🤝 Sales (Financial Services) (4 open)
+## 🤝 Sales (Financial Services) (8 open)
 
 <table>
 <tr>
@@ -967,7 +1366,35 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>**Bloomberg**</td>
 <td>2026 Sales & Analytics Analyst</td>
 <td>New York, NY</td>
-<td><div align="center"><a href="https://careers.bloomberg.com/job/search?qf=2026"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/April-2026-Analytics-Sales-New-York/17155"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Morgan Stanley**</td>
+<td>Full-Time Branch Analyst Program 2026</td>
+<td>Westchester, NY</br>New York, NY</td>
+<td><div align="center"><a href="https://www.morganstanley.com/people/branch-analyst-program"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**Bloomberg**</td>
+<td>2026 Client Financial Services - New York</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/2026-Client-Financial-Services-New-York/14400"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**MSCI**</td>
+<td>Sales Analyst - Early Careers / Junior Talent Program</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://careers.msci.com/early-careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>**S&P Global**</td>
+<td>Graduate Programme / Sales Associate 2026</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://spgi.wd5.myworkdayjobs.com/SPGI_Careers"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>5mo</td>
 </tr>
 <tr>
@@ -991,7 +1418,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: February 20, 2026 at 05:51 PM**
+**Last updated: February 20, 2026 at 05:56 PM**
 
 This list is maintained by the community. Star this repo to get notified of updates!
 
