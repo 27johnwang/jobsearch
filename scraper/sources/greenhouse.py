@@ -11,6 +11,7 @@ from datetime import datetime
 
 from scraper.models import Job
 from scraper.filters import classify_role, is_new_grad, is_2026_role
+from datetime import date as _date
 
 logger = logging.getLogger(__name__)
 
@@ -109,6 +110,7 @@ def scrape_board(board_slug: str, company_name: str) -> List[Job]:
             date_posted=date_posted,
             category=category,
             source="greenhouse",
+            date_added=_date.today().isoformat(),
         ))
 
     logger.info(f"Found {len(jobs)} finance new grad jobs at {company_name} (Greenhouse)")

@@ -1,4 +1,8 @@
-"""Finance role filtering and classification logic."""
+"""Finance role filtering and classification logic.
+
+STRICT filtering: only match actual new-grad analyst programs at finance
+companies, not generic "Data Analyst" or "Account Executive" roles.
+"""
 
 import re
 from typing import Optional
@@ -28,7 +32,6 @@ CATEGORIES = {
         ],
         "title_patterns": [
             r"(?:sales|trading)\s*analyst",
-            r"trader\b",
             r"sales\s*(?:and|&)\s*trading",
         ],
     },
@@ -54,7 +57,6 @@ CATEGORIES = {
         ],
         "title_patterns": [
             r"(?:asset|portfolio|investment|wealth)\s*manage",
-            r"(?:research|investment)\s*analyst",
         ],
     },
     "Quantitative Finance": {
@@ -80,7 +82,6 @@ CATEGORIES = {
         "title_patterns": [
             r"fp&a\s*analyst",
             r"(?:corporate\s*)?finance\s*(?:analyst|associate|rotational)",
-            r"financial\s*analyst",
             r"treasury\s*analyst",
         ],
     },
@@ -88,7 +89,6 @@ CATEGORIES = {
         "keywords": [
             r"risk\s*(?:manage|analyst|associate)", r"credit\s*risk",
             r"market\s*risk", r"operational\s*risk", r"enterprise\s*risk",
-            r"compliance\b", r"regulatory\b", r"basel\b",
             r"stress\s*test", r"var\b", r"value\s*at\s*risk",
         ],
         "title_patterns": [
@@ -98,13 +98,11 @@ CATEGORIES = {
     },
     "Financial Technology": {
         "keywords": [
-            r"fintech\b", r"financial\s*(?:tech|software|system|data)",
-            r"payment", r"blockchain", r"(?:digital|crypto)\s*(?:asset|currenc)",
-            r"banking\s*(?:tech|software|platform|engineer)",
+            r"fintech\b",
+            r"blockchain", r"(?:digital|crypto)\s*(?:asset|currenc)",
         ],
         "title_patterns": [
             r"(?:fintech|financial\s*tech)",
-            r"(?:software|data)\s*engineer.*(?:financ|bank|trad)",
         ],
     },
     "Product Management (Finance)": {
@@ -126,7 +124,6 @@ CATEGORIES = {
         ],
         "title_patterns": [
             r"(?:institutional|financial)\s*sales",
-            r"(?:sales|relationship)\s*(?:analyst|associate|manage)",
         ],
     },
 }
@@ -173,28 +170,59 @@ FINANCE_COMPANIES = {
     "paypal", "discover", "capital one",
 }
 
-# New grad / entry level indicators
-NEW_GRAD_PATTERNS = [
-    r"new\s*grad", r"entry\s*level", r"junior\b", r"analyst\s*(?:1|i|program)",
-    r"associate\s*(?:1|i|program)", r"rotational\s*(?:program|analyst)",
-    r"graduate\s*(?:program|analyst|associate|role|position)",
-    r"(?:20)?2[56]\s*(?:grad|new\s*hire|class|start)",
-    r"campus\s*(?:hire|recruit|program)",
-    r"early\s*career", r"university\s*(?:hire|recruit|grad)",
-    r"(?:bachelor|bs|ba|undergraduate).*(?:require|prefer|degree)",
-    r"0[\s-]*(?:2|3)\s*years?\s*(?:of\s*)?experience",
-    r"(?:first|1st)\s*year\s*analyst",
+# ------------------------------------------------------------------
+# STRICT title-level signals that a role is a new-grad program
+# ------------------------------------------------------------------
+
+# These must appear in the TITLE (not just the description body) for
+# a role to be considered new-grad.  The old heuristic "any title with
+# 'analyst' from a finance company" was far too broad.
+_NEW_GRAD_TITLE_PATTERNS = [
+    r"new\s*grad",
+    r"new\s*college\s*grad",
+    r"(?:202[5-7])\s*(?:analyst|associate|graduate|trader|researcher)",
+    r"(?:analyst|associate|graduate|trader|researcher)\s*(?:program|programme)",
+    r"(?:rotational|rotation)\s*(?:program|analyst|associate)",
+    r"(?:analyst|associate)\s*development\s*program",
+    r"campus\s*(?:analyst|associate|hire|recruit|program)",
+    r"early\s*career",
+    r"university\s*grad",
+    r"graduate\s*(?:program|programme|trainee|training|analyst|associate|trader|researcher)",
+    r"entry[\s-]*level\s*(?:analyst|associate|consultant|trader)",
+    r"(?:full[\s-]*time)\s*(?:analyst|associate)\s*(?:202[5-7])",
+    r"(?:class\s*of|cohort)\s*202[5-7]",
 ]
+
+_NEW_GRAD_TITLE_RE = re.compile(
+    "|".join(_NEW_GRAD_TITLE_PATTERNS), re.IGNORECASE
+)
+
+# Body-level signals (lower confidence — only used to confirm, not as sole signal)
+_NEW_GRAD_BODY_PATTERNS = [
+    r"new\s*grad", r"recent\s*grad",
+    r"0[\s-]*(?:1|2|3)\s*years?\s*(?:of\s*)?experience",
+    r"(?:bachelor|bs|ba|undergraduate).*(?:require|prefer|degree)",
+    r"campus\s*(?:hire|recruit|program)",
+    r"class\s*of\s*202[5-7]",
+]
+
+_NEW_GRAD_BODY_RE = re.compile(
+    "|".join(_NEW_GRAD_BODY_PATTERNS), re.IGNORECASE
+)
 
 # Exclusion patterns (roles that are NOT new grad)
 EXCLUSION_PATTERNS = [
     r"senior\b", r"sr\.\b", r"lead\b", r"principal\b", r"director\b",
     r"head\s*of\b", r"manager\b(?!.*program)", r"vp\b", r"vice\s*president",
-    r"(?:5|6|7|8|9|10)\+?\s*years", r"experienced\s*hire",
+    r"(?:3|4|5|6|7|8|9|10)\+?\s*years", r"experienced\s*hire",
     r"intern\b(?!.*convert)", r"internship\b",
     r"mba\s*(?:require|prefer|hire|recruit)",
     r"phd\s*(?:require|prefer)",
+    r"staff\s*(?:engineer|analyst)",
+    r"ii\b", r"iii\b", r"level\s*[3-9]",
 ]
+
+_EXCLUSION_RE = re.compile("|".join(EXCLUSION_PATTERNS), re.IGNORECASE)
 
 
 def classify_role(title: str, description: str = "", company: str = "") -> Optional[str]:
@@ -226,41 +254,45 @@ def classify_role(title: str, description: str = "", company: str = "") -> Optio
             best_score = score
             best_category = category
 
-    # If from a finance company but no specific category matched,
-    # try to infer from the title
+    # For finance companies with no specific category match, only classify
+    # if title strongly suggests a finance new-grad program role
     if best_score == 0 and is_finance_company:
         title_lower = title.lower()
-        if "product" in title_lower and "manage" in title_lower:
-            return "Product Management (Finance)"
-        if any(w in title_lower for w in ["sales", "business develop", "relationship"]):
-            return "Sales (Financial Services)"
-        if any(w in title_lower for w in ["analyst", "associate", "finance", "financial"]):
+        # Only accept titles that look like actual programs, not generic roles
+        if re.search(r"(?:new\s*grad|program|rotational|202[5-7])", title_lower):
+            if "product" in title_lower and "manage" in title_lower:
+                return "Product Management (Finance)"
+            if any(w in title_lower for w in ["sales", "business develop", "relationship"]):
+                return "Sales (Financial Services)"
             return "Corporate Finance"
-        # Generic finance company role
-        return "Financial Technology"
+        # Don't auto-classify generic titles like "Data Analyst", "Software Engineer"
+        return None
 
     return best_category if best_score > 0 else None
 
 
 def is_new_grad(title: str, description: str = "") -> bool:
-    """Determine if a job listing is for new graduates / entry level."""
-    text = f"{title} {description}".lower()
+    """Determine if a job listing is for new graduates / entry level.
 
-    # Check exclusion patterns first
-    for pattern in EXCLUSION_PATTERNS:
-        if re.search(pattern, text):
-            return False
+    STRICT: the title itself must contain a new-grad signal. We no longer
+    accept bare "analyst" titles — that matched thousands of mid-career roles.
+    """
+    # Check exclusion patterns first (on full text)
+    text = f"{title} {description}"
+    if _EXCLUSION_RE.search(text):
+        return False
 
-    # Check new grad patterns
-    for pattern in NEW_GRAD_PATTERNS:
-        if re.search(pattern, text):
-            return True
+    # Strong signal: title explicitly says new grad / program / 2026
+    if _NEW_GRAD_TITLE_RE.search(title):
+        return True
 
-    # Heuristic: if title contains "analyst" or "associate" without senior qualifiers
+    # Moderate signal: title has "analyst" or "associate" AND body confirms new-grad
     title_lower = title.lower()
-    if any(kw in title_lower for kw in ["analyst", "associate i", "associate 1"]):
-        if not any(kw in title_lower for kw in ["senior", "sr.", "lead", "principal"]):
-            return True
+    has_junior_title = any(kw in title_lower for kw in [
+        "analyst", "associate i", "associate 1", "junior",
+    ])
+    if has_junior_title and description and _NEW_GRAD_BODY_RE.search(description):
+        return True
 
     return False
 
@@ -269,8 +301,8 @@ def is_2026_role(title: str, description: str = "", date_posted: str = "") -> bo
     """Check if this is a 2026 new grad role (or recent enough to be relevant)."""
     text = f"{title} {description}".lower()
 
-    # Explicit 2026 mention
-    if re.search(r"202[56]", text):
+    # Explicit 2025/2026/2027 mention
+    if re.search(r"202[5-7]", text):
         return True
 
     # If posted in 2025-2026, likely relevant
@@ -282,4 +314,5 @@ def is_2026_role(title: str, description: str = "", date_posted: str = "") -> bo
         except (ValueError, IndexError):
             pass
 
-    return True  # Default to including if uncertain
+    # Without any signal, default to EXCLUDING (not including)
+    return False

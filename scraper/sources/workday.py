@@ -12,6 +12,7 @@ from datetime import datetime
 
 from scraper.models import Job
 from scraper.filters import classify_role, is_new_grad, is_2026_role
+from datetime import date as _date
 
 logger = logging.getLogger(__name__)
 
@@ -144,6 +145,7 @@ def scrape_workday_site(tenant: str, company_name: str, site_path: str) -> List[
                 date_posted=date_posted,
                 category=category,
                 source="workday",
+                date_added=_date.today().isoformat(),
             ))
 
     logger.info(f"Found {len(jobs)} finance new grad jobs at {company_name} (Workday)")

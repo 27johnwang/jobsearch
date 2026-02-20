@@ -76,15 +76,15 @@ def merge_jobs(existing: List[Job], incoming: List[Job]) -> List[Job]:
 
     # Merge incoming
     for job in incoming:
-        # Stamp jobs that have no date with today
-        if not job.date_posted:
-            job.date_posted = today
+        # Stamp date_added if missing
+        if not job.date_added:
+            job.date_added = today
 
         key = _job_key(job)
         if key in by_key:
-            # Already known — keep earlier date
+            # Already known — prefer the entry with a real ATS date
             prev = by_key[key]
-            if job.date_posted < prev.date_posted:
+            if job.date_posted and (not prev.date_posted or job.date_posted < prev.date_posted):
                 prev.date_posted = job.date_posted
         else:
             by_key[key] = job
@@ -95,7 +95,7 @@ def merge_jobs(existing: List[Job], incoming: List[Job]) -> List[Job]:
 def save_jobs(jobs: List[Job]):
     """Save jobs to the data file, sorted newest-first."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    jobs.sort(key=lambda j: j.date_posted or "0000-00-00", reverse=True)
+    jobs.sort(key=lambda j: j.effective_date or "0000-00-00", reverse=True)
     with open(JOBS_FILE, "w") as f:
         json.dump([j.to_dict() for j in jobs], f, indent=2)
     logger.info(f"Saved {len(jobs)} jobs to {JOBS_FILE}")

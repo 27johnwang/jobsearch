@@ -86,7 +86,12 @@ def generate_job_row(job: Job) -> str:
         )
 
     location = format_location(job.location)
-    age = job.age_str
+
+    # Only show verified posting dates from ATS APIs — not date_added
+    if job.date_posted:
+        date_display = job.date_posted
+    else:
+        date_display = ""
 
     return (
         f"<tr>\n"
@@ -94,7 +99,7 @@ def generate_job_row(job: Job) -> str:
         f"<td>{job.role}</td>\n"
         f"<td>{location}</td>\n"
         f"<td>{apply_link}</td>\n"
-        f"<td>{age}</td>\n"
+        f"<td>{date_display}</td>\n"
         f"</tr>"
     )
 
@@ -104,13 +109,13 @@ def generate_category_section(category: str, jobs: List[Job]) -> str:
     config = CATEGORY_CONFIG.get(category, {"emoji": "💰", "order": 99})
     emoji = config["emoji"]
 
-    # Open jobs first (newest-first), then closed jobs (newest-first)
-    jobs.sort(key=lambda j: (j.is_closed, -(ord(j.date_posted[0]) if j.date_posted else 0)))
-    open_jobs = sorted((j for j in jobs if not j.is_closed),
-                       key=lambda j: j.date_posted or "", reverse=True)
+    # Open jobs: dated entries newest-first, then undated; then closed
+    open_dated = sorted((j for j in jobs if not j.is_closed and j.date_posted),
+                        key=lambda j: j.date_posted, reverse=True)
+    open_undated = [j for j in jobs if not j.is_closed and not j.date_posted]
     closed_jobs = sorted((j for j in jobs if j.is_closed),
-                         key=lambda j: j.date_posted or "", reverse=True)
-    jobs[:] = open_jobs + closed_jobs
+                         key=lambda j: j.effective_date or "", reverse=True)
+    jobs[:] = open_dated + open_undated + closed_jobs
 
     rows = "\n".join(generate_job_row(job) for job in jobs)
 
@@ -125,7 +130,7 @@ def generate_category_section(category: str, jobs: List[Job]) -> str:
 <th>Role</th>
 <th>Location</th>
 <th>Application</th>
-<th>Age</th>
+<th>Date Posted</th>
 </tr>
 {rows}
 </table>
