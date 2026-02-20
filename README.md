@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A curated list of **195+ open** new graduate positions in finance for the Class of 2026.
+> A curated list of **207+ open** new graduate positions in finance for the Class of 2026.
 >
 > Covers Investment Banking, Sales & Trading, Consulting, Asset Management, Quantitative Finance, Corporate Finance, Risk, FinTech, Product Management, and Sales roles.
 
@@ -26,26 +26,26 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Categories
 
-- [🏦 Investment Banking (43)](#investment-banking-43-open)
+- [🏦 Investment Banking (45)](#investment-banking-45-open)
 - [📊 Sales & Trading (9)](#sales--trading-9-open)
-- [💼 Consulting (21)](#consulting-21-open)
-- [📈 Asset Management (28)](#asset-management-28-open)
-- [🔢 Quantitative Finance (32)](#quantitative-finance-32-open)
-- [🏢 Corporate Finance (34)](#corporate-finance-34-open)
-- [🛡️ Risk Management (5)](#risk-management-5-open)
+- [💼 Consulting (23)](#consulting-23-open)
+- [📈 Asset Management (27)](#asset-management-27-open)
+- [🔢 Quantitative Finance (34)](#quantitative-finance-34-open)
+- [🏢 Corporate Finance (40)](#corporate-finance-40-open)
+- [🛡️ Risk Management (6)](#risk-management-6-open)
 - [💻 Financial Technology (12)](#financial-technology-12-open)
 - [📱 Product Management (Finance) (3)](#product-management-finance-3-open)
 - [🤝 Sales (Financial Services) (8)](#sales-financial-services-8-open)
 
 ---
 
-**Total listings: 195** | **Open: 195**
+**Total listings: 209** | **Open: 207**
 
-🏦 Investment Banking: 43 | 📊 Sales & Trading: 9 | 💼 Consulting: 21 | 📈 Asset Management: 28 | 🔢 Quantitative Finance: 32 | 🏢 Corporate Finance: 34 | 🛡️ Risk Management: 5 | 💻 Financial Technology: 12 | 📱 Product Management (Finance): 3 | 🤝 Sales (Financial Services): 8
+🏦 Investment Banking: 45 | 📊 Sales & Trading: 9 | 💼 Consulting: 23 | 📈 Asset Management: 27 | 🔢 Quantitative Finance: 34 | 🏢 Corporate Finance: 40 | 🛡️ Risk Management: 6 | 💻 Financial Technology: 12 | 📱 Product Management (Finance): 3 | 🤝 Sales (Financial Services): 8
 
 ---
 
-## 🏦 Investment Banking (43 open)
+## 🏦 Investment Banking (45 open)
 
 <table>
 <tr>
@@ -54,6 +54,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Date Posted</th>
+</tr>
+<tr>
+<td>**Nordea**</td>
+<td>Graduate Programme 2026 - Customer and Corporate Advisory</td>
+<td><details><summary>Copenhagen (+3 more)</summary>Helsinki</br>Stockholm</br>Oslo</details></td>
+<td><div align="center"><a href="https://careers.nordea.com/job/K%C3%B8benhavn-S-Nordea-Graduate-for-Customer-and-Corporate-Advisory-2300/1292201501/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2026-02-09</td>
 </tr>
 <tr>
 <td>**CIBC**</td>
@@ -78,9 +85,23 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </tr>
 <tr>
 <td>**Wells Fargo**</td>
+<td>2026 Investment Banking Program Analyst (Toronto) - Early Careers</td>
+<td>Toronto, ON</td>
+<td><div align="center"><a href="https://www.wellsfargojobs.com/en/jobs/r-484785/2026-investment-banking-program-analyst-early-careers-toronto/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2025-12-01</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
 <td>2026 Investment Banking Full-Time Analyst</td>
 <td><details><summary>New York, NY (+2 more)</summary>Charlotte, NC</br>Chicago, IL</details></td>
 <td><div align="center"><a href="https://www.wellsfargojobs.com/en/jobs/r-480853/2026-investment-banking-program-analyst-ca-early-careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2025-11-01</td>
+</tr>
+<tr>
+<td>**Wells Fargo** 🛂</td>
+<td>2026 Investment Banking Program Analyst (Houston) - Early Careers</td>
+<td>Houston, TX</td>
+<td><div align="center"><a href="https://www.wellsfargojobs.com/en/jobs/r-475056/2026-investment-banking-program-analyst-houston-early-careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2025-11-01</td>
 </tr>
 <tr>
@@ -217,13 +238,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td></td>
 </tr>
 <tr>
-<td>**Nomura**</td>
-<td>2026 Investment Banking Analyst</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://nomuracampus.tal.net/vx/appcentre-ext/brand-0/spa-1/candidate/so/pm/1/pl/1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
-</tr>
-<tr>
 <td>**Perella Weinberg Partners**</td>
 <td>2026 Investment Banking Analyst</td>
 <td>New York, NY</br>Houston, TX</td>
@@ -356,6 +370,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td><div align="center"><a href="https://www.smbcgroup.com/americas/careers/students-recent-graduates"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td></td>
 </tr>
+<tr>
+<td>**Nomura** 🔒</td>
+<td>2026 Investment Banking Analyst</td>
+<td>New York, NY</td>
+<td>🔒</td>
+<td></td>
+</tr>
 </table>
 
 
@@ -435,7 +456,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 💼 Consulting (21 open)
+## 💼 Consulting (23 open)
 
 <table>
 <tr>
@@ -446,11 +467,25 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Date Posted</th>
 </tr>
 <tr>
+<td>**Guidehouse**</td>
+<td>Strategy & Transformation Consultant 2026</td>
+<td>McLean, VA</td>
+<td><div align="center"><a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Strategy---Transformation-Consultant-Senior-Consultant--Evergreen-_22658"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2026-02-19</td>
+</tr>
+<tr>
 <td>**Bain & Company**</td>
 <td>ADvantage Program 2026 (PhD/JD/MD)</td>
 <td>Multiple US locations</td>
 <td><div align="center"><a href="https://www.bain.com/careers/advantage-programs/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2026-01-10</td>
+</tr>
+<tr>
+<td>**Adobe**</td>
+<td>2026 University Graduate - Solutions Consulting Analyst</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://careers.adobe.com/us/en/job/R159972/2026-University-Graduate-Solutions-Consulting-Analyst"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2025-12-18</td>
 </tr>
 <tr>
 <td>**Oliver Wyman**</td>
@@ -595,7 +630,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 📈 Asset Management (28 open)
+## 📈 Asset Management (27 open)
 
 <table>
 <tr>
@@ -625,13 +660,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Los Angeles, CA</br>New York, NY</td>
 <td><div align="center"><a href="https://www.builtinla.com/job/2026-analyst-private-equity/7272321"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2025-11-01</td>
-</tr>
-<tr>
-<td>**Point72**</td>
-<td>2026 Academy Investment Analyst</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://careers.point72.com/CSJobDetail?jobName=point72-academy-investment-analyst-program-for-upcoming-graduates-2026-us-&jobCode=CPA-0013314"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2025-10-01</td>
 </tr>
 <tr>
 <td>**Goldman Sachs**</td>
@@ -801,10 +829,17 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td><div align="center"><a href="https://www.bny.com/corporate/global/en/about-us/careers/students/analyst-program.html"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td></td>
 </tr>
+<tr>
+<td>**Point72** 🔒</td>
+<td>2026 Academy Investment Analyst</td>
+<td>New York, NY</td>
+<td>🔒</td>
+<td>2025-10-01</td>
+</tr>
 </table>
 
 
-## 🔢 Quantitative Finance (32 open)
+## 🔢 Quantitative Finance (34 open)
 
 <table>
 <tr>
@@ -829,6 +864,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>2025-10-23</td>
 </tr>
 <tr>
+<td>**IMC Trading**</td>
+<td>Graduate Quantitative Trader 2026</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.imc.com/us/careers/jobs/4580743101"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2025-10-15</td>
+</tr>
+<tr>
 <td>**Optiver**</td>
 <td>Graduate Quantitative Researcher, PhD (2026 Start)</td>
 <td><details><summary>Amsterdam, Netherlands (+2 more)</summary>Chicago, IL</br>Sydney, Australia</details></td>
@@ -840,6 +882,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Graduate Quantitative Trader: 2026</td>
 <td>Sydney, Australia</td>
 <td><div align="center"><a href="https://careers.sig.com/job/8626/Graduate-Quantitative-Trader-2026"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2025-10-01</td>
+</tr>
+<tr>
+<td>**Hudson River Trading**</td>
+<td>Algorithm Developer (Quant Researcher) - 2026 Grads</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2026-grads/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2025-10-01</td>
 </tr>
 <tr>
@@ -1041,7 +1090,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🏢 Corporate Finance (34 open)
+## 🏢 Corporate Finance (40 open)
 
 <table>
 <tr>
@@ -1108,6 +1157,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>2026-02-17</td>
 </tr>
 <tr>
+<td>**Diageo**</td>
+<td>Finance Graduate Programme 2026</td>
+<td><details><summary>London, UK (+2 more)</summary>Budapest, Hungary</br>Edinburgh, UK</details></td>
+<td><div align="center"><a href="https://www.diageo.com/en/careers/early-careers/graduate-programmes/finance-graduate-programme"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2026-02-09</td>
+</tr>
+<tr>
 <td>**Republic Bank of Chicago**</td>
 <td>Rotational Management Analyst - Class of 2026</td>
 <td>Oak Brook, IL</td>
@@ -1122,11 +1178,46 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>2026-01-29</td>
 </tr>
 <tr>
+<td>**Visa** 🛂</td>
+<td>Associate Business Analyst, New College Grad 2026</td>
+<td>Austin, TX</td>
+<td><div align="center"><a href="https://corporate.visa.com/en/jobs/REF94063B"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2026-01-15</td>
+</tr>
+<tr>
+<td>**GLOBALFOUNDRIES**</td>
+<td>Corporate Finance Analyst (2026 New College Graduate)</td>
+<td>Austin, TX</td>
+<td><div align="center"><a href="https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Corporate-Finance-Analyst--2026-New-College-Graduate-_JR-2502321"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2026-01-10</td>
+</tr>
+<tr>
 <td>**Barclays**</td>
 <td>Finance Analyst Graduate Program 2026 (NYC)</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://search.jobs.barclays/job/new-york/finance-analyst-graduate-program-2026-new-york-city/13015/85324507552"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2025-12-15</td>
+</tr>
+<tr>
+<td>**Fitch Ratings**</td>
+<td>Associate Analyst Program 2026 - New York (July 2026)</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://careers.fitch.group/job/New-York-Associate-Analyst-Program,-Fitch-Ratings,-New-York-July-2026-NY-10001/1262600601/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2025-12-01</td>
+</tr>
+<tr>
+<td>**Fitch Ratings**</td>
+<td>Associate Analyst Program 2026 - Chicago (July 2026)</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://careers.fitch.group/job/Chicago-Associate-Analyst-Program,-Fitch-Ratings,-Chicago-July-2026-IL-60290/1262601101/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2025-12-01</td>
+</tr>
+<tr>
+<td>**Fitch Ratings**</td>
+<td>Associate Analyst Program 2026 - London (September 2026)</td>
+<td>London, UK</td>
+<td><div align="center"><a href="https://careers.fitch.group/job/London-Associate-Analyst-Program,-Fitch-Ratings,-London-September-2026/1262597501/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2025-12-01</td>
 </tr>
 <tr>
 <td>**Fitch Ratings**</td>
@@ -1292,7 +1383,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🛡️ Risk Management (5 open)
+## 🛡️ Risk Management (6 open)
 
 <table>
 <tr>
@@ -1308,6 +1399,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Stamford, CT</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8171777002?gh_jid=8171777002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2026-02-11</td>
+</tr>
+<tr>
+<td>**Nordea**</td>
+<td>Graduate Programme 2026 - Risk Management, Compliance & Audit</td>
+<td><details><summary>Copenhagen (+4 more)</summary>Helsinki</br>Stockholm</br>Oslo</br>Warsaw</details></td>
+<td><div align="center"><a href="https://careers.nordea.com/job/K%C3%B8benhavn-S-Nordea-Graduate-for-Risk-Management,-Compliance-&-Audit-2300/1292180401/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2026-02-09</td>
 </tr>
 <tr>
 <td>**Affirm**</td>
@@ -1544,7 +1642,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: February 20, 2026 at 06:41 PM**
+**Last updated: February 20, 2026 at 06:47 PM**
 
 This list is maintained by the community. Star this repo to get notified of updates!
 
