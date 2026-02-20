@@ -104,9 +104,13 @@ def generate_category_section(category: str, jobs: List[Job]) -> str:
     config = CATEGORY_CONFIG.get(category, {"emoji": "💰", "order": 99})
     emoji = config["emoji"]
 
-    # Sort jobs: open first, then by date (newest first)
-    jobs.sort(key=lambda j: (j.is_closed, j.date_posted or "0000-00-00"), reverse=False)
-    jobs.sort(key=lambda j: j.date_posted or "0000-00-00", reverse=True)
+    # Open jobs first (newest-first), then closed jobs (newest-first)
+    jobs.sort(key=lambda j: (j.is_closed, -(ord(j.date_posted[0]) if j.date_posted else 0)))
+    open_jobs = sorted((j for j in jobs if not j.is_closed),
+                       key=lambda j: j.date_posted or "", reverse=True)
+    closed_jobs = sorted((j for j in jobs if j.is_closed),
+                         key=lambda j: j.date_posted or "", reverse=True)
+    jobs[:] = open_jobs + closed_jobs
 
     rows = "\n".join(generate_job_row(job) for job in jobs)
 
