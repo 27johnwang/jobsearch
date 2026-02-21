@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A curated list of **207+ open** new graduate positions in finance for the Class of 2026.
+> A curated list of **196+ open** new graduate positions in finance for the Class of 2026.
 >
 > Covers Investment Banking, Sales & Trading, Consulting, Asset Management, Quantitative Finance, Corporate Finance, Risk, FinTech, Product Management, and Sales roles.
 
@@ -26,26 +26,26 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Categories
 
-- [🏦 Investment Banking (45)](#investment-banking-45-open)
-- [📊 Sales & Trading (9)](#sales--trading-9-open)
-- [💼 Consulting (23)](#consulting-23-open)
-- [📈 Asset Management (27)](#asset-management-27-open)
-- [🔢 Quantitative Finance (34)](#quantitative-finance-34-open)
+- [🏦 Investment Banking (46)](#investment-banking-46-open)
+- [📊 Sales & Trading (7)](#sales--trading-7-open)
+- [💼 Consulting (21)](#consulting-21-open)
+- [📈 Asset Management (26)](#asset-management-26-open)
+- [🔢 Quantitative Finance (32)](#quantitative-finance-32-open)
 - [🏢 Corporate Finance (40)](#corporate-finance-40-open)
-- [🛡️ Risk Management (6)](#risk-management-6-open)
+- [🛡️ Risk Management (4)](#risk-management-4-open)
 - [💻 Financial Technology (12)](#financial-technology-12-open)
-- [📱 Product Management (Finance) (3)](#product-management-finance-3-open)
-- [🤝 Sales (Financial Services) (8)](#sales-financial-services-8-open)
+- [📱 Product Management (Finance) (1)](#product-management-finance-1-open)
+- [🤝 Sales (Financial Services) (7)](#sales-financial-services-7-open)
 
 ---
 
-**Total listings: 209** | **Open: 207**
+**Total listings: 196** | **Open: 196**
 
-🏦 Investment Banking: 45 | 📊 Sales & Trading: 9 | 💼 Consulting: 23 | 📈 Asset Management: 27 | 🔢 Quantitative Finance: 34 | 🏢 Corporate Finance: 40 | 🛡️ Risk Management: 6 | 💻 Financial Technology: 12 | 📱 Product Management (Finance): 3 | 🤝 Sales (Financial Services): 8
+🏦 Investment Banking: 46 | 📊 Sales & Trading: 7 | 💼 Consulting: 21 | 📈 Asset Management: 26 | 🔢 Quantitative Finance: 32 | 🏢 Corporate Finance: 40 | 🛡️ Risk Management: 4 | 💻 Financial Technology: 12 | 📱 Product Management (Finance): 1 | 🤝 Sales (Financial Services): 7
 
 ---
 
-## 🏦 Investment Banking (45 open)
+## 🏦 Investment Banking (46 open)
 
 <table>
 <tr>
@@ -238,6 +238,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td></td>
 </tr>
 <tr>
+<td>**Nomura**</td>
+<td>2026 Investment Banking Analyst</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://nomuracampus.tal.net/vx/appcentre-ext/brand-0/spa-1/candidate/so/pm/1/pl/1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td></td>
+</tr>
+<tr>
 <td>**Perella Weinberg Partners**</td>
 <td>2026 Investment Banking Analyst</td>
 <td>New York, NY</br>Houston, TX</td>
@@ -370,17 +377,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td><div align="center"><a href="https://www.smbcgroup.com/americas/careers/students-recent-graduates"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td></td>
 </tr>
-<tr>
-<td>**Nomura** 🔒</td>
-<td>2026 Investment Banking Analyst</td>
-<td>New York, NY</td>
-<td>🔒</td>
-<td></td>
-</tr>
 </table>
 
 
-## 📊 Sales & Trading (9 open)
+## 📊 Sales & Trading (7 open)
 
 <table>
 <tr>
@@ -433,20 +433,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td></td>
 </tr>
 <tr>
-<td>**Citigroup**</td>
-<td>2026 Markets - Sales & Trading Full-Time Analyst</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://jobs.citi.com/search-jobs/2026%20analyst/287/1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
-</tr>
-<tr>
-<td>**Deutsche Bank**</td>
-<td>2026 Analyst Program - Sales & Trading</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://careers.db.com/students-graduates/analyst-programmes/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
-</tr>
-<tr>
 <td>**Macquarie**</td>
 <td>2026 Commodities and Global Markets Full-Time Analyst</td>
 <td>New York, NY</br>Houston, TX</td>
@@ -456,7 +442,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 💼 Consulting (23 open)
+## 💼 Consulting (21 open)
 
 <table>
 <tr>
@@ -523,13 +509,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td></td>
 </tr>
 <tr>
-<td>**Deloitte**</td>
-<td>2026 Advisory - Financial Advisory Analyst (Full-Time)</td>
-<td>Multiple US Locations</td>
-<td><div align="center"><a href="https://apply.deloitte.com/careers/SearchJobs"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
-</tr>
-<tr>
 <td>**PwC**</td>
 <td>2026 Advisory - Deals Full-Time Associate</td>
 <td><details><summary>New York, NY (+5 more)</summary>Chicago, IL</br>Houston, TX</br>San Francisco, CA</br>Dallas, TX</br>Boston, MA</details></td>
@@ -586,13 +565,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td></td>
 </tr>
 <tr>
-<td>**Bain & Company**</td>
-<td>ADvantage Program 2026 (PhD/JD/MD)</td>
-<td>Multiple US offices</td>
-<td><div align="center"><a href="https://www.bain.com/careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
-</tr>
-<tr>
 <td>**Deloitte**</td>
 <td>Consulting Analyst / Business Technology Analyst 2026</td>
 <td>Multiple US offices</td>
@@ -630,7 +602,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 📈 Asset Management (27 open)
+## 📈 Asset Management (26 open)
 
 <table>
 <tr>
@@ -662,24 +634,17 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>2025-11-01</td>
 </tr>
 <tr>
-<td>**Goldman Sachs**</td>
-<td>2026 New Analyst - Asset & Wealth Management</td>
+<td>**Point72**</td>
+<td>2026 Academy Investment Analyst</td>
 <td>New York, NY</td>
-<td><div align="center"><a href="https://higher.gs.com/roles/new-analyst"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
+<td><div align="center"><a href="https://careers.point72.com/CSJobDetail?jobName=point72-academy-investment-analyst-program-for-upcoming-graduates-2026-us-&jobCode=CPA-0013314"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2025-10-01</td>
 </tr>
 <tr>
 <td>**Morgan Stanley**</td>
 <td>2026 Wealth Management Full-Time Analyst</td>
 <td>New York, NY</br>Purchase, NY</td>
 <td><div align="center"><a href="https://morganstanley.tal.net/vx/appcentre-ext/brand-0/spa-1/candidate/so/pm/1/pl/1/opp/18193"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
-</tr>
-<tr>
-<td>**JPMorgan Chase**</td>
-<td>2026 Asset & Wealth Management - Full-Time Analyst</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td></td>
 </tr>
 <tr>
@@ -829,17 +794,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td><div align="center"><a href="https://www.bny.com/corporate/global/en/about-us/careers/students/analyst-program.html"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td></td>
 </tr>
-<tr>
-<td>**Point72** 🔒</td>
-<td>2026 Academy Investment Analyst</td>
-<td>New York, NY</td>
-<td>🔒</td>
-<td>2025-10-01</td>
-</tr>
 </table>
 
 
-## 🔢 Quantitative Finance (34 open)
+## 🔢 Quantitative Finance (32 open)
 
 <table>
 <tr>
@@ -948,13 +906,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td></td>
 </tr>
 <tr>
-<td>**Optiver**</td>
-<td>2026 Graduate Quantitative Researcher</td>
-<td>Chicago, IL</br>Austin, TX</td>
-<td><div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
-</tr>
-<tr>
 <td>**IMC Trading**</td>
 <td>2026 Graduate Trader</td>
 <td>Chicago, IL</td>
@@ -1007,13 +958,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>**SIG (Susquehanna)**</td>
 <td>2026 Quantitative Trader - Full Time</td>
 <td><details><summary>Bala Cynwyd, PA (+2 more)</summary>New York, NY</br>Chicago, IL</details></td>
-<td><div align="center"><a href="https://careers.sig.com/job-results/?category=Campus"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
-</tr>
-<tr>
-<td>**SIG (Susquehanna)**</td>
-<td>2026 Quantitative Researcher - Full Time</td>
-<td>Bala Cynwyd, PA</td>
 <td><div align="center"><a href="https://careers.sig.com/job-results/?category=Campus"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td></td>
 </tr>
@@ -1383,7 +1327,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🛡️ Risk Management (6 open)
+## 🛡️ Risk Management (4 open)
 
 <table>
 <tr>
@@ -1415,24 +1359,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>2026-01-22</td>
 </tr>
 <tr>
-<td>**Goldman Sachs**</td>
-<td>2026 New Analyst - Risk</td>
-<td><details><summary>New York, NY (+2 more)</summary>Dallas, TX</br>Salt Lake City, UT</details></td>
-<td><div align="center"><a href="https://higher.gs.com/roles/new-analyst"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
-</tr>
-<tr>
 <td>**Morgan Stanley**</td>
 <td>2026 Risk Management Full-Time Analyst</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://morganstanley.tal.net/vx/appcentre-ext/brand-0/spa-1/candidate/so/pm/1/pl/1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
-</tr>
-<tr>
-<td>**JPMorgan Chase**</td>
-<td>2026 Risk Management - Full-Time Analyst</td>
-<td>New York, NY</br>Columbus, OH</td>
-<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td></td>
 </tr>
 </table>
@@ -1535,7 +1465,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 📱 Product Management (Finance) (3 open)
+## 📱 Product Management (Finance) (1 open)
 
 <table>
 <tr>
@@ -1544,20 +1474,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Date Posted</th>
-</tr>
-<tr>
-<td>**Goldman Sachs**</td>
-<td>2026 New Analyst - Platform Solutions / Consumer & Wealth</td>
-<td>New York, NY</br>Dallas, TX</td>
-<td><div align="center"><a href="https://higher.gs.com/roles/new-analyst"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
-</tr>
-<tr>
-<td>**JPMorgan Chase**</td>
-<td>2026 Payments - Product Analyst</td>
-<td>New York, NY</br>Chicago, IL</td>
-<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
 </tr>
 <tr>
 <td>**Citi**</td>
@@ -1569,7 +1485,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🤝 Sales (Financial Services) (8 open)
+## 🤝 Sales (Financial Services) (7 open)
 
 <table>
 <tr>
@@ -1598,13 +1514,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>2026 Institutional Sales Analyst</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.citadelsecurities.com/careers/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
-</tr>
-<tr>
-<td>**Goldman Sachs**</td>
-<td>2026 New Analyst - Sales (Global Markets)</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://higher.gs.com/roles/new-analyst"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td></td>
 </tr>
 <tr>
@@ -1642,7 +1551,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: February 20, 2026 at 06:47 PM**
+**Last updated: February 21, 2026 at 08:40 AM**
 
 This list is maintained by the community. Star this repo to get notified of updates!
 
