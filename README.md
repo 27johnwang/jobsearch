@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A curated list of **197+ open** new graduate positions in finance for the Class of 2026.
+> A curated list of **198+ open** new graduate positions in finance for the Class of 2026.
 >
 > Covers Investment Banking, Sales & Trading, Consulting, Asset Management, Quantitative Finance, Corporate Finance, Risk, FinTech, Product Management, and Sales roles.
 
@@ -32,16 +32,16 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - [📈 Asset Management (26)](#asset-management-26-open)
 - [🔢 Quantitative Finance (32)](#quantitative-finance-32-open)
 - [🏢 Corporate Finance (41)](#corporate-finance-41-open)
-- [🛡️ Risk Management (4)](#risk-management-4-open)
+- [🛡️ Risk Management (5)](#risk-management-5-open)
 - [💻 Financial Technology (12)](#financial-technology-12-open)
 - [📱 Product Management (Finance) (1)](#product-management-finance-1-open)
 - [🤝 Sales (Financial Services) (7)](#sales-financial-services-7-open)
 
 ---
 
-**Total listings: 197** | **Open: 197**
+**Total listings: 198** | **Open: 198**
 
-🏦 Investment Banking: 46 | 📊 Sales & Trading: 7 | 💼 Consulting: 21 | 📈 Asset Management: 26 | 🔢 Quantitative Finance: 32 | 🏢 Corporate Finance: 41 | 🛡️ Risk Management: 4 | 💻 Financial Technology: 12 | 📱 Product Management (Finance): 1 | 🤝 Sales (Financial Services): 7
+🏦 Investment Banking: 46 | 📊 Sales & Trading: 7 | 💼 Consulting: 21 | 📈 Asset Management: 26 | 🔢 Quantitative Finance: 32 | 🏢 Corporate Finance: 41 | 🛡️ Risk Management: 5 | 💻 Financial Technology: 12 | 📱 Product Management (Finance): 1 | 🤝 Sales (Financial Services): 7
 
 ---
 
@@ -1334,7 +1334,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🛡️ Risk Management (4 open)
+## 🛡️ Risk Management (5 open)
 
 <table>
 <tr>
@@ -1343,6 +1343,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Date Posted</th>
+</tr>
+<tr>
+<td>**Coinbase**</td>
+<td>Payment Risk Analyst I</td>
+<td>Hyderabad, India</td>
+<td><div align="center"><a href="https://www.coinbase.com/careers/positions/7751060?gh_jid=7751060"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2026-03-25</td>
 </tr>
 <tr>
 <td>**Point72**</td>
@@ -1558,7 +1565,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: March 25, 2026 at 09:00 AM**
+**Last updated: March 26, 2026 at 09:06 AM**
 
 This list is maintained by the community. Star this repo to get notified of updates!
 
