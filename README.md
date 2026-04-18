@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A curated list of **200+ open** new graduate positions in finance for the Class of 2026.
+> A curated list of **201+ open** new graduate positions in finance for the Class of 2026.
 >
 > Covers Investment Banking, Sales & Trading, Consulting, Asset Management, Quantitative Finance, Corporate Finance, Risk, FinTech, Product Management, and Sales roles.
 
@@ -31,7 +31,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - [💼 Consulting (21)](#consulting-21-open)
 - [📈 Asset Management (26)](#asset-management-26-open)
 - [🔢 Quantitative Finance (32)](#quantitative-finance-32-open)
-- [🏢 Corporate Finance (42)](#corporate-finance-42-open)
+- [🏢 Corporate Finance (43)](#corporate-finance-43-open)
 - [🛡️ Risk Management (6)](#risk-management-6-open)
 - [💻 Financial Technology (12)](#financial-technology-12-open)
 - [📱 Product Management (Finance) (1)](#product-management-finance-1-open)
@@ -39,9 +39,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 200** | **Open: 200**
+**Total listings: 201** | **Open: 201**
 
-🏦 Investment Banking: 46 | 📊 Sales & Trading: 7 | 💼 Consulting: 21 | 📈 Asset Management: 26 | 🔢 Quantitative Finance: 32 | 🏢 Corporate Finance: 42 | 🛡️ Risk Management: 6 | 💻 Financial Technology: 12 | 📱 Product Management (Finance): 1 | 🤝 Sales (Financial Services): 7
+🏦 Investment Banking: 46 | 📊 Sales & Trading: 7 | 💼 Consulting: 21 | 📈 Asset Management: 26 | 🔢 Quantitative Finance: 32 | 🏢 Corporate Finance: 43 | 🛡️ Risk Management: 6 | 💻 Financial Technology: 12 | 📱 Product Management (Finance): 1 | 🤝 Sales (Financial Services): 7
 
 ---
 
@@ -1034,7 +1034,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🏢 Corporate Finance (42 open)
+## 🏢 Corporate Finance (43 open)
 
 <table>
 <tr>
@@ -1043,6 +1043,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Date Posted</th>
+</tr>
+<tr>
+<td>**Stripe**</td>
+<td>Tech Operations Associate, New Grad (Mexico)</td>
+<td>Mexico City, Mexico</td>
+<td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=7718947"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2026-04-17</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
@@ -1579,7 +1586,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: April 17, 2026 at 09:26 AM**
+**Last updated: April 18, 2026 at 09:00 AM**
 
 This list is maintained by the community. Star this repo to get notified of updates!
 
