@@ -1,5 +1,20 @@
 [
   {
+    "company": "Point72",
+    "role": "Business Analyst, Operations",
+    "location": "United States",
+    "url": "https://boards.greenhouse.io/point72/jobs/8487609002?gh_jid=8487609002",
+    "date_posted": "2026-05-14",
+    "category": "Financial Technology",
+    "source": "greenhouse",
+    "is_closed": false,
+    "requires_visa_sponsorship": true,
+    "us_citizenship_required": false,
+    "company_url": null,
+    "tags": [],
+    "date_added": "2026-05-15"
+  },
+  {
     "company": "Stripe",
     "role": "Operations Associate, New Grad (Mexico)",
     "location": "Mexico City, Mexico",

@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A curated list of **205+ open** new graduate positions in finance for the Class of 2026.
+> A curated list of **206+ open** new graduate positions in finance for the Class of 2026.
 >
 > Covers Investment Banking, Sales & Trading, Consulting, Asset Management, Quantitative Finance, Corporate Finance, Risk, FinTech, Product Management, and Sales roles.
 
@@ -33,15 +33,15 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - [🔢 Quantitative Finance (32)](#quantitative-finance-32-open)
 - [🏢 Corporate Finance (44)](#corporate-finance-44-open)
 - [🛡️ Risk Management (9)](#risk-management-9-open)
-- [💻 Financial Technology (12)](#financial-technology-12-open)
+- [💻 Financial Technology (13)](#financial-technology-13-open)
 - [📱 Product Management (Finance) (1)](#product-management-finance-1-open)
 - [🤝 Sales (Financial Services) (7)](#sales-financial-services-7-open)
 
 ---
 
-**Total listings: 205** | **Open: 205**
+**Total listings: 206** | **Open: 206**
 
-🏦 Investment Banking: 46 | 📊 Sales & Trading: 7 | 💼 Consulting: 21 | 📈 Asset Management: 26 | 🔢 Quantitative Finance: 32 | 🏢 Corporate Finance: 44 | 🛡️ Risk Management: 9 | 💻 Financial Technology: 12 | 📱 Product Management (Finance): 1 | 🤝 Sales (Financial Services): 7
+🏦 Investment Banking: 46 | 📊 Sales & Trading: 7 | 💼 Consulting: 21 | 📈 Asset Management: 26 | 🔢 Quantitative Finance: 32 | 🏢 Corporate Finance: 44 | 🛡️ Risk Management: 9 | 💻 Financial Technology: 13 | 📱 Product Management (Finance): 1 | 🤝 Sales (Financial Services): 7
 
 ---
 
@@ -1431,7 +1431,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 💻 Financial Technology (12 open)
+## 💻 Financial Technology (13 open)
 
 <table>
 <tr>
@@ -1440,6 +1440,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Date Posted</th>
+</tr>
+<tr>
+<td>**Point72**</td>
+<td>Business Analyst, Operations</td>
+<td>United States</td>
+<td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8487609002?gh_jid=8487609002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2026-05-14</td>
 </tr>
 <tr>
 <td>**Kikoff**</td>
@@ -1614,7 +1621,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: May 14, 2026 at 10:27 AM**
+**Last updated: May 15, 2026 at 10:33 AM**
 
 This list is maintained by the community. Star this repo to get notified of updates!
 
