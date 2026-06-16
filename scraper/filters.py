@@ -180,7 +180,7 @@ FINANCE_COMPANIES = {
 _NEW_GRAD_TITLE_PATTERNS = [
     r"new\s*grad",
     r"new\s*college\s*grad",
-    r"(?:202[5-7])\s*(?:analyst|associate|graduate|trader|researcher)",
+    r"(?:202[5-8])\s*(?:analyst|associate|graduate|trader|researcher)",
     r"(?:analyst|associate|graduate|trader|researcher)\s*(?:program|programme)",
     r"(?:rotational|rotation)\s*(?:program|analyst|associate)",
     r"(?:analyst|associate)\s*development\s*program",
@@ -189,8 +189,8 @@ _NEW_GRAD_TITLE_PATTERNS = [
     r"university\s*grad",
     r"graduate\s*(?:program|programme|trainee|training|analyst|associate|trader|researcher)",
     r"entry[\s-]*level\s*(?:analyst|associate|consultant|trader)",
-    r"(?:full[\s-]*time)\s*(?:analyst|associate)\s*(?:202[5-7])",
-    r"(?:class\s*of|cohort)\s*202[5-7]",
+    r"(?:full[\s-]*time)\s*(?:analyst|associate)\s*(?:202[5-8])",
+    r"(?:class\s*of|cohort)\s*202[5-8]",
 ]
 
 _NEW_GRAD_TITLE_RE = re.compile(
@@ -203,7 +203,7 @@ _NEW_GRAD_BODY_PATTERNS = [
     r"0[\s-]*(?:1|2|3)\s*years?\s*(?:of\s*)?experience",
     r"(?:bachelor|bs|ba|undergraduate).*(?:require|prefer|degree)",
     r"campus\s*(?:hire|recruit|program)",
-    r"class\s*of\s*202[5-7]",
+    r"class\s*of\s*202[5-8]",
 ]
 
 _NEW_GRAD_BODY_RE = re.compile(
@@ -216,10 +216,12 @@ EXCLUSION_PATTERNS = [
     r"head\s*of\b", r"manager\b(?!.*program)", r"vp\b", r"vice\s*president",
     r"(?:3|4|5|6|7|8|9|10)\+?\s*years", r"experienced\s*hire",
     r"intern\b(?!.*convert)", r"internship\b",
+    r"summer\s*analyst", r"summer\s*associate",
     r"mba\s*(?:require|prefer|hire|recruit)",
     r"phd\s*(?:require|prefer)",
     r"staff\s*(?:engineer|analyst)",
     r"ii\b", r"iii\b", r"level\s*[3-9]",
+    r"apprentice\b", r"learnership\b",
 ]
 
 _EXCLUSION_RE = re.compile("|".join(EXCLUSION_PATTERNS), re.IGNORECASE)
@@ -259,7 +261,7 @@ def classify_role(title: str, description: str = "", company: str = "") -> Optio
     if best_score == 0 and is_finance_company:
         title_lower = title.lower()
         # Only accept titles that look like actual programs, not generic roles
-        if re.search(r"(?:new\s*grad|program|rotational|202[5-7])", title_lower):
+        if re.search(r"(?:new\s*grad|program|rotational|202[5-8])", title_lower):
             if "product" in title_lower and "manage" in title_lower:
                 return "Product Management (Finance)"
             if any(w in title_lower for w in ["sales", "business develop", "relationship"]):
@@ -302,10 +304,10 @@ def is_2026_role(title: str, description: str = "", date_posted: str = "") -> bo
     text = f"{title} {description}".lower()
 
     # Explicit 2025/2026/2027 mention
-    if re.search(r"202[5-7]", text):
+    if re.search(r"202[5-8]", text):
         return True
 
-    # If posted in 2025-2026, likely relevant
+    # If posted in 2025+, likely relevant
     if date_posted:
         try:
             year = int(date_posted[:4])

@@ -1,7 +1,7 @@
 """Generate README.md from job data, matching SimplifyJobs format."""
 
 import json
-from datetime import datetime
+from datetime import datetime, date, timedelta
 from pathlib import Path
 from typing import Dict, List
 
@@ -11,7 +11,6 @@ DATA_DIR = Path(__file__).parent.parent / "data"
 JOBS_FILE = DATA_DIR / "jobs.json"
 README_PATH = Path(__file__).parent.parent / "README.md"
 
-# Category display order and emoji mapping
 CATEGORY_CONFIG = {
     "Investment Banking": {"emoji": "🏦", "order": 1},
     "Sales & Trading": {"emoji": "📊", "order": 2},
@@ -26,8 +25,26 @@ CATEGORY_CONFIG = {
 }
 
 
+def _age_display(date_str: str) -> str:
+    if not date_str:
+        return ""
+    try:
+        posted = date.fromisoformat(date_str)
+        days = (date.today() - posted).days
+        if days < 0:
+            return "0d"
+        if days == 0:
+            return "0d"
+        if days < 7:
+            return f"{days}d"
+        if days < 30:
+            return f"{days // 7}w"
+        return f"{days // 30}mo"
+    except (ValueError, TypeError):
+        return ""
+
+
 def load_jobs() -> List[Job]:
-    """Load jobs from data file."""
     if not JOBS_FILE.exists():
         return []
     with open(JOBS_FILE, "r") as f:
@@ -36,7 +53,6 @@ def load_jobs() -> List[Job]:
 
 
 def group_by_category(jobs: List[Job]) -> Dict[str, List[Job]]:
-    """Group jobs by their category."""
     groups: Dict[str, List[Job]] = {}
     for job in jobs:
         cat = job.category
@@ -47,12 +63,9 @@ def group_by_category(jobs: List[Job]) -> Dict[str, List[Job]]:
 
 
 def format_location(location: str) -> str:
-    """Format location, using collapsible details for multiple locations."""
-    # Split on semicolons to separate distinct locations (e.g., "New York, NY; San Francisco, CA")
     locations = [loc.strip() for loc in location.split(";") if loc.strip()]
     if len(locations) <= 2:
         return "</br>".join(locations)
-    # Collapsible for 3+ locations
     first = locations[0]
     rest = "</br>".join(locations[1:])
     return (
@@ -62,8 +75,6 @@ def format_location(location: str) -> str:
 
 
 def generate_job_row(job: Job) -> str:
-    """Generate a single table row for a job listing."""
-    # Status indicators
     indicators = ""
     if job.is_closed:
         indicators += " 🔒"
@@ -74,7 +85,6 @@ def generate_job_row(job: Job) -> str:
 
     company_display = f"**{job.company}**{indicators}"
 
-    # Application link
     if job.is_closed:
         apply_link = "🔒"
     else:
@@ -87,11 +97,7 @@ def generate_job_row(job: Job) -> str:
 
     location = format_location(job.location)
 
-    # Only show verified posting dates from ATS APIs — not date_added
-    if job.date_posted:
-        date_display = job.date_posted
-    else:
-        date_display = ""
+    age = _age_display(job.date_posted)
 
     return (
         f"<tr>\n"
@@ -99,17 +105,15 @@ def generate_job_row(job: Job) -> str:
         f"<td>{job.role}</td>\n"
         f"<td>{location}</td>\n"
         f"<td>{apply_link}</td>\n"
-        f"<td>{date_display}</td>\n"
+        f"<td>{age}</td>\n"
         f"</tr>"
     )
 
 
 def generate_category_section(category: str, jobs: List[Job]) -> str:
-    """Generate a full category section with table."""
     config = CATEGORY_CONFIG.get(category, {"emoji": "💰", "order": 99})
     emoji = config["emoji"]
 
-    # Open jobs: dated entries newest-first, then undated; then closed
     open_dated = sorted((j for j in jobs if not j.is_closed and j.date_posted),
                         key=lambda j: j.date_posted, reverse=True)
     open_undated = [j for j in jobs if not j.is_closed and not j.date_posted]
@@ -118,7 +122,6 @@ def generate_category_section(category: str, jobs: List[Job]) -> str:
     jobs[:] = open_dated + open_undated + closed_jobs
 
     rows = "\n".join(generate_job_row(job) for job in jobs)
-
     open_count = sum(1 for j in jobs if not j.is_closed)
 
     return f"""
@@ -130,7 +133,7 @@ def generate_category_section(category: str, jobs: List[Job]) -> str:
 <th>Role</th>
 <th>Location</th>
 <th>Application</th>
-<th>Date Posted</th>
+<th>Age</th>
 </tr>
 {rows}
 </table>
@@ -138,18 +141,15 @@ def generate_category_section(category: str, jobs: List[Job]) -> str:
 
 
 def generate_readme(jobs: List[Job]) -> str:
-    """Generate the full README.md content."""
     total = len(jobs)
     open_count = sum(1 for j in jobs if not j.is_closed)
     groups = group_by_category(jobs)
 
-    # Sort categories by configured order
     sorted_categories = sorted(
         groups.keys(),
         key=lambda c: CATEGORY_CONFIG.get(c, {"order": 99})["order"]
     )
 
-    # Category stats for header
     category_stats = []
     for cat in sorted_categories:
         config = CATEGORY_CONFIG.get(cat, {"emoji": "💰"})
@@ -158,7 +158,6 @@ def generate_readme(jobs: List[Job]) -> str:
 
     stats_str = " | ".join(category_stats)
 
-    # Table of contents
     toc_entries = []
     for cat in sorted_categories:
         config = CATEGORY_CONFIG.get(cat, {"emoji": "💰"})
@@ -168,7 +167,6 @@ def generate_readme(jobs: List[Job]) -> str:
 
     toc = "\n".join(toc_entries)
 
-    # Category sections
     sections = "\n".join(
         generate_category_section(cat, groups[cat])
         for cat in sorted_categories
@@ -178,9 +176,9 @@ def generate_readme(jobs: List[Job]) -> str:
 
     readme = f"""# 2026 New Grad Finance Positions 💰
 
-> A curated list of **{open_count}+ open** new graduate positions in finance for the Class of 2026.
+> A daily-updated list of **{open_count}+ open** new graduate positions in finance for the Class of 2026.
 >
-> Covers Investment Banking, Sales & Trading, Consulting, Asset Management, Quantitative Finance, Corporate Finance, Risk, FinTech, Product Management, and Sales roles.
+> Scraped daily from Greenhouse, Workday, Ashby ATS platforms and SimplifyJobs. Newest listings first.
 
 ---
 
@@ -191,6 +189,8 @@ def generate_readme(jobs: List[Job]) -> str:
 | 🔒 | Application closed |
 | 🛂 | Does not sponsor work visa |
 | 🇺🇸 | Requires U.S. citizenship |
+
+**Age key:** 0d = today, 1d = yesterday, 1w = 1 week ago, 1mo = 1 month ago
 
 ---
 
@@ -221,9 +221,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 **Last updated: {now}**
 
-This list is maintained by the community. Star this repo to get notified of updates!
+This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
-Data is automatically scraped from Greenhouse, Lever, and Workday ATS platforms and supplemented with community contributions.
+Star this repo to get notified of updates!
 
 </div>
 """
@@ -231,7 +231,6 @@ Data is automatically scraped from Greenhouse, Lever, and Workday ATS platforms 
 
 
 def run():
-    """Load jobs and generate README."""
     jobs = load_jobs()
     readme_content = generate_readme(jobs)
     with open(README_PATH, "w") as f:
