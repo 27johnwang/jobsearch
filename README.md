@@ -79,7 +79,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Risk, Compliance, and Legal Engineering - Analyst/Associate</td>
 <td>Greenwich, CT</td>
 <td><div align="center"><a href="https://careers.aqr.com/jobs?gh_jid=7949927&gh_jid=7949927"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 <tr>
 <td>**AQR Capital Management**</td>
@@ -106,14 +106,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Point72 Fund Flow Analyst</td>
 <td>New York, Stamford, London</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8003977002?gh_jid=8003977002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td>**TransMarket Group**</td>
 <td>Junior Quantitative Trader</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 <tr>
 <td>**Akuna Capital**</td>
@@ -147,14 +147,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Software Engineer New Grad</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=7991718"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td>**Barclays**</td>
 <td>Technology Developer Graduate Programme 2026 Prague</td>
 <td>Gemini Building B, Prague</td>
 <td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-B-Prague/Technology-Developer-Graduate-Programme-2026-Prague_JR-0000068287"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>1w</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
@@ -196,7 +196,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>2027 New Graduate, Corporate Actions, Associate 1</td>
 <td>Fukuoka, Japan</td>
 <td><div align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Fukuoka-Japan/XMLNAME-2026-New-Graduate--Corporate-Actions--Associate-1_R-784582"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Citigroup**</td>
@@ -223,21 +223,21 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Brex Rotational Program</td>
 <td>Vancouver, British Columbia, Canada</td>
 <td><div align="center"><a href="https://www.brex.com/careers/8516004002?gh_jid=8516004002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>1w</td>
 </tr>
 <tr>
 <td>**Brex**</td>
 <td>Brex Rotational Program</td>
 <td>São Paulo, São Paulo, Brazil</td>
 <td><div align="center"><a href="https://www.brex.com/careers/8516002002?gh_jid=8516002002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>1w</td>
 </tr>
 <tr>
 <td>**Brex**</td>
 <td>Brex Rotational Program</td>
 <td>Salt Lake City, Utah, United States</td>
 <td><div align="center"><a href="https://www.brex.com/careers/8516003002?gh_jid=8516003002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>1w</td>
 </tr>
 </table>
 
@@ -257,7 +257,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Business Analyst, Operations</td>
 <td>United States</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8487609002?gh_jid=8487609002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 </table>
 
@@ -286,7 +286,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: June 16, 2026 at 08:59 PM**
+**Last updated: June 17, 2026 at 12:22 PM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
