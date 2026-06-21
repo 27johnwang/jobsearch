@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A daily-updated list of **23+ open** new graduate positions in finance for the Class of 2026.
+> A daily-updated list of **24+ open** new graduate positions in finance for the Class of 2026.
 >
 > Scraped daily from Greenhouse, Workday, Ashby ATS platforms and SimplifyJobs. Newest listings first.
 
@@ -31,16 +31,16 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - [📊 Sales & Trading (1)](#sales--trading-1-open)
 - [📈 Asset Management (2)](#asset-management-2-open)
 - [🔢 Quantitative Finance (4)](#quantitative-finance-4-open)
-- [🏢 Corporate Finance (11)](#corporate-finance-11-open)
+- [🏢 Corporate Finance (12)](#corporate-finance-12-open)
 - [🛡️ Risk Management (3)](#risk-management-3-open)
 - [💻 Financial Technology (1)](#financial-technology-1-open)
 - [🤝 Sales (Financial Services) (1)](#sales-financial-services-1-open)
 
 ---
 
-**Total listings: 23** | **Open: 23**
+**Total listings: 24** | **Open: 24**
 
-📊 Sales & Trading: 1 | 📈 Asset Management: 2 | 🔢 Quantitative Finance: 4 | 🏢 Corporate Finance: 11 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
+📊 Sales & Trading: 1 | 📈 Asset Management: 2 | 🔢 Quantitative Finance: 4 | 🏢 Corporate Finance: 12 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
 
 ---
 
@@ -132,7 +132,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🏢 Corporate Finance (11 open)
+## 🏢 Corporate Finance (12 open)
 
 <table>
 <tr>
@@ -147,14 +147,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Software Engineer, CRD- New Graduate</td>
 <td>Burlington Massachusetts</td>
 <td><div align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792654"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>**State Street**</td>
 <td>Software Engineer, CRD- New Graduate</td>
 <td>Burlington Massachusetts</td>
 <td><div align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
@@ -211,6 +211,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Fukuoka, Japan</td>
 <td><div align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Fukuoka-Japan/XMLNAME-2026-New-Graduate--Corporate-Actions--Associate-1_R-784582"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1mo</td>
+</tr>
+<tr>
+<td>**Citigroup**</td>
+<td>2025 Corporate Banking Full Time Analyst Program - Mexico</td>
+<td>Ciudad De Mexico Distrito Federal Mexico</td>
+<td><div align="center"><a href="https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/XMLNAME-2025-Corporate-Banking-Full-Time-Analyst-Program---Mexico_24801282"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td></td>
 </tr>
 <tr>
 <td>**Citigroup**</td>
@@ -300,7 +307,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: June 20, 2026 at 07:44 PM**
+**Last updated: June 21, 2026 at 11:21 AM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
