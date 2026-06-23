@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A daily-updated list of **24+ open** new graduate positions in finance for the Class of 2026.
+> A daily-updated list of **25+ open** new graduate positions in finance for the Class of 2026.
 >
 > Scraped daily from Greenhouse, Workday, Ashby ATS platforms and SimplifyJobs. Newest listings first.
 
@@ -31,16 +31,16 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - [📊 Sales & Trading (1)](#sales--trading-1-open)
 - [📈 Asset Management (2)](#asset-management-2-open)
 - [🔢 Quantitative Finance (4)](#quantitative-finance-4-open)
-- [🏢 Corporate Finance (12)](#corporate-finance-12-open)
+- [🏢 Corporate Finance (13)](#corporate-finance-13-open)
 - [🛡️ Risk Management (3)](#risk-management-3-open)
 - [💻 Financial Technology (1)](#financial-technology-1-open)
 - [🤝 Sales (Financial Services) (1)](#sales-financial-services-1-open)
 
 ---
 
-**Total listings: 24** | **Open: 24**
+**Total listings: 25** | **Open: 25**
 
-📊 Sales & Trading: 1 | 📈 Asset Management: 2 | 🔢 Quantitative Finance: 4 | 🏢 Corporate Finance: 12 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
+📊 Sales & Trading: 1 | 📈 Asset Management: 2 | 🔢 Quantitative Finance: 4 | 🏢 Corporate Finance: 13 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
 
 ---
 
@@ -132,7 +132,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🏢 Corporate Finance (12 open)
+## 🏢 Corporate Finance (13 open)
 
 <table>
 <tr>
@@ -141,6 +141,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Robinhood**</td>
+<td>Customer Experience Associate (New Grad)</td>
+<td>Denver, CO</br>Westlake, TX</td>
+<td><div align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**State Street**</td>
@@ -307,7 +314,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: June 23, 2026 at 11:24 AM**
+**Last updated: June 23, 2026 at 08:12 PM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
