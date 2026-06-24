@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A daily-updated list of **25+ open** new graduate positions in finance for the Class of 2026.
+> A daily-updated list of **26+ open** new graduate positions in finance for the Class of 2026.
 >
 > Scraped daily from Greenhouse, Workday, Ashby ATS platforms and SimplifyJobs. Newest listings first.
 
@@ -31,16 +31,16 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - [📊 Sales & Trading (1)](#sales--trading-1-open)
 - [📈 Asset Management (2)](#asset-management-2-open)
 - [🔢 Quantitative Finance (4)](#quantitative-finance-4-open)
-- [🏢 Corporate Finance (13)](#corporate-finance-13-open)
+- [🏢 Corporate Finance (14)](#corporate-finance-14-open)
 - [🛡️ Risk Management (3)](#risk-management-3-open)
 - [💻 Financial Technology (1)](#financial-technology-1-open)
 - [🤝 Sales (Financial Services) (1)](#sales-financial-services-1-open)
 
 ---
 
-**Total listings: 25** | **Open: 25**
+**Total listings: 26** | **Open: 26**
 
-📊 Sales & Trading: 1 | 📈 Asset Management: 2 | 🔢 Quantitative Finance: 4 | 🏢 Corporate Finance: 13 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
+📊 Sales & Trading: 1 | 📈 Asset Management: 2 | 🔢 Quantitative Finance: 4 | 🏢 Corporate Finance: 14 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
 
 ---
 
@@ -79,7 +79,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Risk, Compliance, and Legal Engineering - Analyst/Associate</td>
 <td>Greenwich, CT</td>
 <td><div align="center"><a href="https://careers.aqr.com/jobs?gh_jid=7949927&gh_jid=7949927"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**AQR Capital Management**</td>
@@ -113,7 +113,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Junior Quantitative Trader</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**Akuna Capital**</td>
@@ -132,7 +132,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🏢 Corporate Finance (13 open)
+## 🏢 Corporate Finance (14 open)
 
 <table>
 <tr>
@@ -143,25 +143,32 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Age</th>
 </tr>
 <tr>
+<td>**Stripe**</td>
+<td>Monetization Operations Analyst</td>
+<td>IN - Bengaluru</td>
+<td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8021192"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td>**Robinhood**</td>
 <td>Customer Experience Associate (New Grad)</td>
 <td>Denver, CO</br>Westlake, TX</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td>**State Street**</td>
 <td>Software Engineer, CRD- New Graduate</td>
 <td>Burlington Massachusetts</td>
 <td><div align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792654"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td>**State Street**</td>
 <td>Software Engineer, CRD- New Graduate</td>
 <td>Burlington Massachusetts</td>
 <td><div align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
@@ -175,7 +182,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Technology Developer Graduate Programme 2026 Prague</td>
 <td>Gemini Building B, Prague</td>
 <td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-B-Prague/Technology-Developer-Graduate-Programme-2026-Prague_JR-0000068287"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
@@ -251,21 +258,21 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Brex Rotational Program</td>
 <td>Vancouver, British Columbia, Canada</td>
 <td><div align="center"><a href="https://www.brex.com/careers/8516004002?gh_jid=8516004002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 <tr>
 <td>**Brex**</td>
 <td>Brex Rotational Program</td>
 <td>São Paulo, São Paulo, Brazil</td>
 <td><div align="center"><a href="https://www.brex.com/careers/8516002002?gh_jid=8516002002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 <tr>
 <td>**Brex**</td>
 <td>Brex Rotational Program</td>
 <td>Salt Lake City, Utah, United States</td>
 <td><div align="center"><a href="https://www.brex.com/careers/8516003002?gh_jid=8516003002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 </table>
 
@@ -314,7 +321,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: June 23, 2026 at 08:12 PM**
+**Last updated: June 24, 2026 at 10:57 AM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
