@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>floorplan3d</title>
+    <style>
+      :root { color-scheme: light dark; font-family: system-ui, sans-serif; }
+      body { margin: 0; display: flex; height: 100vh; }
+      #panel { width: 320px; padding: 16px; box-sizing: border-box; overflow-y: auto; border-right: 1px solid #8884; }
+      #viewer { flex: 1; position: relative; }
+      h1 { font-size: 18px; }
+      button { width: 100%; padding: 10px; margin: 6px 0; cursor: pointer; }
+      .palette { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 8px; }
+      .swatch { width: 28px; height: 28px; border-radius: 4px; border: 1px solid #0002; }
+      .status { font-size: 13px; opacity: 0.8; white-space: pre-wrap; }
+      label { font-size: 13px; display: block; margin-top: 12px; }
+    </style>
+  </head>
+  <body>
+    <div id="panel">
+      <h1>🏠 floorplan3d</h1>
+      <label>1. Floor-plan image
+        <input type="file" id="file" accept="image/*" />
+      </label>
+      <button id="detectBtn">Detect walls &amp; build 3D</button>
+
+      <label>Inspiration query
+        <input type="text" id="inspoQuery" value="scandinavian living room" />
+      </label>
+      <button id="paletteBtn">Get palette (Unsplash)</button>
+      <div class="palette" id="palette"></div>
+
+      <p class="status" id="status">Upload a floor plan to begin.</p>
+    </div>
+    <div id="viewer"></div>
+
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+        }
+      }
+    </script>
+    <script type="module" src="/viewer.js"></script>
+  </body>
+</html>
