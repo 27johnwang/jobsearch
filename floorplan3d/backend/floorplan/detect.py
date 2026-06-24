@@ -1,13 +1,17 @@
 """First-pass wall detection from a floor-plan raster image.
 
-This is deliberately a *heuristic*, not a trained model. Walls in a typical
-floor plan are the thick dark lines; we threshold them, thin the result, and
-pull straight segments out with a probabilistic Hough transform.
+This is a *heuristic*, not a trained model. Walls in a typical floor plan are
+the thick dark lines; we threshold them and pull straight segments out with a
+probabilistic Hough transform, then clean up the raw output:
 
-Accuracy on arbitrary real-world plans is limited — that's expected. The
-output is meant to be reviewed and nudged in a manual-correction step before
-extrusion (see Roadmap). The data contract below is what the rest of the
-pipeline depends on, so keep it stable even as the detector improves.
+  1. snap near-axis segments to true horizontal / vertical
+  2. merge collinear, overlapping segments (Hough emits many duplicates)
+  3. snap nearby endpoints together so corners actually meet
+  4. estimate a single wall thickness from the binary image
+
+The cleanup is what makes the result usable downstream — raw Hough output is
+a noisy thicket of overlapping fragments. Output is still meant to be reviewed
+in a manual-correction step (see Roadmap); the data contract is stable.
 """
 
 from __future__ import annotations
@@ -31,7 +35,7 @@ class WallSegment:
     y1: float
     x2: float
     y2: float
-    thickness: float = 6.0  # pixels; refined later or by the user
+    thickness: float = 6.0  # pixels; estimated from the image when possible
 
     def length(self) -> float:
         return float(np.hypot(self.x2 - self.x1, self.y2 - self.y1))
@@ -92,9 +96,15 @@ def detect_walls(image_bytes: bytes, min_wall_length: int = 40) -> DetectionResu
             walls.append(WallSegment(float(x1), float(y1), float(x2), float(y2)))
 
     walls = _snap_to_axes(walls)
+    walls = _merge_collinear(walls)
+    walls = _snap_junctions(walls)
 
     if not walls:
         return _fallback_rectangle(image_bytes, width=w, height=h)
+
+    thickness = _estimate_thickness(binary, walls)
+    for wseg in walls:
+        wseg.thickness = thickness
 
     return DetectionResult(walls=walls, image_width=w, image_height=h)
 
@@ -109,13 +119,112 @@ def _snap_to_axes(walls: List[WallSegment], tol_deg: float = 8.0) -> List[WallSe
         angle = np.degrees(np.arctan2(wseg.y2 - wseg.y1, wseg.x2 - wseg.x1)) % 180
         if angle < tol_deg or angle > 180 - tol_deg:
             y = (wseg.y1 + wseg.y2) / 2
-            snapped.append(WallSegment(wseg.x1, y, wseg.x2, y, wseg.thickness))
+            snapped.append(WallSegment(min(wseg.x1, wseg.x2), y, max(wseg.x1, wseg.x2), y))
         elif abs(angle - 90) < tol_deg:
             x = (wseg.x1 + wseg.x2) / 2
-            snapped.append(WallSegment(x, wseg.y1, x, wseg.y2, wseg.thickness))
+            snapped.append(WallSegment(x, min(wseg.y1, wseg.y2), x, max(wseg.y1, wseg.y2)))
         else:
             snapped.append(wseg)  # keep diagonals as-is
     return snapped
+
+
+def _merge_collinear(
+    walls: List[WallSegment], pos_tol: float = 6.0, gap_tol: float = 25.0
+) -> List[WallSegment]:
+    """Collapse the many overlapping Hough fragments into single walls.
+
+    Horizontals are bucketed by shared row (y), verticals by shared column (x);
+    within a bucket, segments whose spans touch or nearly touch are merged.
+    Diagonals are passed through untouched.
+    """
+    horiz = [w for w in walls if w.y1 == w.y2]
+    vert = [w for w in walls if w.x1 == w.x2]
+    diag = [w for w in walls if w.y1 != w.y2 and w.x1 != w.x2]
+
+    merged: List[WallSegment] = []
+    merged += _merge_axis(horiz, axis="h", pos_tol=pos_tol, gap_tol=gap_tol)
+    merged += _merge_axis(vert, axis="v", pos_tol=pos_tol, gap_tol=gap_tol)
+    merged += diag
+    return merged
+
+
+def _merge_axis(segs, axis, pos_tol, gap_tol):
+    """Merge axis-aligned segments. ``axis`` is 'h' (rows) or 'v' (columns)."""
+    if not segs:
+        return []
+
+    def pos(s):       # the shared coordinate (row for h, column for v)
+        return s.y1 if axis == "h" else s.x1
+
+    def span(s):      # (lo, hi) along the varying axis
+        return (s.x1, s.x2) if axis == "h" else (s.y1, s.y2)
+
+    out = []
+    for s in sorted(segs, key=pos):
+        placed = False
+        for m in out:
+            if abs(pos(m) - pos(s)) > pos_tol:
+                continue
+            mlo, mhi = span(m)
+            slo, shi = span(s)
+            if slo <= mhi + gap_tol and mlo <= shi + gap_tol:  # touch / overlap
+                lo, hi = min(mlo, slo), max(mhi, shi)
+                p = (pos(m) + pos(s)) / 2
+                if axis == "h":
+                    m.x1, m.x2, m.y1, m.y2 = lo, hi, p, p
+                else:
+                    m.y1, m.y2, m.x1, m.x2 = lo, hi, p, p
+                placed = True
+                break
+        if not placed:
+            out.append(WallSegment(s.x1, s.y1, s.x2, s.y2))
+    return out
+
+
+def _snap_junctions(walls: List[WallSegment], tol: float = 14.0) -> List[WallSegment]:
+    """Pull nearby endpoints onto a shared point so corners connect cleanly."""
+    pts = []
+    for w in walls:
+        pts.append((w.x1, w.y1))
+        pts.append((w.x2, w.y2))
+    pts = np.array(pts, dtype=float)
+    if len(pts) == 0:
+        return walls
+
+    # Greedy clustering: assign each point to the first cluster within tol.
+    centers: List[np.ndarray] = []
+    mapping = []
+    for p in pts:
+        for i, c in enumerate(centers):
+            if np.hypot(*(p - c)) <= tol:
+                mapping.append(i)
+                break
+        else:
+            mapping.append(len(centers))
+            centers.append(p.copy())
+
+    # Recompute each cluster center as the mean of its members.
+    sums = {i: [np.zeros(2), 0] for i in set(mapping)}
+    for p, i in zip(pts, mapping):
+        sums[i][0] += p
+        sums[i][1] += 1
+    means = {i: s / n for i, (s, n) in sums.items()}
+
+    out = []
+    for k, w in enumerate(walls):
+        a = means[mapping[2 * k]]
+        b = means[mapping[2 * k + 1]]
+        out.append(WallSegment(a[0], a[1], b[0], b[1], w.thickness))
+    return out
+
+
+def _estimate_thickness(binary: np.ndarray, walls: List[WallSegment]) -> float:
+    """Rough wall thickness: foreground area divided by total wall length."""
+    total_len = sum(w.length() for w in walls)
+    if total_len <= 0:
+        return 6.0
+    fg_area = float(np.count_nonzero(binary))
+    return float(np.clip(fg_area / total_len, 3.0, 30.0))
 
 
 def _fallback_rectangle(image_bytes: bytes, width: int = 800, height: int = 600) -> DetectionResult:

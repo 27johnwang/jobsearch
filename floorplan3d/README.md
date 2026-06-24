@@ -61,9 +61,13 @@ API keys**. Keys only unlock Unsplash palettes and Sketchfab furniture.
 
 ## Roadmap
 
-- [ ] Manual wall-correction UI (detection is approximate on real images)
+- [x] Wall cleanup: collinear-merge, junction snapping, thickness estimation
+- [x] Merged single-mesh GLB with PBR materials (smaller, better lit)
+- [x] Room segmentation (flood-fill) + area-ranked type guess
+- [x] Furniture placement: anchor item per room, real GLB or sized placeholder
+- [x] Palette → wall/floor colors; viewer shadows + IBL
+- [ ] Manual wall-correction UI (detection is still approximate on real images)
 - [ ] Scale calibration (pixels → meters) from a known dimension
-- [ ] Room segmentation + room-type classification
-- [ ] Smarter furniture layout (clearance, orientation, traffic flow)
+- [ ] Smarter layout (multiple items, clearance, traffic flow)
 - [ ] Style matching from inspo images (not just palette)
 - [ ] Persisted projects / save & share

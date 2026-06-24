@@ -23,6 +23,8 @@ from pydantic import BaseModel
 
 from .floorplan.detect import DetectionResult, WallSegment, detect_walls
 from .floorplan.model3d import build_model, export_glb
+from .floorplan.rooms import detect_rooms
+from .furniture.layout import plan_layout
 
 load_dotenv()
 
@@ -50,6 +52,8 @@ class GenerateIn(BaseModel):
     image_height: int
     pixels_per_meter: float = 50.0
     ceiling_height_m: float = 2.7
+    wall_color: str | None = None
+    floor_color: str | None = None
 
 
 # ---- pipeline endpoints -----------------------------------------------------
@@ -74,7 +78,12 @@ async def generate(payload: GenerateIn):
         image_height=payload.image_height,
         pixels_per_meter=payload.pixels_per_meter,
     )
-    scene = build_model(det, ceiling_height_m=payload.ceiling_height_m)
+    scene = build_model(
+        det,
+        ceiling_height_m=payload.ceiling_height_m,
+        wall_color=payload.wall_color,
+        floor_color=payload.floor_color,
+    )
     glb = export_glb(scene)
 
     out = MODELS / "latest.glb"
@@ -106,6 +115,35 @@ async def furniture_search(q: str):
         return {"query": q, "results": search_furniture(q)}
     except SketchfabError as e:
         raise HTTPException(503, str(e))
+
+
+@app.post("/api/furniture/plan")
+async def furniture_plan(payload: GenerateIn):
+    """Detect rooms from the walls, plan furniture, and (if Sketchfab is
+    configured) resolve a downloadable GLB per item. Without a key, items come
+    back with empty ``model_url`` so the viewer renders sized placeholders."""
+    det = DetectionResult(
+        walls=[WallSegment(w.x1, w.y1, w.x2, w.y2, w.thickness) for w in payload.walls],
+        image_width=payload.image_width,
+        image_height=payload.image_height,
+        pixels_per_meter=payload.pixels_per_meter,
+    )
+    rooms = [r.to_dict() for r in detect_rooms(det)]
+    placements = plan_layout(rooms)
+
+    # Resolve real models only if a token is present; cache per query.
+    if os.getenv("SKETCHFAB_API_TOKEN"):
+        from .furniture.sketchfab import download_url, search_furniture
+
+        cache: dict[str, str] = {}
+        for p in placements:
+            q = p["query"]
+            if q not in cache:
+                hits = search_furniture(q, count=1)
+                cache[q] = (download_url(hits[0]["uid"]) or "") if hits else ""
+            p["model_url"] = cache[q]
+
+    return {"rooms": rooms, "placements": placements}
 
 
 @app.get("/api/health")
