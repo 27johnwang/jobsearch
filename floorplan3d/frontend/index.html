@@ -3,37 +3,122 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>floorplan3d</title>
+    <title>floorplan3d — drop a floor plan, get a furnished 3D model</title>
     <style>
-      :root { color-scheme: light dark; font-family: system-ui, sans-serif; }
-      body { margin: 0; display: flex; height: 100vh; }
-      #panel { width: 320px; padding: 16px; box-sizing: border-box; overflow-y: auto; border-right: 1px solid #8884; }
+      :root {
+        --bg: #0f1115; --panel: #171a21; --line: #2a2f3a;
+        --text: #e6e8ec; --muted: #9aa3b2; --accent: #6aa0ff; --accent2: #c77f5a;
+        color-scheme: dark;
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      }
+      * { box-sizing: border-box; }
+      body { margin: 0; height: 100vh; background: var(--bg); color: var(--text); overflow: hidden; }
+
+      /* layout: left rail + viewer */
+      #app { display: flex; height: 100vh; }
+      #rail {
+        width: 320px; flex-shrink: 0; background: var(--panel);
+        border-right: 1px solid var(--line); padding: 20px; overflow-y: auto;
+        display: flex; flex-direction: column; gap: 18px;
+      }
       #viewer { flex: 1; position: relative; }
-      h1 { font-size: 18px; }
-      button { width: 100%; padding: 10px; margin: 6px 0; cursor: pointer; }
-      .palette { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 8px; }
-      .swatch { width: 28px; height: 28px; border-radius: 4px; border: 1px solid #0002; }
-      .status { font-size: 13px; opacity: 0.8; white-space: pre-wrap; }
-      label { font-size: 13px; display: block; margin-top: 12px; }
+
+      h1 { font-size: 17px; margin: 0; display: flex; align-items: center; gap: 8px; }
+      h1 small { color: var(--muted); font-weight: 400; font-size: 12px; }
+      .section-label { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin-bottom: 6px; }
+
+      /* dropzone */
+      #dropzone {
+        border: 2px dashed var(--line); border-radius: 12px; padding: 26px 16px;
+        text-align: center; cursor: pointer; transition: border-color .15s, background .15s;
+      }
+      #dropzone:hover { border-color: var(--accent); }
+      #dropzone .icon { font-size: 30px; }
+      #dropzone p { margin: 8px 0 0; color: var(--muted); font-size: 13px; }
+      #dropzone b { color: var(--text); }
+
+      input[type="text"] { width: 100%; padding: 8px 10px; border-radius: 8px;
+        border: 1px solid var(--line); background: #0d0f14; color: var(--text); }
+      button { width: 100%; padding: 10px; border-radius: 8px; border: 1px solid var(--line);
+        background: #1f2430; color: var(--text); cursor: pointer; font-size: 13px; }
+      button:hover { border-color: var(--accent); }
+      button:disabled { opacity: .5; cursor: default; }
+
+      .palette { display: flex; gap: 5px; flex-wrap: wrap; margin-top: 8px; }
+      .swatch { width: 30px; height: 30px; border-radius: 6px; border: 1px solid #fff2; }
+
+      .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+      .stat { background: #0d0f14; border: 1px solid var(--line); border-radius: 8px; padding: 10px; }
+      .stat .n { font-size: 20px; font-weight: 600; }
+      .stat .l { font-size: 11px; color: var(--muted); }
+
+      .status { font-size: 13px; color: var(--muted); min-height: 18px; }
+      .legend { font-size: 12px; color: var(--muted); display: flex; flex-direction: column; gap: 4px; }
+      .legend .row { display: flex; align-items: center; gap: 6px; }
+      .legend .dot { width: 11px; height: 11px; border-radius: 3px; }
+
+      /* full-window drag overlay */
+      #overlay {
+        position: fixed; inset: 0; display: none; align-items: center; justify-content: center;
+        background: rgba(15,17,21,.85); border: 3px dashed var(--accent); z-index: 50;
+        font-size: 22px; pointer-events: none;
+      }
+      #overlay.show { display: flex; }
+
+      /* processing toast */
+      #proc { position: absolute; left: 50%; top: 18px; transform: translateX(-50%);
+        background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+        padding: 10px 16px; font-size: 13px; display: none; z-index: 20; }
+      #proc.show { display: block; }
+
+      /* first-run hint centered in viewer */
+      #hint { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+        color: var(--muted); text-align: center; pointer-events: none; }
+      #hint.hide { display: none; }
     </style>
   </head>
   <body>
-    <div id="panel">
-      <h1>🏠 floorplan3d</h1>
-      <label>1. Floor-plan image
-        <input type="file" id="file" accept="image/*" />
-      </label>
-      <button id="detectBtn">Detect walls &amp; build 3D</button>
+    <div id="app">
+      <aside id="rail">
+        <h1>🏠 floorplan3d <small>v0.1</small></h1>
 
-      <label>Inspiration query
-        <input type="text" id="inspoQuery" value="scandinavian living room" />
-      </label>
-      <button id="paletteBtn">Get palette (Unsplash)</button>
-      <div class="palette" id="palette"></div>
+        <div>
+          <div class="section-label">Floor plan</div>
+          <div id="dropzone">
+            <div class="icon">📐</div>
+            <p><b>Drop a floor plan</b><br />or click to browse (PNG / JPG)</p>
+          </div>
+          <input type="file" id="file" accept="image/*" hidden />
+        </div>
 
-      <p class="status" id="status">Upload a floor plan to begin.</p>
+        <div>
+          <div class="section-label">Inspiration</div>
+          <input type="text" id="inspoQuery" value="scandinavian living room" />
+          <button id="paletteBtn" style="margin-top:8px">Get palette &amp; recolor</button>
+          <div class="palette" id="palette"></div>
+        </div>
+
+        <div id="resultBox" style="display:none">
+          <div class="section-label">Results</div>
+          <div class="stats">
+            <div class="stat"><div class="n" id="statWalls">–</div><div class="l">walls</div></div>
+            <div class="stat"><div class="n" id="statRooms">–</div><div class="l">rooms</div></div>
+            <div class="stat"><div class="n" id="statItems">–</div><div class="l">furniture</div></div>
+            <div class="stat"><div class="n" id="statReal">–</div><div class="l">real models</div></div>
+          </div>
+          <div class="legend" id="legend" style="margin-top:10px"></div>
+        </div>
+
+        <div class="status" id="status">Drop a floor plan to begin.</div>
+      </aside>
+
+      <main id="viewer">
+        <div id="proc"></div>
+        <div id="hint"><div>📥<br />Drop a floor-plan image anywhere</div></div>
+      </main>
     </div>
-    <div id="viewer"></div>
+
+    <div id="overlay">⬇️ &nbsp;Drop to build your 3D model</div>
 
     <script type="importmap">
       {

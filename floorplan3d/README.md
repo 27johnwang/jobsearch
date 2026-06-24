@@ -46,11 +46,13 @@ python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env        # add your API keys (optional for the core pipeline)
 uvicorn backend.app:app --reload
-# open http://localhost:8000
+# open http://localhost:8000  → drag a floor-plan image onto the page
 ```
 
-The core pipeline (upload → detect → 3D model → viewer) runs **without any
-API keys**. Keys only unlock Unsplash palettes and Sketchfab furniture.
+The web UI is **drag-and-drop**: drop a PNG/JPG anywhere on the page (or click
+the dropzone) and it auto-runs detect → 3D → rooms → furnish, then shows the
+result in an interactive viewer. The core pipeline runs **without any API
+keys**; keys only unlock Unsplash palettes and Sketchfab furniture.
 
 ## Environment variables
 

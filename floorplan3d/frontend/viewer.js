@@ -5,10 +5,13 @@ import { RoomEnvironment } from "three/addons/environments/RoomEnvironment.js";
 
 const viewerEl = document.getElementById("viewer");
 const statusEl = document.getElementById("status");
+const procEl = document.getElementById("proc");
+const hintEl = document.getElementById("hint");
+const overlay = document.getElementById("overlay");
 
 // --- scene setup -------------------------------------------------------------
 const scene = new THREE.Scene();
-scene.background = new THREE.Color(0x1a1a1f);
+scene.background = new THREE.Color(0x0f1115);
 
 const camera = new THREE.PerspectiveCamera(60, 1, 0.1, 1000);
 camera.position.set(8, 8, 8);
@@ -19,7 +22,6 @@ renderer.shadowMap.type = THREE.PCFSoftShadowMap;
 renderer.toneMapping = THREE.ACESFilmicToneMapping;
 viewerEl.appendChild(renderer.domElement);
 
-// Image-based lighting for believable PBR surfaces.
 const pmrem = new THREE.PMREMGenerator(renderer);
 scene.environment = pmrem.fromScene(new RoomEnvironment(), 0.04).texture;
 
@@ -33,15 +35,15 @@ dir.castShadow = true;
 dir.shadow.mapSize.set(2048, 2048);
 Object.assign(dir.shadow.camera, { left: -30, right: 30, top: 30, bottom: -30, near: 1, far: 80 });
 scene.add(dir);
-scene.add(new THREE.GridHelper(60, 60, 0x444444, 0x222222));
+scene.add(new THREE.GridHelper(60, 60, 0x2a2f3a, 0x1c2029));
 
 const loader = new GLTFLoader();
-const buildingGroup = new THREE.Group();   // walls + floor
-const furnitureGroup = new THREE.Group();   // placed items
+const buildingGroup = new THREE.Group();
+const furnitureGroup = new THREE.Group();
 scene.add(buildingGroup, furnitureGroup);
 
-let palette = [];           // hex strings from Unsplash
-let lastDetection = null;   // detection JSON, reused for furnishing
+let palette = [];
+let lastDetection = null;
 
 const KIND_COLOR = {
   bedroom: 0x6a8cc7, living: 0xc77f5a, dining: 0x8a9a5b,
@@ -63,8 +65,11 @@ resize();
   renderer.render(scene, camera);
 })();
 
+// --- ui helpers --------------------------------------------------------------
 function setStatus(msg) { statusEl.textContent = msg; }
+function proc(msg) { procEl.textContent = msg; procEl.classList.toggle("show", !!msg); }
 function clearGroup(g) { while (g.children.length) g.remove(g.children[0]); }
+function setStat(id, v) { document.getElementById(id).textContent = v; }
 
 function enableShadows(obj, { cast = true, receive = true } = {}) {
   obj.traverse((c) => { if (c.isMesh) { c.castShadow = cast; c.receiveShadow = receive; } });
@@ -82,22 +87,49 @@ function frameObject(obj) {
   camera.updateProjectionMatrix();
 }
 
+// --- pipeline ----------------------------------------------------------------
+async function run(file) {
+  if (!file || !file.type.startsWith("image/")) return setStatus("Please drop an image file (PNG/JPG).");
+  hintEl.classList.add("hide");
+  try {
+    proc("① Detecting walls…");
+    const fd = new FormData();
+    fd.append("file", file);
+    lastDetection = await fetch("/api/floorplan/detect", { method: "POST", body: fd }).then((r) => r.json());
+    setStat("statWalls", lastDetection.walls.length);
+
+    proc("② Building 3D model…");
+    const gen = await fetch("/api/model/generate", {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(withColors(lastDetection)),
+    }).then((r) => r.json());
+    await loadBuilding(gen.model_url);
+
+    proc("③ Detecting rooms & furnishing…");
+    await furnish();
+    proc("");
+  } catch (e) {
+    proc("");
+    setStatus(`Something went wrong: ${e}`);
+  }
+}
+
 function loadBuilding(url) {
-  loader.load(`${url}?t=${Date.now()}`, (gltf) => {
-    clearGroup(buildingGroup);
-    enableShadows(gltf.scene);
-    buildingGroup.add(gltf.scene);
-    frameObject(gltf.scene);
-    setStatus("3D model loaded. Furnishing…");
-  }, undefined, (err) => setStatus(`Failed to load model: ${err}`));
+  return new Promise((resolve) => {
+    loader.load(`${url}?t=${Date.now()}`, (gltf) => {
+      clearGroup(buildingGroup);
+      enableShadows(gltf.scene);
+      buildingGroup.add(gltf.scene);
+      frameObject(gltf.scene);
+      resolve();
+    }, undefined, (err) => { setStatus(`Failed to load model: ${err}`); resolve(); });
+  });
 }
 
 // --- furniture ---------------------------------------------------------------
 function placeholderBox(p) {
   const geo = new THREE.BoxGeometry(p.width, p.height, p.depth);
-  const mat = new THREE.MeshStandardMaterial({
-    color: KIND_COLOR[p.kind] ?? 0x888888, roughness: 0.7,
-  });
+  const mat = new THREE.MeshStandardMaterial({ color: KIND_COLOR[p.kind] ?? 0x888888, roughness: 0.7 });
   const mesh = new THREE.Mesh(geo, mat);
   mesh.position.set(p.x, p.height / 2, p.z);
   mesh.rotation.y = p.rotation_y;
@@ -108,9 +140,7 @@ function placeholderBox(p) {
 function placeRealModel(p) {
   loader.load(p.model_url, (gltf) => {
     const obj = gltf.scene;
-    // Scale the asset's bounding box to the planned footprint.
-    const bb = new THREE.Box3().setFromObject(obj);
-    const size = bb.getSize(new THREE.Vector3());
+    const size = new THREE.Box3().setFromObject(obj).getSize(new THREE.Vector3());
     const s = Math.min(p.width / (size.x || 1), p.depth / (size.z || 1), p.height / (size.y || 1));
     obj.scale.setScalar(s);
     obj.position.set(p.x, 0, p.z);
@@ -123,8 +153,7 @@ function placeRealModel(p) {
 async function furnish() {
   if (!lastDetection) return;
   const res = await fetch("/api/furniture/plan", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
+    method: "POST", headers: { "Content-Type": "application/json" },
     body: JSON.stringify(withColors(lastDetection)),
   });
   if (!res.ok) return setStatus(`Furnishing failed: ${(await res.json()).detail}`);
@@ -136,58 +165,82 @@ async function furnish() {
     if (p.model_url) { placeRealModel(p); real++; }
     else furnitureGroup.add(placeholderBox(p));
   }
-  setStatus(
-    `${rooms.length} room(s), ${placements.length} item(s) placed` +
-    (real ? ` (${real} real model(s))` : " (placeholders — add SKETCHFAB_API_TOKEN for real models)")
-  );
+
+  setStat("statRooms", rooms.length);
+  setStat("statItems", placements.length);
+  setStat("statReal", real);
+  document.getElementById("resultBox").style.display = "block";
+  renderLegend(placements);
+  setStatus(real
+    ? `Done — ${real} real model(s) placed.`
+    : "Done — placeholders shown. Add SKETCHFAB_API_TOKEN for real furniture.");
+}
+
+function renderLegend(placements) {
+  const el = document.getElementById("legend");
+  el.innerHTML = "";
+  const kinds = [...new Set(placements.map((p) => p.kind))];
+  for (const k of kinds) {
+    const row = document.createElement("div");
+    row.className = "row";
+    const c = "#" + (KIND_COLOR[k] ?? 0x888888).toString(16).padStart(6, "0");
+    row.innerHTML = `<span class="dot" style="background:${c}"></span> ${k}`;
+    el.appendChild(row);
+  }
 }
 
 // --- palette -> colors -------------------------------------------------------
 function withColors(detection) {
   const body = { ...detection };
   if (palette.length) {
-    body.wall_color = palette[palette.length - 1]; // lightest-ish tone for walls
+    body.wall_color = palette[palette.length - 1];
     body.floor_color = palette[Math.floor(palette.length / 2)];
   }
   return body;
 }
 
-// --- pipeline wiring ---------------------------------------------------------
-document.getElementById("detectBtn").addEventListener("click", async () => {
-  const file = document.getElementById("file").files[0];
-  if (!file) return setStatus("Pick a floor-plan image first.");
+// --- input: drag & drop + click ---------------------------------------------
+const fileInput = document.getElementById("file");
+const dropzone = document.getElementById("dropzone");
 
-  setStatus("Detecting walls…");
-  const fd = new FormData();
-  fd.append("file", file);
-  lastDetection = await fetch("/api/floorplan/detect", { method: "POST", body: fd }).then((r) => r.json());
-  setStatus(`Detected ${lastDetection.walls.length} wall(s). Building 3D…`);
+dropzone.addEventListener("click", () => fileInput.click());
+fileInput.addEventListener("change", () => fileInput.files[0] && run(fileInput.files[0]));
 
-  const gen = await fetch("/api/model/generate", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(withColors(lastDetection)),
-  }).then((r) => r.json());
-
-  loadBuilding(gen.model_url);
-  await furnish();
+let dragDepth = 0; // ignore dragenter/leave bubbling from children
+window.addEventListener("dragenter", (e) => { e.preventDefault(); if (dragDepth++ === 0) overlay.classList.add("show"); });
+window.addEventListener("dragover", (e) => e.preventDefault());
+window.addEventListener("dragleave", (e) => { e.preventDefault(); if (--dragDepth <= 0) { dragDepth = 0; overlay.classList.remove("show"); } });
+window.addEventListener("drop", (e) => {
+  e.preventDefault();
+  dragDepth = 0; overlay.classList.remove("show");
+  const file = e.dataTransfer?.files?.[0];
+  if (file) run(file);
 });
 
+// --- palette button ----------------------------------------------------------
 document.getElementById("paletteBtn").addEventListener("click", async () => {
   const query = document.getElementById("inspoQuery").value;
   setStatus("Fetching palette…");
   const res = await fetch(`/api/inspo/palette?query=${encodeURIComponent(query)}`);
   if (!res.ok) return setStatus(`Palette unavailable: ${(await res.json()).detail}`);
-  const data = await res.json();
-  palette = data.palette;
+  palette = (await res.json()).palette;
   const el = document.getElementById("palette");
   el.innerHTML = "";
   for (const hex of palette) {
     const sw = document.createElement("div");
-    sw.className = "swatch";
-    sw.style.background = hex;
-    sw.title = hex;
+    sw.className = "swatch"; sw.style.background = hex; sw.title = hex;
     el.appendChild(sw);
   }
-  setStatus(`Palette for "${query}" ready. Rebuild to apply it to walls/floor.`);
+  if (lastDetection) {
+    proc("Recoloring…");
+    const gen = await fetch("/api/model/generate", {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(withColors(lastDetection)),
+    }).then((r) => r.json());
+    await loadBuilding(gen.model_url);
+    await furnish();
+    proc("");
+  } else {
+    setStatus("Palette ready. Drop a floor plan to apply it.");
+  }
 });
