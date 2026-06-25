@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import os
 from pathlib import Path
+from typing import List, Optional
 
 from dotenv import load_dotenv
 from fastapi import FastAPI, File, HTTPException, UploadFile
@@ -47,13 +48,13 @@ class WallIn(BaseModel):
 
 
 class GenerateIn(BaseModel):
-    walls: list[WallIn]
+    walls: List[WallIn]
     image_width: int
     image_height: int
     pixels_per_meter: float = 50.0
     ceiling_height_m: float = 2.7
-    wall_color: str | None = None
-    floor_color: str | None = None
+    wall_color: Optional[str] = None
+    floor_color: Optional[str] = None
 
 
 # ---- pipeline endpoints -----------------------------------------------------
