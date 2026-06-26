@@ -106,7 +106,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Point72 Fund Flow Analyst</td>
 <td>New York, Stamford, London</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8003977002?gh_jid=8003977002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 <tr>
 <td>**TransMarket Group**</td>
@@ -147,14 +147,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Monetization Operations Analyst</td>
 <td>IN - Bengaluru</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8021192"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td>**Robinhood**</td>
 <td>Customer Experience Associate (New Grad)</td>
 <td>Denver, CO</br>Westlake, TX</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>**State Street**</td>
@@ -196,28 +196,28 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Operations Associate, New Grad (Mexico)</td>
 <td>Mexico City, Mexico</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=7544547"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
 <td>Software Engineering, New Grad</td>
 <td>Singapore</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=7176977"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
 <td>Tech Operations Associate, New Grad (Mexico)</td>
 <td>Mexico City, Mexico</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=7718947"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**Squarepoint Capital**</td>
 <td>Trading Infrastructure Specialist – Graduate Programme</td>
 <td>London, Montreal, Hong Kong, New York, Singapore</td>
 <td><div align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**State Street**</td>
@@ -292,7 +292,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Business Analyst, Operations</td>
 <td>United States</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8487609002?gh_jid=8487609002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 </table>
 
@@ -321,7 +321,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: June 25, 2026 at 08:08 PM**
+**Last updated: June 26, 2026 at 10:57 AM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
