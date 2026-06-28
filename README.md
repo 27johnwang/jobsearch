@@ -147,14 +147,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Monetization Operations Analyst</td>
 <td>IN - Bengaluru</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8021192"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**Robinhood**</td>
 <td>Customer Experience Associate (New Grad)</td>
 <td>Denver, CO</br>Westlake, TX</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td>**State Street**</td>
@@ -217,7 +217,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Trading Infrastructure Specialist – Graduate Programme</td>
 <td>London, Montreal, Hong Kong, New York, Singapore</td>
 <td><div align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4w</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>**State Street**</td>
@@ -321,7 +321,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: June 27, 2026 at 07:28 PM**
+**Last updated: June 28, 2026 at 10:32 AM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
