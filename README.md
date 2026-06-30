@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A daily-updated list of **26+ open** new graduate positions in finance for the Class of 2026.
+> A daily-updated list of **27+ open** new graduate positions in finance for the Class of 2026.
 >
 > Scraped daily from Greenhouse, Workday, Ashby ATS platforms and SimplifyJobs. Newest listings first.
 
@@ -29,7 +29,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## Categories
 
 - [📊 Sales & Trading (1)](#sales--trading-1-open)
-- [📈 Asset Management (2)](#asset-management-2-open)
+- [📈 Asset Management (3)](#asset-management-3-open)
 - [🔢 Quantitative Finance (4)](#quantitative-finance-4-open)
 - [🏢 Corporate Finance (14)](#corporate-finance-14-open)
 - [🛡️ Risk Management (3)](#risk-management-3-open)
@@ -38,9 +38,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 26** | **Open: 26**
+**Total listings: 27** | **Open: 27**
 
-📊 Sales & Trading: 1 | 📈 Asset Management: 2 | 🔢 Quantitative Finance: 4 | 🏢 Corporate Finance: 14 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
+📊 Sales & Trading: 1 | 📈 Asset Management: 3 | 🔢 Quantitative Finance: 4 | 🏢 Corporate Finance: 14 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
 
 ---
 
@@ -64,7 +64,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 📈 Asset Management (2 open)
+## 📈 Asset Management (3 open)
 
 <table>
 <tr>
@@ -73,6 +73,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**AQR Capital Management**</td>
+<td>Analyst (AQR Capital Management, LLC, Greenwich, CT)</td>
+<td>Greenwich, CT</td>
+<td><div align="center"><a href="https://careers.aqr.com/jobs?gh_jid=8038473&gh_jid=8038473"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**AQR Capital Management**</td>
@@ -321,7 +328,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: June 30, 2026 at 11:16 AM**
+**Last updated: June 30, 2026 at 08:06 PM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
