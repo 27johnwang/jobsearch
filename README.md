@@ -59,7 +59,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Digital Assets Operations Analyst</td>
 <td>New York</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/flowtraders/jobs/7931072"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 </table>
 
@@ -147,14 +147,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Monetization Operations Analyst</td>
 <td>IN - Bengaluru</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8021192"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td>**Robinhood**</td>
 <td>Customer Experience Associate (New Grad)</td>
 <td>Denver, CO</br>Westlake, TX</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>1w</td>
 </tr>
 <tr>
 <td>**State Street**</td>
@@ -312,7 +312,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Sales Commissions Analyst</td>
 <td>Bay Area, CA, United States of America</td>
 <td><div align="center"><a href="http://block.xyz/careers/jobs/5132442008?gh_jid=5132442008"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 </table>
 
@@ -321,7 +321,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: June 29, 2026 at 08:06 PM**
+**Last updated: June 30, 2026 at 11:16 AM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
