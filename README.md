@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A daily-updated list of **29+ open** new graduate positions in finance for the Class of 2026.
+> A daily-updated list of **30+ open** new graduate positions in finance for the Class of 2026.
 >
 > Scraped daily from Greenhouse, Workday, Ashby ATS platforms and SimplifyJobs. Newest listings first.
 
@@ -31,16 +31,16 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - [📊 Sales & Trading (1)](#sales--trading-1-open)
 - [📈 Asset Management (3)](#asset-management-3-open)
 - [🔢 Quantitative Finance (4)](#quantitative-finance-4-open)
-- [🏢 Corporate Finance (16)](#corporate-finance-16-open)
+- [🏢 Corporate Finance (17)](#corporate-finance-17-open)
 - [🛡️ Risk Management (3)](#risk-management-3-open)
 - [💻 Financial Technology (1)](#financial-technology-1-open)
 - [🤝 Sales (Financial Services) (1)](#sales-financial-services-1-open)
 
 ---
 
-**Total listings: 29** | **Open: 29**
+**Total listings: 30** | **Open: 30**
 
-📊 Sales & Trading: 1 | 📈 Asset Management: 3 | 🔢 Quantitative Finance: 4 | 🏢 Corporate Finance: 16 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
+📊 Sales & Trading: 1 | 📈 Asset Management: 3 | 🔢 Quantitative Finance: 4 | 🏢 Corporate Finance: 17 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
 
 ---
 
@@ -139,7 +139,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🏢 Corporate Finance (16 open)
+## 🏢 Corporate Finance (17 open)
 
 <table>
 <tr>
@@ -148,6 +148,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Capital One**</td>
+<td>Software Engineer New Grad - Software Engineer</td>
+<td>Toronto, ON, Canada</td>
+<td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R243795"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**TD Bank**</td>
@@ -342,7 +349,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: July 03, 2026 at 10:45 AM**
+**Last updated: July 03, 2026 at 07:37 PM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
