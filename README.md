@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A daily-updated list of **30+ open** new graduate positions in finance for the Class of 2026.
+> A daily-updated list of **33+ open** new graduate positions in finance for the Class of 2026.
 >
 > Scraped daily from Greenhouse, Workday, Ashby ATS platforms and SimplifyJobs. Newest listings first.
 
@@ -30,7 +30,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 - [📊 Sales & Trading (1)](#sales--trading-1-open)
 - [📈 Asset Management (3)](#asset-management-3-open)
-- [🔢 Quantitative Finance (4)](#quantitative-finance-4-open)
+- [🔢 Quantitative Finance (7)](#quantitative-finance-7-open)
 - [🏢 Corporate Finance (17)](#corporate-finance-17-open)
 - [🛡️ Risk Management (3)](#risk-management-3-open)
 - [💻 Financial Technology (1)](#financial-technology-1-open)
@@ -38,9 +38,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 30** | **Open: 30**
+**Total listings: 33** | **Open: 33**
 
-📊 Sales & Trading: 1 | 📈 Asset Management: 3 | 🔢 Quantitative Finance: 4 | 🏢 Corporate Finance: 17 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
+📊 Sales & Trading: 1 | 📈 Asset Management: 3 | 🔢 Quantitative Finance: 7 | 🏢 Corporate Finance: 17 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
 
 ---
 
@@ -79,7 +79,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Analyst (AQR Capital Management, LLC, Greenwich, CT)</td>
 <td>Greenwich, CT</td>
 <td><div align="center"><a href="https://careers.aqr.com/jobs?gh_jid=8038473&gh_jid=8038473"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td>**AQR Capital Management**</td>
@@ -98,7 +98,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🔢 Quantitative Finance (4 open)
+## 🔢 Quantitative Finance (7 open)
 
 <table>
 <tr>
@@ -107,6 +107,27 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Citadel Securities**</td>
+<td>Quantitative Trader – University Graduate</td>
+<td>Miami, FL</td>
+<td><div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**↳**</td>
+<td>Quantitative Trader – University Graduate</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Citadel**</td>
+<td>Quantitative Research Analyst University Graduate</td>
+<td><details><summary>Greenwich, CT (+2 more)</summary>Miami, FL</br>NYC</details></td>
+<td><div align="center"><a href="https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Point72**</td>
@@ -154,21 +175,21 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Software Engineer New Grad - Software Engineer</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R243795"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>**TD Bank**</td>
 <td>Software Engineer 1 - Financial Planning</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I---Financial-Planning_R_1495272-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**Citi**</td>
 <td>Junior Applications Developer - Programmer Analyst</td>
 <td>Jacksonville, FL</td>
 <td><div align="center"><a href="https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Junior-Applications-Developer---Programmer-Analyst_26971294"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
@@ -217,7 +238,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Monetization Operations Analyst</td>
 <td>IN - Bengaluru</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=7795191"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
@@ -349,7 +370,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: July 05, 2026 at 07:25 PM**
+**Last updated: July 06, 2026 at 12:10 PM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
