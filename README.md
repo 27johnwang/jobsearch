@@ -377,7 +377,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: July 08, 2026 at 10:26 AM**
+**Last updated: July 08, 2026 at 07:40 PM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
