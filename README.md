@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A daily-updated list of **35+ open** new graduate positions in finance for the Class of 2026.
+> A daily-updated list of **36+ open** new graduate positions in finance for the Class of 2026.
 >
 > Scraped daily from Greenhouse, Workday, Ashby ATS platforms and SimplifyJobs. Newest listings first.
 
@@ -30,7 +30,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 - [📊 Sales & Trading (1)](#sales--trading-1-open)
 - [📈 Asset Management (3)](#asset-management-3-open)
-- [🔢 Quantitative Finance (9)](#quantitative-finance-9-open)
+- [🔢 Quantitative Finance (10)](#quantitative-finance-10-open)
 - [🏢 Corporate Finance (17)](#corporate-finance-17-open)
 - [🛡️ Risk Management (3)](#risk-management-3-open)
 - [💻 Financial Technology (1)](#financial-technology-1-open)
@@ -38,9 +38,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 35** | **Open: 35**
+**Total listings: 36** | **Open: 36**
 
-📊 Sales & Trading: 1 | 📈 Asset Management: 3 | 🔢 Quantitative Finance: 9 | 🏢 Corporate Finance: 17 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
+📊 Sales & Trading: 1 | 📈 Asset Management: 3 | 🔢 Quantitative Finance: 10 | 🏢 Corporate Finance: 17 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
 
 ---
 
@@ -98,7 +98,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🔢 Quantitative Finance (9 open)
+## 🔢 Quantitative Finance (10 open)
 
 <table>
 <tr>
@@ -107,6 +107,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Citadel Securities**</td>
+<td>Quantitative Research Analyst – University Graduate</td>
+<td>London, UK</br>Dublin, Ireland</td>
+<td><div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Royal Bank of Canada**</td>
@@ -384,7 +391,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: July 10, 2026 at 11:12 AM**
+**Last updated: July 10, 2026 at 07:40 PM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
