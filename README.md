@@ -113,49 +113,49 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Quantitative Research Analyst – University Graduate</td>
 <td>London, UK</br>Dublin, Ireland</td>
 <td><div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td>**Royal Bank of Canada**</td>
 <td>Quant Rotation Program Associate New Grad</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Quant-New-Grad-Rotation-Program-Associate_R-0000172286"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>**Citadel**</td>
 <td>Quantitative Trader: Equity Quantitative Research – University Graduate</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td>**Citadel Securities**</td>
 <td>Quantitative Trader – University Graduate</td>
 <td>Miami, FL</td>
 <td><div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td>**↳**</td>
 <td>Quantitative Trader – University Graduate</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td>**Citadel**</td>
 <td>Quantitative Research Analyst University Graduate</td>
 <td><details><summary>Greenwich, CT (+2 more)</summary>Miami, FL</br>NYC</details></td>
 <td><div align="center"><a href="https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td>**Point72**</td>
 <td>Point72 Fund Flow Analyst</td>
 <td>New York, Stamford, London</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8003977002?gh_jid=8003977002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4w</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>**TransMarket Group**</td>
@@ -362,7 +362,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Business Analyst, Operations</td>
 <td>United States</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8487609002?gh_jid=8487609002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4w</td>
+<td>1mo</td>
 </tr>
 </table>
 
@@ -391,7 +391,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: July 11, 2026 at 07:12 PM**
+**Last updated: July 12, 2026 at 09:57 AM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
