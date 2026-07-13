@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A daily-updated list of **36+ open** new graduate positions in finance for the Class of 2026.
+> A daily-updated list of **38+ open** new graduate positions in finance for the Class of 2026.
 >
 > Scraped daily from Greenhouse, Workday, Ashby ATS platforms and SimplifyJobs. Newest listings first.
 
@@ -28,9 +28,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Categories
 
-- [📊 Sales & Trading (1)](#sales--trading-1-open)
+- [📊 Sales & Trading (2)](#sales--trading-2-open)
 - [📈 Asset Management (3)](#asset-management-3-open)
-- [🔢 Quantitative Finance (10)](#quantitative-finance-10-open)
+- [🔢 Quantitative Finance (11)](#quantitative-finance-11-open)
 - [🏢 Corporate Finance (17)](#corporate-finance-17-open)
 - [🛡️ Risk Management (3)](#risk-management-3-open)
 - [💻 Financial Technology (1)](#financial-technology-1-open)
@@ -38,13 +38,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 36** | **Open: 36**
+**Total listings: 38** | **Open: 38**
 
-📊 Sales & Trading: 1 | 📈 Asset Management: 3 | 🔢 Quantitative Finance: 10 | 🏢 Corporate Finance: 17 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
+📊 Sales & Trading: 2 | 📈 Asset Management: 3 | 🔢 Quantitative Finance: 11 | 🏢 Corporate Finance: 17 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
 
 ---
 
-## 📊 Sales & Trading (1 open)
+## 📊 Sales & Trading (2 open)
 
 <table>
 <tr>
@@ -53,6 +53,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Akuna Capital**</td>
+<td>Junior Trader</td>
+<td>Chicago</td>
+<td><div align="center"><a href="https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Flow Traders**</td>
@@ -98,7 +105,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🔢 Quantitative Finance (10 open)
+## 🔢 Quantitative Finance (11 open)
 
 <table>
 <tr>
@@ -107,6 +114,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Akuna Capital**</td>
+<td>Junior Quantitative Developer & Strategist</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Citadel Securities**</td>
@@ -391,7 +405,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: July 13, 2026 at 11:20 AM**
+**Last updated: July 13, 2026 at 07:29 PM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
