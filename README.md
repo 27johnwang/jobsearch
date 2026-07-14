@@ -1,6 +1,6 @@
 # 2026 New Grad Finance Positions 💰
 
-> A daily-updated list of **38+ open** new graduate positions in finance for the Class of 2026.
+> A daily-updated list of **41+ open** new graduate positions in finance for the Class of 2026.
 >
 > Scraped daily from Greenhouse, Workday, Ashby ATS platforms and SimplifyJobs. Newest listings first.
 
@@ -30,7 +30,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 - [📊 Sales & Trading (2)](#sales--trading-2-open)
 - [📈 Asset Management (3)](#asset-management-3-open)
-- [🔢 Quantitative Finance (11)](#quantitative-finance-11-open)
+- [🔢 Quantitative Finance (14)](#quantitative-finance-14-open)
 - [🏢 Corporate Finance (17)](#corporate-finance-17-open)
 - [🛡️ Risk Management (3)](#risk-management-3-open)
 - [💻 Financial Technology (1)](#financial-technology-1-open)
@@ -38,9 +38,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 38** | **Open: 38**
+**Total listings: 41** | **Open: 41**
 
-📊 Sales & Trading: 2 | 📈 Asset Management: 3 | 🔢 Quantitative Finance: 11 | 🏢 Corporate Finance: 17 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
+📊 Sales & Trading: 2 | 📈 Asset Management: 3 | 🔢 Quantitative Finance: 14 | 🏢 Corporate Finance: 17 | 🛡️ Risk Management: 3 | 💻 Financial Technology: 1 | 🤝 Sales (Financial Services): 1
 
 ---
 
@@ -59,7 +59,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Junior Trader</td>
 <td>Chicago</td>
 <td><div align="center"><a href="https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td>**Flow Traders**</td>
@@ -86,7 +86,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Analyst (AQR Capital Management, LLC, Greenwich, CT)</td>
 <td>Greenwich, CT</td>
 <td><div align="center"><a href="https://careers.aqr.com/jobs?gh_jid=8038473&gh_jid=8038473"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 <tr>
 <td>**AQR Capital Management**</td>
@@ -105,7 +105,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🔢 Quantitative Finance (11 open)
+## 🔢 Quantitative Finance (14 open)
 
 <table>
 <tr>
@@ -116,32 +116,53 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Age</th>
 </tr>
 <tr>
-<td>**Akuna Capital**</td>
+<td>**Hudson River Trading**</td>
+<td>Algorithm Developer New Grad - Quant Researcher</td>
+<td>NYC</td>
+<td><div align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Akuna Capital University**</td>
+<td>Junior Quantitative Researcher</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**↳**</td>
 <td>Junior Quantitative Developer & Strategist</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
+<td>**Akuna Capital**</td>
+<td>Junior Quantitative Developer & Strategist</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
 <td>**Citadel Securities**</td>
 <td>Quantitative Research Analyst – University Graduate</td>
 <td>London, UK</br>Dublin, Ireland</td>
 <td><div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**Royal Bank of Canada**</td>
 <td>Quant Rotation Program Associate New Grad</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Quant-New-Grad-Rotation-Program-Associate_R-0000172286"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td>**Citadel**</td>
 <td>Quantitative Trader: Equity Quantitative Research – University Graduate</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>1w</td>
 </tr>
 <tr>
 <td>**Citadel Securities**</td>
@@ -238,7 +259,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Customer Experience Associate (New Grad)</td>
 <td>Denver, CO</br>Westlake, TX</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**State Street**</td>
@@ -405,7 +426,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: July 13, 2026 at 07:29 PM**
+**Last updated: July 14, 2026 at 10:05 AM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
