@@ -433,7 +433,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: July 17, 2026 at 10:05 AM**
+**Last updated: July 17, 2026 at 07:17 PM**
 
 This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
