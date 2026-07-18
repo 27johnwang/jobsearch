@@ -16,7 +16,7 @@ from typing import Dict, List, Tuple
 
 from scraper.models import Job
 from scraper.filters import _EXCLUSION_RE
-from scraper.sources import greenhouse, workday, ashby, simplify, linkedin
+from scraper.sources import greenhouse, workday, ashby, simplify, linkedin, oracle_hcm, avature, rss_feeds, smartrecruiters
 
 logger = logging.getLogger(__name__)
 
@@ -122,8 +122,20 @@ def scrape_all_sources() -> List[Job]:
     logger.info("Scraping Workday career sites...")
     all_jobs.extend(workday.scrape_all())
 
+    logger.info("Scraping Oracle HCM Cloud sites...")
+    all_jobs.extend(oracle_hcm.scrape_all())
+
     logger.info("Scraping Ashby boards...")
     all_jobs.extend(ashby.scrape_all())
+
+    logger.info("Scraping Avature career sites...")
+    all_jobs.extend(avature.scrape_all())
+
+    logger.info("Scraping RSS/Atom feeds...")
+    all_jobs.extend(rss_feeds.scrape_all())
+
+    logger.info("Scraping SmartRecruiters...")
+    all_jobs.extend(smartrecruiters.scrape_all())
 
     logger.info("Scraping SimplifyJobs GitHub...")
     all_jobs.extend(simplify.scrape_all())

@@ -1,8 +1,9 @@
 # 2026 New Grad Finance Positions 💰
 
-> A daily-updated list of **165+ open** new graduate positions in finance for the Class of 2026.
+> A daily-updated list of **183+ open** new graduate positions in finance for the Class of 2026.
 >
-> Scraped daily from LinkedIn, Greenhouse, Workday, Ashby, and SimplifyJobs. Newest listings first.
+> Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
+> Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
 
 ---
 
@@ -28,23 +29,24 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Categories
 
-- [🏦 Investment Banking (35)](#investment-banking-35-open)
+- [🏦 Investment Banking (42)](#investment-banking-42-open)
 - [📊 Sales & Trading (10)](#sales--trading-10-open)
-- [📈 Asset Management (19)](#asset-management-19-open)
+- [💼 Consulting (3)](#consulting-3-open)
+- [📈 Asset Management (21)](#asset-management-21-open)
 - [🔢 Quantitative Finance (30)](#quantitative-finance-30-open)
-- [🏢 Corporate Finance (49)](#corporate-finance-49-open)
-- [🛡️ Risk Management (19)](#risk-management-19-open)
+- [🏢 Corporate Finance (54)](#corporate-finance-54-open)
+- [🛡️ Risk Management (20)](#risk-management-20-open)
 - [💻 Financial Technology (3)](#financial-technology-3-open)
 
 ---
 
-**Total listings: 165** | **Open: 165**
+**Total listings: 183** | **Open: 183**
 
-🏦 Investment Banking: 35 | 📊 Sales & Trading: 10 | 📈 Asset Management: 19 | 🔢 Quantitative Finance: 30 | 🏢 Corporate Finance: 49 | 🛡️ Risk Management: 19 | 💻 Financial Technology: 3
+🏦 Investment Banking: 42 | 📊 Sales & Trading: 10 | 💼 Consulting: 3 | 📈 Asset Management: 21 | 🔢 Quantitative Finance: 30 | 🏢 Corporate Finance: 54 | 🛡️ Risk Management: 20 | 💻 Financial Technology: 3
 
 ---
 
-## 🏦 Investment Banking (35 open)
+## 🏦 Investment Banking (42 open)
 
 <table>
 <tr>
@@ -167,6 +169,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>2d</td>
 </tr>
 <tr>
+<td>**RBC**</td>
+<td>Analyst, Global Investment Banking, Business Management</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/analyst-global-investment-banking-business-management-at-rbc-4433059377"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
 <td>**FTP PARTNERS**</td>
 <td>2027 January IBD Full Time Analyst (San Francisco)</td>
 <td>San Francisco, CA</td>
@@ -213,6 +222,20 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Investment Banking Analyst Syndicate - Equity Capital Markets</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-banking-analyst-syndicate-equity-capital-markets-at-william-blair-4438442207"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td>**JPMorgan Chase**</td>
+<td>2027 Global Investment Banking Full Time Analyst Program - Calgary</td>
+<td>Calgary, AB, Canada</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768643"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td>**JPMorgan Chase**</td>
+<td>2027 Global Investment Banking Full Time Analyst Program</td>
+<td><details><summary>Chicago, IL, United States (+6 more)</summary>Houston, TX, United States</br>San Francisco, CA, United States</br>Los Angeles, CA, United States</br>Boston, MA, United States</br>New York, NY, United States</br>Dallas, TX, United States</details></td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768628"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>3d</td>
 </tr>
 <tr>
@@ -265,6 +288,20 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>4d</td>
 </tr>
 <tr>
+<td>**JPMorgan Chase**</td>
+<td>2027 Commercial & Investment Bank Markets Full Time Analyst Program</td>
+<td><details><summary>New York, NY, United States (+3 more)</summary>Chicago, IL, United States</br>Los Angeles, CA, United States</br>Dallas, TX, United States</details></td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762542"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**JPMorgan Chase**</td>
+<td>2027 Commercial & Investment Bank Markets Full-Time Analyst Program - Research</td>
+<td>New York, NY, United States</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763120"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
 <td>**BDO USA**</td>
 <td>Analyst, Investment Banking, BDO Capital Advisors - June 2027 (Richmond)</td>
 <td>Richmond, VA</td>
@@ -298,6 +335,20 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Houston, TX</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-banking-analyst-energy-houston-at-santander-us-4436690008"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1w</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 CIB Investment Banking Analyst Program - Early Careers</td>
+<td>5 Locations</td>
+<td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/XMLNAME-2027-CIB-Investment-Banking-Analyst-Program---Early-Careers_R-556063"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2w</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 CIB Investment Banking Analyst Program - Early Careers (CA)</td>
+<td>SAN FRANCISCO, CA</td>
+<td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-CIB-Investment-Banking-Analyst-Program---Early-Careers--CA-_R-556032"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2w</td>
 </tr>
 </table>
 
@@ -385,7 +436,41 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 📈 Asset Management (19 open)
+## 💼 Consulting (3 open)
+
+<table>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
+</tr>
+<tr>
+<td>**Veeva Systems**</td>
+<td>Associate Business Consultant - Life Sciences R&D and Quality</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/associate-business-consultant-life-sciences-r-d-and-quality-at-veeva-systems-4439829556"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**Veeva Systems**</td>
+<td>Associate Business Consultant - Life Sciences Content</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/associate-business-consultant-life-sciences-content-at-veeva-systems-4439831493"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**Veeva Systems**</td>
+<td>Associate Business Consultant - Life Sciences Commercial</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/associate-business-consultant-life-sciences-commercial-at-veeva-systems-4439834460"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+</table>
+
+
+## 📈 Asset Management (21 open)
 
 <table>
 <tr>
@@ -494,6 +579,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>4d</td>
 </tr>
 <tr>
+<td>**JPMorgan Chase**</td>
+<td>2027 Asset Management Client Full-Time Analyst Program</td>
+<td>New York, NY, United States</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763481"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
 <td>**Goldman Sachs**</td>
 <td>Asset & Wealth Management, Private Wealth Management, Investment Strategy Group, Analyst - Salt Lake City</td>
 <td>Salt Lake City, UT</td>
@@ -520,6 +612,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Philadelphia, PA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/private-equity-analyst-at-talently-4431847544"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6d</td>
+</tr>
+<tr>
+<td>**JPMorgan Chase**</td>
+<td>2027 Asset & Wealth Management Risk Full Time Analyst Program</td>
+<td><details><summary>Columbus, OH, United States (+2 more)</summary>New York, NY, United States</br>San Francisco, CA, United States</details></td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763529"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1w</td>
 </tr>
 <tr>
 <td>**Watershed**</td>
@@ -754,7 +853,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🏢 Corporate Finance (49 open)
+## 🏢 Corporate Finance (54 open)
 
 <table>
 <tr>
@@ -933,6 +1032,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>2d</td>
 </tr>
 <tr>
+<td>**Citi**</td>
+<td>Banking - Commercial Banking, Full Time Analyst, New York City - US, 2027</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/banking-commercial-banking-full-time-analyst-new-york-city-us-2027-at-citi-4440677803"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
 <td>**General Atlantic**</td>
 <td>Class of 2027 Investment Analyst</td>
 <td>New York, NY</td>
@@ -965,6 +1071,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>FP&A Analyst</td>
 <td>Nashville, TN</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/fp-a-analyst-at-ramsey-solutions-4439773795"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td>**ITS Logistics**</td>
+<td>Financial Planning Analyst</td>
+<td>Reno, NV</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/financial-planning-analyst-at-its-logistics-4441253872"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>3d</td>
 </tr>
 <tr>
@@ -1087,6 +1200,27 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>3w</td>
 </tr>
 <tr>
+<td>**Wells Fargo**</td>
+<td>2027 CIB Markets Analyst Program - Early Careers</td>
+<td>4 Locations</td>
+<td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/XMLNAME-2027-CIB-Markets-Analyst-Program---Early-Careers_R-555656"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3w</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 CIB Commercial Real Estate Analyst Program - Early Careers</td>
+<td>4 Locations</td>
+<td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/XMLNAME-2027-CIB-Commercial-Real-Estate-Analyst-Program---Early-Careers_R-555050"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3w</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 CIB Commercial Real Estate Analyst Program - Early Careers (California)</td>
+<td>2 Locations</td>
+<td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LOS-ANGELES-CA/XMLNAME-2027-CIB-Commercial-Real-Estate-Analyst-Program---Early-Careers--California-_R-555140"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3w</td>
+</tr>
+<tr>
 <td>**Squarepoint Capital**</td>
 <td>Trading Infrastructure Specialist – Graduate Programme</td>
 <td>London, Montreal, Hong Kong, New York, Singapore</td>
@@ -1110,7 +1244,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🛡️ Risk Management (19 open)
+## 🛡️ Risk Management (20 open)
 
 <table>
 <tr>
@@ -1233,6 +1367,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>5d</td>
 </tr>
 <tr>
+<td>**JPMorgan Chase**</td>
+<td>2027 Commercial & Investment Bank Risk Management Full-Time Analyst Program</td>
+<td><details><summary>New York, NY, United States (+5 more)</summary>Plano, TX, United States</br>Houston, TX, United States</br>Jersey City, NJ, United States</br>Chicago, IL, United States</br>Los Angeles, CA, United States</details></td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762307"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
 <td>**Brex**</td>
 <td>Brex Rotational Program</td>
 <td>Vancouver, British Columbia, Canada</td>
@@ -1294,9 +1435,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: July 18, 2026 at 07:10 PM**
+**Last updated: July 18, 2026 at 07:33 PM**
 
-This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
+This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
 Star this repo to get notified of updates!
 

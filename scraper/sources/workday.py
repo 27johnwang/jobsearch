@@ -26,16 +26,25 @@ WORKDAY_SITES = [
     ("https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs", "Citigroup"),
     ("https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs", "Morgan Stanley"),
     ("https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/Campus/jobs", "CIBC"),
+    ("https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/lateral-us/jobs", "Bank of America"),
+    ("https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs", "Wells Fargo"),
+    ("https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs", "Northern Trust"),
     # Financial Services
     ("https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs", "Mastercard"),
     ("https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowePrice/jobs", "T. Rowe Price"),
     ("https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Careers/jobs", "Blackstone"),
+    ("https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/Capital_One/jobs", "Capital One"),
+    ("https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs", "Visa"),
+    # Asset Management
+    ("https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs", "Fidelity"),
+    ("https://vanguard.wd5.myworkdayjobs.com/wday/cxs/vanguard/vanguard_external/jobs", "Vanguard"),
+    ("https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs", "BlackRock"),
     # Investment Banking
     ("https://hl.wd1.myworkdayjobs.com/wday/cxs/hl/External/jobs", "Houlihan Lokey"),
     # Consulting
     ("https://guidehouse.wd1.myworkdayjobs.com/wday/cxs/guidehouse/External/jobs", "Guidehouse"),
     ("https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/Global_Experienced_Careers/jobs", "PwC"),
-    # Other
+    # Other Fortune 500
     ("https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/External/jobs", "GlobalFoundries"),
     ("https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs", "Caterpillar"),
 ]

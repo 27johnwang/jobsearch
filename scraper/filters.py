@@ -175,6 +175,9 @@ FINANCE_COMPANIES = {
     "berkshire hathaway", "liberty mutual", "travelers",
     "american express", "amex", "visa", "mastercard",
     "paypal", "discover", "capital one",
+    "northern trust", "ally financial",
+    "bloomberg", "koch industries",
+    "t. rowe price", "vanguard", "fidelity",
 }
 
 # ------------------------------------------------------------------
