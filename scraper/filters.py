@@ -297,15 +297,14 @@ _ENTRY_LEVEL_TITLE_RE = re.compile(
 )
 
 _CAMPUS_PROGRAM_RE = re.compile(
-    r"(?:202[6-9])\s*(?:analyst|associate|graduate|trader|researcher)|"
+    r"\b202[5-9]\b|"
     r"(?:analyst|associate|graduate|trader|researcher)\s*(?:program|programme)|"
     r"(?:rotational|rotation)\s*(?:program|analyst|associate)|"
     r"(?:analyst|associate)\s*development\s*program|"
     r"campus\s*(?:analyst|associate|hire|recruit|program)|"
     r"new\s*grad|new\s*college\s*grad|university\s*grad|"
     r"graduate\s*(?:program|programme|trainee|training)|"
-    r"(?:class\s*of|cohort)\s*202[6-9]|"
-    r"(?:full[\s-]*time)\s*(?:analyst|associate)\s*(?:202[6-9])",
+    r"early[\s-]*career",
     re.IGNORECASE,
 )
 
@@ -318,6 +317,10 @@ _YOE_PATTERN = re.compile(
 def classify_experience(title: str, description: str = "") -> tuple:
     """Classify a job as new_grad or entry_level and return (type, min_years, max_years).
 
+    Only roles with EXPLICIT campus recruiting signals (year class, "program",
+    "rotational", "new grad", "campus") are new_grad. Everything else that
+    passed our filters is entry_level — these are roles suitable for 0-2 YOE.
+
     Returns:
         ("new_grad", 0, 0) for campus recruiting / 2027 programs
         ("entry_level", min, max) for entry-level roles with 0-2 YOE
@@ -325,6 +328,9 @@ def classify_experience(title: str, description: str = "") -> tuple:
     text = f"{title} {description}"
 
     if _CAMPUS_PROGRAM_RE.search(title):
+        return ("new_grad", 0, 0)
+
+    if _CAMPUS_PROGRAM_RE.search(description):
         return ("new_grad", 0, 0)
 
     m = _YOE_PATTERN.search(text)
@@ -336,13 +342,7 @@ def classify_experience(title: str, description: str = "") -> tuple:
         if min_y <= 2:
             return ("entry_level", min_y, min(max_y, 2))
 
-    if _ENTRY_LEVEL_TITLE_RE.search(title):
-        return ("entry_level", 0, 2)
-
-    if _CAMPUS_PROGRAM_RE.search(description):
-        return ("new_grad", 0, 0)
-
-    return ("new_grad", 0, 0)
+    return ("entry_level", 0, 2)
 
 
 def is_new_grad(title: str, description: str = "") -> bool:
@@ -404,14 +404,17 @@ def is_entry_level_role(title: str, description: str = "") -> bool:
 
 
 def is_2026_role(title: str, description: str = "", date_posted: str = "") -> bool:
-    """Check if this is a 2026 new grad role (or recent enough to be relevant)."""
+    """Check if this is a current/relevant role.
+
+    For new-grad programs, we require a year marker or recent post date.
+    For entry-level roles (no year marker), a recent post date is enough,
+    and we also accept roles with no date if they're currently live on ATS.
+    """
     text = f"{title} {description}".lower()
 
-    # Explicit 2025/2026/2027 mention
     if re.search(r"202[5-8]", text):
         return True
 
-    # If posted in 2025+, likely relevant
     if date_posted:
         try:
             year = int(date_posted[:4])
@@ -420,5 +423,8 @@ def is_2026_role(title: str, description: str = "", date_posted: str = "") -> bo
         except (ValueError, IndexError):
             pass
 
-    # Without any signal, default to EXCLUDING (not including)
+    exp_type, _, _ = classify_experience(title, description)
+    if exp_type == "entry_level":
+        return True
+
     return False
