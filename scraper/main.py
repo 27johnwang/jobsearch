@@ -16,7 +16,7 @@ from typing import Dict, List, Tuple
 
 from scraper.models import Job
 from scraper.filters import _EXCLUSION_RE
-from scraper.sources import greenhouse, workday, ashby, simplify
+from scraper.sources import greenhouse, workday, ashby, simplify, linkedin
 
 logger = logging.getLogger(__name__)
 
@@ -112,6 +112,9 @@ def save_jobs(jobs: List[Job]):
 
 def scrape_all_sources() -> List[Job]:
     all_jobs = []
+
+    logger.info("Scraping LinkedIn jobs...")
+    all_jobs.extend(linkedin.scrape_all())
 
     logger.info("Scraping Greenhouse boards...")
     all_jobs.extend(greenhouse.scrape_all())
