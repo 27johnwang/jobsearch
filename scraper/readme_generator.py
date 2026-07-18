@@ -178,7 +178,7 @@ def generate_readme(jobs: List[Job]) -> str:
 
 > A daily-updated list of **{open_count}+ open** new graduate positions in finance for the Class of 2026.
 >
-> Scraped daily from Greenhouse, Workday, Ashby ATS platforms and SimplifyJobs. Newest listings first.
+> Scraped daily from LinkedIn, Greenhouse, Workday, Ashby, and SimplifyJobs. Newest listings first.
 
 ---
 
@@ -221,7 +221,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 **Last updated: {now}**
 
-This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
+This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
 Star this repo to get notified of updates!
 

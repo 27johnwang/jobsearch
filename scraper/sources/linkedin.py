@@ -43,6 +43,15 @@ SEARCH_QUERIES = [
     "financial analyst rotation program",
     "compliance analyst entry level finance",
     "private equity analyst program",
+    "investment banking analyst 2028",
+    "analyst program 2027 full time",
+    "graduate program finance 2027",
+    "wealth management analyst new grad",
+    "credit analyst entry level",
+    "fixed income analyst new grad",
+    "equity research analyst new grad",
+    "fintech analyst new grad 2027",
+    "trader new grad 2027",
 ]
 
 PAGES_PER_QUERY = 3

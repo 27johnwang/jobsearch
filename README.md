@@ -1,8 +1,8 @@
 # 2026 New Grad Finance Positions 💰
 
-> A daily-updated list of **126+ open** new graduate positions in finance for the Class of 2026.
+> A daily-updated list of **165+ open** new graduate positions in finance for the Class of 2026.
 >
-> Scraped daily from Greenhouse, Workday, Ashby ATS platforms and SimplifyJobs. Newest listings first.
+> Scraped daily from LinkedIn, Greenhouse, Workday, Ashby, and SimplifyJobs. Newest listings first.
 
 ---
 
@@ -28,23 +28,23 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Categories
 
-- [🏦 Investment Banking (28)](#investment-banking-28-open)
-- [📊 Sales & Trading (4)](#sales--trading-4-open)
-- [📈 Asset Management (15)](#asset-management-15-open)
-- [🔢 Quantitative Finance (23)](#quantitative-finance-23-open)
-- [🏢 Corporate Finance (36)](#corporate-finance-36-open)
+- [🏦 Investment Banking (35)](#investment-banking-35-open)
+- [📊 Sales & Trading (10)](#sales--trading-10-open)
+- [📈 Asset Management (19)](#asset-management-19-open)
+- [🔢 Quantitative Finance (30)](#quantitative-finance-30-open)
+- [🏢 Corporate Finance (49)](#corporate-finance-49-open)
 - [🛡️ Risk Management (19)](#risk-management-19-open)
-- [💻 Financial Technology (1)](#financial-technology-1-open)
+- [💻 Financial Technology (3)](#financial-technology-3-open)
 
 ---
 
-**Total listings: 126** | **Open: 126**
+**Total listings: 165** | **Open: 165**
 
-🏦 Investment Banking: 28 | 📊 Sales & Trading: 4 | 📈 Asset Management: 15 | 🔢 Quantitative Finance: 23 | 🏢 Corporate Finance: 36 | 🛡️ Risk Management: 19 | 💻 Financial Technology: 1
+🏦 Investment Banking: 35 | 📊 Sales & Trading: 10 | 📈 Asset Management: 19 | 🔢 Quantitative Finance: 30 | 🏢 Corporate Finance: 49 | 🛡️ Risk Management: 19 | 💻 Financial Technology: 3
 
 ---
 
-## 🏦 Investment Banking (28 open)
+## 🏦 Investment Banking (35 open)
 
 <table>
 <tr>
@@ -53,6 +53,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Citi**</td>
+<td>Banking - Capital Markets, Full Time Associate, New York City - US 2027</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/banking-capital-markets-full-time-associate-new-york-city-us-2027-at-citi-4441735372"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Wells Fargo**</td>
@@ -94,6 +101,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Investment Banking ECM Analyst</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-banking-ecm-analyst-at-oppenheimer-co-inc-4424452758"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**Brookfield**</td>
+<td>Analyst / Associate, Capital Markets</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/analyst-associate-capital-markets-at-brookfield-4414917508"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -139,6 +153,20 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>2d</td>
 </tr>
 <tr>
+<td>**The AES Corporation**</td>
+<td>M&A Analyst</td>
+<td>Louisville, CO</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/m-a-analyst-at-the-aes-corporation-4430731532"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>**Citi**</td>
+<td>Banking - Investment Banking, Full Time Associate, New York City - US 2027</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/banking-investment-banking-full-time-associate-new-york-city-us-2027-at-citi-4440763484"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
 <td>**FTP PARTNERS**</td>
 <td>2027 January IBD Full Time Analyst (San Francisco)</td>
 <td>San Francisco, CA</td>
@@ -178,6 +206,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Investment Banking Analyst Syndicate - Equity Capital Markets</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-banking-analyst-syndicate-equity-capital-markets-at-william-blair-4438438448"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td>**William Blair**</td>
+<td>Investment Banking Analyst Syndicate - Equity Capital Markets</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-banking-analyst-syndicate-equity-capital-markets-at-william-blair-4438442207"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>3d</td>
 </tr>
 <tr>
@@ -223,6 +258,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>4d</td>
 </tr>
 <tr>
+<td>**Guggenheim Securities**</td>
+<td>Analyst – Investment Banking, Financial Sponsors Advisory (“FSA”)</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/analyst-%E2%80%93-investment-banking-financial-sponsors-advisory-%E2%80%9Cfsa%E2%80%9D-at-guggenheim-securities-4440840035"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
 <td>**BDO USA**</td>
 <td>Analyst, Investment Banking, BDO Capital Advisors - June 2027 (Richmond)</td>
 <td>Richmond, VA</td>
@@ -244,6 +286,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>5d</td>
 </tr>
 <tr>
+<td>**Fora Financial**</td>
+<td>Finance and Capital Markets Analyst</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-and-capital-markets-analyst-at-fora-financial-4440354284"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
 <td>**Santander US**</td>
 <td>Investment Banking Analyst, Energy - Houston</td>
 <td>Houston, TX</td>
@@ -253,7 +302,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 📊 Sales & Trading (4 open)
+## 📊 Sales & Trading (10 open)
 
 <table>
 <tr>
@@ -278,10 +327,45 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>1d</td>
 </tr>
 <tr>
+<td>**Morgan Stanley**</td>
+<td>Non-Agency CMBS Trading - Fixed Income Division - Analyst/Associate</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/non-agency-cmbs-trading-fixed-income-division-analyst-associate-at-morgan-stanley-4424596266"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**Capital Group**</td>
+<td>Fixed Income - Research Associate (Emerging Markets & Investment Grade Corporates)</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/fixed-income-research-associate-emerging-markets-investment-grade-corporates-at-capital-group-4414152725"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**TSB Bank**</td>
+<td>Interest Rate / Foreign Exchange Product Specialist - Corporate Sales Analyst</td>
+<td>Madison, WI</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/interest-rate-foreign-exchange-product-specialist-corporate-sales-analyst-at-tsb-bank-4438729625"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>**Nasdaq Private Market**</td>
+<td>Sales Analyst, Capital Solutions</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/sales-analyst-capital-solutions-at-nasdaq-private-market-4438425999"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
 <td>**Akuna Capital**</td>
 <td>Junior Trader</td>
 <td>Chicago</td>
 <td><div align="center"><a href="https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>**Santander US**</td>
+<td>Interest Rate / Foreign Exchange Product Specialist - Corporate Sales Analyst</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/interest-rate-foreign-exchange-product-specialist-corporate-sales-analyst-at-santander-us-4412558500"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>5d</td>
 </tr>
 <tr>
@@ -291,10 +375,17 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td><div align="center"><a href="https://job-boards.greenhouse.io/flowtraders/jobs/7931072"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1w</td>
 </tr>
+<tr>
+<td>**Jane Street**</td>
+<td>Personal Accounts Trading Analyst</td>
+<td>New York, New York, United States</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/janestreet/jobs/8431856002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2mo</td>
+</tr>
 </table>
 
 
-## 📈 Asset Management (15 open)
+## 📈 Asset Management (19 open)
 
 <table>
 <tr>
@@ -361,6 +452,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>3d</td>
 </tr>
 <tr>
+<td>**JPMorganChase**</td>
+<td>US Wealth Management, Solutions Program Analyst</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/us-wealth-management-solutions-program-analyst-at-jpmorganchase-4440944608"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
 <td>**Blackstone**</td>
 <td>2027 Blackstone Private Equity Analyst</td>
 <td>New York, NY</td>
@@ -379,6 +477,20 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Private Equity Analyst</td>
 <td>Albuquerque-Santa Fe Metropolitan Area</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/private-equity-analyst-at-new-mexico-state-investment-council-4440815493"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**Hightower Advisors**</td>
+<td>Wealth Advisory Analyst - Vigilant Wealth Management</td>
+<td>Portland, ME</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/wealth-advisory-analyst-vigilant-wealth-management-at-hightower-advisors-4432058813"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**IEQ Capital**</td>
+<td>Associate, Wealth Management</td>
+<td>San Francisco, CA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/associate-wealth-management-at-ieq-capital-4440847820"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>4d</td>
 </tr>
 <tr>
@@ -409,10 +521,17 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/private-equity-analyst-at-talently-4431847544"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6d</td>
 </tr>
+<tr>
+<td>**Watershed**</td>
+<td>IT operations analyst</td>
+<td>London</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/watershed/80900b6d-11da-4905-8dbc-b67f917e9522"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
 </table>
 
 
-## 🔢 Quantitative Finance (23 open)
+## 🔢 Quantitative Finance (30 open)
 
 <table>
 <tr>
@@ -421,6 +540,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**DV Trading LLC**</td>
+<td>Quantitative Trader (Multi-Asset - New York)</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-trader-multi-asset-new-york-at-dv-trading-llc-4414632621"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Citi**</td>
@@ -462,6 +588,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Junior Treasury Quant Researcher</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-treasury-quant-researcher-at-hudson-river-trading-4431868094"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>**GTS**</td>
+<td>Quantitative Trader – Overnight Session / Asia Trading, ETF Team</td>
+<td>Hawaii, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-trader-%E2%80%93-overnight-session-asia-trading-etf-team-at-gts-4438745611"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -521,6 +654,27 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>4d</td>
 </tr>
 <tr>
+<td>**Old Mission Capital**</td>
+<td> Quantitative Trader – 2027 Graduate Program (August Start)</td>
+<td>Chicago, IL or New York, NY</td>
+<td><div align="center"><a href="https://www.oldmissioncapital.com/careers/?gh_jid=7796044003"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**Old Mission Capital**</td>
+<td>Quantitative Trader – 2027 Graduate Program (August Start)</td>
+<td>London</td>
+<td><div align="center"><a href="https://www.oldmissioncapital.com/careers/?gh_jid=7796058003"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**Old Mission Capital**</td>
+<td>Quantitative Trader – 2027 Graduate Program (February Start)</td>
+<td>Chicago, IL or New York, NY</td>
+<td><div align="center"><a href="https://www.oldmissioncapital.com/careers/?gh_jid=7796031003"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
 <td>**Akuna Capital**</td>
 <td>Junior Quantitative Researcher</td>
 <td>Chicago, IL</td>
@@ -556,6 +710,20 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>5d</td>
 </tr>
 <tr>
+<td>**Old Mission**</td>
+<td>Quantitative Trader – 2027 Graduate Program (February Start)</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-trader-%E2%80%93-2027-graduate-program-february-start-at-old-mission-4440310199"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>**Old Mission**</td>
+<td>Quantitative Trader – 2027 Graduate Program (August Start)</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-trader-%E2%80%93-2027-graduate-program-august-start-at-old-mission-4440314061"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
 <td>**Citadel Securities**</td>
 <td>Quantitative Research Analyst – University Graduate</td>
 <td>London, UK</br>Dublin, Ireland</td>
@@ -586,7 +754,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🏢 Corporate Finance (36 open)
+## 🏢 Corporate Finance (49 open)
 
 <table>
 <tr>
@@ -615,6 +783,20 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Services Associate, Risk & Compliance (Tracking & Trading/Broker Data Import Program)</td>
 <td>Nashville, TN</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/services-associate-risk-compliance-tracking-trading-broker-data-import-program-at-deloitte-4434073116"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Robert Half**</td>
+<td>FP&A Analyst</td>
+<td>Irvine, CA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/fp-a-analyst-at-robert-half-4442474189"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Perigon Wealth Management**</td>
+<td>Financial Planning Associate</td>
+<td>San Francisco, CA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/financial-planning-associate-at-perigon-wealth-management-4442444350"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -675,6 +857,27 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </tr>
 <tr>
 <td>**Citi**</td>
+<td>Markets - Commodities, Full-Time Analyst, Houston - US, 2027</td>
+<td>Houston, TX</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/markets-commodities-full-time-analyst-houston-us-2027-at-citi-4441303909"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**IBM**</td>
+<td>Corporate Development Associate</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/corporate-development-associate-at-ibm-4439237336"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**Elastic**</td>
+<td>Revenue Analyst</td>
+<td>Bangalore, India</td>
+<td><div align="center"><a href="https://jobs.elastic.co/jobs?gh_jid=8054405&gh_jid=8054405"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**Citi**</td>
 <td>Banking - Corporate Banking, Full Time Analyst, San Francisco - USA, 2027</td>
 <td>San Francisco, CA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/banking-corporate-banking-full-time-analyst-san-francisco-usa-2027-at-citi-4440752885"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
@@ -716,6 +919,20 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>2d</td>
 </tr>
 <tr>
+<td>**AgReserves, Inc.**</td>
+<td>FP&A Analyst</td>
+<td>Salt Lake City, UT</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/fp-a-analyst-at-agreserves-inc-4441110266"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>**Energy Exemplar**</td>
+<td>FP&A Analyst</td>
+<td>Salt Lake City, UT</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/fp-a-analyst-at-energy-exemplar-4440702058"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
 <td>**General Atlantic**</td>
 <td>Class of 2027 Investment Analyst</td>
 <td>New York, NY</td>
@@ -741,6 +958,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>FP&A Analyst</td>
 <td>Denver, CO</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/fp-a-analyst-at-vero-networks-4438446045"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td>**Ramsey Solutions**</td>
+<td>FP&A Analyst</td>
+<td>Nashville, TN</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/fp-a-analyst-at-ramsey-solutions-4439773795"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>3d</td>
 </tr>
 <tr>
@@ -779,6 +1003,34 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>4d</td>
 </tr>
 <tr>
+<td>**Delta Dental Ins.**</td>
+<td>Financial Planning & Analysis (FP&A) Analyst</td>
+<td>Rancho Cordova, CA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/financial-planning-analysis-fp-a-analyst-at-delta-dental-ins-4431725892"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**JPMorganChase**</td>
+<td>U.S. Private Bank - AWM Program Analyst</td>
+<td>Houston, TX</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/u-s-private-bank-awm-program-analyst-at-jpmorganchase-4440514760"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**SoFi**</td>
+<td>Associate AI Financial Planning Analyst</td>
+<td>San Francisco, CA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/associate-ai-financial-planning-analyst-at-sofi-4431258596"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**Old Mission Capital**</td>
+<td>Software Engineer – 2027 Graduate Program (August Start)</td>
+<td>Chicago, IL, United States</td>
+<td><div align="center"><a href="https://www.oldmissioncapital.com/careers/?gh_jid=7796048003"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
 <td>**LPL Financial**</td>
 <td>Data Analyst, Financial Planning Analytics & Reporting</td>
 <td>Fort Mill, SC</td>
@@ -804,6 +1056,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Customer Experience Associate (New Grad)</td>
 <td>Westlake, TX</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1w</td>
+</tr>
+<tr>
+<td>**Jane Street**</td>
+<td>Cybersecurity Analyst: New Grad </td>
+<td>New York, New York, United States</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/janestreet/jobs/8613910002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1w</td>
 </tr>
 <tr>
@@ -997,7 +1256,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 💻 Financial Technology (1 open)
+## 💻 Financial Technology (3 open)
 
 <table>
 <tr>
@@ -1006,6 +1265,20 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Chardan**</td>
+<td>Equity Research Associate - Digital Assets & Infrastructure</td>
+<td>New York City Metropolitan Area</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/equity-research-associate-digital-assets-infrastructure-at-chardan-4440772867"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>**KeyBank**</td>
+<td>Equity Research Associate – Fintech</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/equity-research-associate-%E2%80%93-fintech-at-keybank-4437314541"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3d</td>
 </tr>
 <tr>
 <td>**Point72**</td>
@@ -1021,9 +1294,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 <div align="center">
 
-**Last updated: July 18, 2026 at 06:52 PM**
+**Last updated: July 18, 2026 at 07:10 PM**
 
-This list is updated daily via automated scrapers (Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
+This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Ashby, SimplifyJobs) + community contributions.
 
 Star this repo to get notified of updates!
 

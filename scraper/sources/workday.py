@@ -16,18 +16,28 @@ from scraper.filters import classify_role, is_new_grad, is_2026_role
 
 logger = logging.getLogger(__name__)
 
-# Verified working Workday sites (tested 2026-06-16)
+# Verified working Workday sites (tested 2026-07-18)
 # Format: (base_url, company_name)
 WORKDAY_SITES = [
+    # Banks
     ("https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs", "Barclays"),
     ("https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebsite/jobs", "Deutsche Bank"),
     ("https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs", "State Street"),
     ("https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs", "Citigroup"),
+    ("https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs", "Morgan Stanley"),
+    ("https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/Campus/jobs", "CIBC"),
+    # Financial Services
+    ("https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs", "Mastercard"),
+    ("https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowePrice/jobs", "T. Rowe Price"),
+    ("https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Careers/jobs", "Blackstone"),
+    # Investment Banking
+    ("https://hl.wd1.myworkdayjobs.com/wday/cxs/hl/External/jobs", "Houlihan Lokey"),
+    # Consulting
     ("https://guidehouse.wd1.myworkdayjobs.com/wday/cxs/guidehouse/External/jobs", "Guidehouse"),
+    ("https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/Global_Experienced_Careers/jobs", "PwC"),
+    # Other
     ("https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/External/jobs", "GlobalFoundries"),
     ("https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs", "Caterpillar"),
-    ("https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/Global_Experienced_Careers/jobs", "PwC"),
-    ("https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Careers/jobs", "Blackstone"),
 ]
 
 SEARCH_QUERIES = [

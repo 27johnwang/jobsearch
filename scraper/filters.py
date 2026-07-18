@@ -158,11 +158,18 @@ FINANCE_COMPANIES = {
     "coinbase", "sofi", "affirm", "chime", "brex",
     "marqeta", "wise", "revolut", "nubank", "klarna",
     "adyen", "checkout.com", "ripple", "circle",
+    "ramp", "rho", "wealthsimple", "acorns", "betterment",
+    "figure", "mercury", "upstart",
     # Exchanges / Market Infrastructure
     "nyse", "nasdaq", "cme group", "ice", "cboe",
     "dtcc", "bloomberg", "refinitiv", "s&p global",
     "moody's", "fitch", "msci", "morningstar",
     "ihs markit", "factset", "pitchbook",
+    # Quant / Trading
+    "jane street", "imc", "jump trading", "old mission",
+    "marshall wace", "man group", "flow traders",
+    "akuna capital", "transmarket", "squarepoint",
+    "schonfeld", "aqr", "worldquant",
     # Insurance / Other Financial
     "aig", "metlife", "prudential", "allstate",
     "berkshire hathaway", "liberty mutual", "travelers",

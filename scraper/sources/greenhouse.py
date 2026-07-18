@@ -14,7 +14,7 @@ from scraper.filters import classify_role, is_new_grad, is_2026_role
 
 logger = logging.getLogger(__name__)
 
-# Verified working Greenhouse boards (tested 2026-06-16)
+# Verified working Greenhouse boards (tested 2026-07-18)
 GREENHOUSE_BOARDS = {
     # FinTech
     "stripe": "Stripe",
@@ -29,6 +29,8 @@ GREENHOUSE_BOARDS = {
     "block": "Block",
     "figure": "Figure",
     "betterment": "Betterment",
+    "nubank": "Nubank",
+    "adyen": "Adyen",
     # Quant / Trading
     "point72": "Point72",
     "schonfeld": "Schonfeld",
@@ -38,9 +40,34 @@ GREENHOUSE_BOARDS = {
     "flowtraders": "Flow Traders",
     "aqr": "AQR Capital Management",
     "worldquant": "WorldQuant",
+    "janestreet": "Jane Street",
+    "imc": "IMC Trading",
+    "jumptrading": "Jump Trading",
+    "oldmissioncapital": "Old Mission Capital",
+    "marshallwace": "Marshall Wace",
+    "mangroup": "Man Group",
     # PE / VC
     "generalatlantic": "General Atlantic",
     "a16z": "Andreessen Horowitz",
+    # Tech (Fortune 500 / large companies with finance roles)
+    "databricks": "Databricks",
+    "datadog": "Datadog",
+    "mongodb": "MongoDB",
+    "okta": "Okta",
+    "zscaler": "Zscaler",
+    "cloudflare": "Cloudflare",
+    "airbnb": "Airbnb",
+    "pinterest": "Pinterest",
+    "elastic": "Elastic",
+    "gitlab": "GitLab",
+    "twilio": "Twilio",
+    "lyft": "Lyft",
+    "dropbox": "Dropbox",
+    # Consulting
+    "bcg": "BCG",
+    # Media
+    "disney": "Disney",
+    "fox": "Fox Corporation",
 }
 
 API_BASE = "https://boards-api.greenhouse.io/v1/boards/{board}/jobs"

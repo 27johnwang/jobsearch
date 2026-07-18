@@ -14,13 +14,34 @@ from scraper.filters import classify_role, is_new_grad, is_2026_role
 
 logger = logging.getLogger(__name__)
 
-# Verified working Ashby boards for finance/fintech companies (tested 2026-06-16)
+# Verified working Ashby boards (tested 2026-07-18)
 ASHBY_BOARDS = {
+    # FinTech / Finance
     "ramp": "Ramp",
     "plaid": "Plaid",
     "rho": "Rho",
     "wealthsimple": "Wealthsimple",
     "acorns": "Acorns",
+    "column": "Column",
+    "lemonade": "Lemonade",
+    "middesk": "Middesk",
+    "persona": "Persona",
+    "watershed": "Watershed",
+    "zip": "Zip",
+    "clearco": "Clearco",
+    "snapdocs": "Snapdocs",
+    # Tech (may have finance roles)
+    "notion": "Notion",
+    "openai": "OpenAI",
+    "cohere": "Cohere",
+    "linear": "Linear",
+    "vanta": "Vanta",
+    "confluent": "Confluent",
+    "drata": "Drata",
+    "benchling": "Benchling",
+    "amplitude": "Amplitude",
+    "zapier": "Zapier",
+    "weave": "Weave",
 }
 
 API_BASE = "https://api.ashbyhq.com/posting-api/job-board/{company}"
