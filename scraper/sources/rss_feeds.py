@@ -11,7 +11,7 @@ from datetime import datetime, date
 from xml.etree import ElementTree as ET
 
 from scraper.models import Job
-from scraper.filters import classify_role, is_new_grad, is_2026_role
+from scraper.filters import classify_role, is_new_grad, is_2026_role, is_entry_level_role, classify_experience
 
 logger = logging.getLogger(__name__)
 
@@ -90,7 +90,7 @@ def scrape_rss_feed(feed_url: str, company_name: str) -> List[Job]:
 
         date_posted = _parse_rss_date(pub_date_el.text if pub_date_el is not None else "")
 
-        if not is_new_grad(title, ""):
+        if not is_entry_level_role(title, ""):
             continue
         category = classify_role(title, "", company_name)
         if not category:
@@ -147,7 +147,7 @@ def scrape_atom_feed(feed_url: str, company_name: str) -> List[Job]:
         date_str = (published_el.text if published_el is not None else "") or (updated_el.text if updated_el is not None else "")
         date_posted = _parse_atom_date(date_str)
 
-        if not is_new_grad(title, ""):
+        if not is_entry_level_role(title, ""):
             continue
         category = classify_role(title, "", company_name)
         if not category:

@@ -140,43 +140,36 @@ def generate_category_section(category: str, jobs: List[Job]) -> str:
 """
 
 
-def generate_readme(jobs: List[Job]) -> str:
-    total = len(jobs)
-    open_count = sum(1 for j in jobs if not j.is_closed)
+def _generate_tier_sections(jobs: List[Job], tier_label: str) -> str:
     groups = group_by_category(jobs)
-
     sorted_categories = sorted(
         groups.keys(),
         key=lambda c: CATEGORY_CONFIG.get(c, {"order": 99})["order"]
     )
-
-    category_stats = []
-    for cat in sorted_categories:
-        config = CATEGORY_CONFIG.get(cat, {"emoji": "💰"})
-        count = sum(1 for j in groups[cat] if not j.is_closed)
-        category_stats.append(f"{config['emoji']} {cat}: {count}")
-
-    stats_str = " | ".join(category_stats)
-
-    toc_entries = []
-    for cat in sorted_categories:
-        config = CATEGORY_CONFIG.get(cat, {"emoji": "💰"})
-        anchor = cat.lower().replace(" ", "-").replace("(", "").replace(")", "").replace("&", "")
-        open_in_cat = sum(1 for j in groups[cat] if not j.is_closed)
-        toc_entries.append(f"- [{config['emoji']} {cat} ({open_in_cat})](#{anchor}-{open_in_cat}-open)")
-
-    toc = "\n".join(toc_entries)
-
-    sections = "\n".join(
+    return "\n".join(
         generate_category_section(cat, groups[cat])
         for cat in sorted_categories
     )
 
+
+def generate_readme(jobs: List[Job]) -> str:
+    total = len(jobs)
+    open_count = sum(1 for j in jobs if not j.is_closed)
+
+    new_grad_jobs = [j for j in jobs if j.experience_type == "new_grad"]
+    entry_level_jobs = [j for j in jobs if j.experience_type == "entry_level"]
+
+    ng_open = sum(1 for j in new_grad_jobs if not j.is_closed)
+    el_open = sum(1 for j in entry_level_jobs if not j.is_closed)
+
+    ng_sections = _generate_tier_sections(new_grad_jobs, "New Grad")
+    el_sections = _generate_tier_sections(entry_level_jobs, "Entry Level")
+
     now = datetime.now().strftime("%B %d, %Y at %I:%M %p")
 
-    readme = f"""# 2026 New Grad Finance Positions 💰
+    readme = f"""# Finance Jobs Tracker 💰
 
-> A daily-updated list of **{open_count}+ open** new graduate positions in finance for the Class of 2026.
+> A daily-updated list of **{open_count}+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -203,18 +196,27 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-## Categories
+**Total listings: {total}** | **Open: {open_count}** | **New Grad: {ng_open}** | **Entry Level: {el_open}**
 
-{toc}
+> **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
+
+---
+
+# 🎓 2027 New Grad Programs ({ng_open} open)
+
+Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
+
+{ng_sections}
 
 ---
 
-**Total listings: {total}** | **Open: {open_count}**
+# 💼 Entry-Level Roles — 0-2 Years Experience ({el_open} open)
 
-{stats_str}
+Roles for recent grads and early-career professionals with 0-2 years of experience.
 
----
-{sections}
+> **Filter by experience:** Use [jobs.html](jobs.html) to select your exact years of experience and see only matching roles.
+
+{el_sections}
 
 ---
 

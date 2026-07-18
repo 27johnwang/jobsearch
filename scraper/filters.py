@@ -192,6 +192,7 @@ _NEW_GRAD_TITLE_PATTERNS = [
     r"new\s*college\s*grad",
     r"(?:202[5-8])\s*(?:analyst|associate|graduate|trader|researcher)",
     r"(?:analyst|associate|graduate|trader|researcher)\s*(?:program|programme)",
+    r"(?:analyst|associate|trader|researcher)\s*[-–—]?\s*(?:202[5-8])",
     r"(?:rotational|rotation)\s*(?:program|analyst|associate)",
     r"(?:analyst|associate)\s*development\s*program",
     r"campus\s*(?:analyst|associate|hire|recruit|program)",
@@ -283,6 +284,67 @@ def classify_role(title: str, description: str = "", company: str = "") -> Optio
     return best_category if best_score > 0 else None
 
 
+_ENTRY_LEVEL_TITLE_PATTERNS = [
+    r"entry[\s-]*level",
+    r"junior\b",
+    r"(?:0|1|2)[\s-]*(?:to|\-)[\s-]*(?:1|2|3)\s*(?:year|yr)",
+    r"analyst\s+[i1]\b(?!\s*(?:i|[2-9]))",
+    r"associate\s+[i1]\b(?!\s*(?:i|[2-9]))",
+]
+
+_ENTRY_LEVEL_TITLE_RE = re.compile(
+    "|".join(_ENTRY_LEVEL_TITLE_PATTERNS), re.IGNORECASE
+)
+
+_CAMPUS_PROGRAM_RE = re.compile(
+    r"(?:202[6-9])\s*(?:analyst|associate|graduate|trader|researcher)|"
+    r"(?:analyst|associate|graduate|trader|researcher)\s*(?:program|programme)|"
+    r"(?:rotational|rotation)\s*(?:program|analyst|associate)|"
+    r"(?:analyst|associate)\s*development\s*program|"
+    r"campus\s*(?:analyst|associate|hire|recruit|program)|"
+    r"new\s*grad|new\s*college\s*grad|university\s*grad|"
+    r"graduate\s*(?:program|programme|trainee|training)|"
+    r"(?:class\s*of|cohort)\s*202[6-9]|"
+    r"(?:full[\s-]*time)\s*(?:analyst|associate)\s*(?:202[6-9])",
+    re.IGNORECASE,
+)
+
+_YOE_PATTERN = re.compile(
+    r"(\d+)\s*[\-\+to]*\s*(\d*)\s*(?:year|yr)s?\s*(?:of\s*)?(?:experience|exp)",
+    re.IGNORECASE,
+)
+
+
+def classify_experience(title: str, description: str = "") -> tuple:
+    """Classify a job as new_grad or entry_level and return (type, min_years, max_years).
+
+    Returns:
+        ("new_grad", 0, 0) for campus recruiting / 2027 programs
+        ("entry_level", min, max) for entry-level roles with 0-2 YOE
+    """
+    text = f"{title} {description}"
+
+    if _CAMPUS_PROGRAM_RE.search(title):
+        return ("new_grad", 0, 0)
+
+    m = _YOE_PATTERN.search(text)
+    if m:
+        min_y = int(m.group(1))
+        max_y = int(m.group(2)) if m.group(2) else min_y
+        if max_y <= 2:
+            return ("entry_level", min_y, max_y)
+        if min_y <= 2:
+            return ("entry_level", min_y, min(max_y, 2))
+
+    if _ENTRY_LEVEL_TITLE_RE.search(title):
+        return ("entry_level", 0, 2)
+
+    if _CAMPUS_PROGRAM_RE.search(description):
+        return ("new_grad", 0, 0)
+
+    return ("new_grad", 0, 0)
+
+
 def is_new_grad(title: str, description: str = "") -> bool:
     """Determine if a job listing is for new graduates / entry level.
 
@@ -305,6 +367,38 @@ def is_new_grad(title: str, description: str = "") -> bool:
     ])
     if has_junior_title and description and _NEW_GRAD_BODY_RE.search(description):
         return True
+
+    return False
+
+
+def is_entry_level_role(title: str, description: str = "") -> bool:
+    """Determine if a job is an entry-level analyst role (0-2 YOE).
+
+    Broader than is_new_grad — accepts roles that say "entry level",
+    "junior", "analyst I", or have 0-2 years experience mentioned.
+    """
+    text = f"{title} {description}"
+    if _EXCLUSION_RE.search(text):
+        return False
+
+    if _NEW_GRAD_TITLE_RE.search(title):
+        return True
+
+    if _ENTRY_LEVEL_TITLE_RE.search(title):
+        return True
+
+    title_lower = title.lower()
+    has_junior_title = any(kw in title_lower for kw in [
+        "analyst", "associate i", "associate 1", "junior",
+    ])
+    if has_junior_title and description and _NEW_GRAD_BODY_RE.search(description):
+        return True
+
+    m = _YOE_PATTERN.search(text)
+    if m:
+        min_y = int(m.group(1))
+        if min_y <= 2:
+            return True
 
     return False
 

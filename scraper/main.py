@@ -15,7 +15,7 @@ from pathlib import Path
 from typing import Dict, List, Tuple
 
 from scraper.models import Job
-from scraper.filters import _EXCLUSION_RE
+from scraper.filters import _EXCLUSION_RE, classify_experience
 from scraper.sources import greenhouse, workday, ashby, simplify, linkedin, oracle_hcm, avature, rss_feeds, smartrecruiters
 
 logger = logging.getLogger(__name__)
@@ -169,6 +169,18 @@ def run():
     all_jobs = [j for j in all_jobs if not _EXCLUSION_RE.search(j.role)]
     if len(all_jobs) < before:
         logger.info(f"Excluded {before - len(all_jobs)} jobs (summer analyst/intern/senior)")
+
+    # Classify experience type for all jobs
+    for job in all_jobs:
+        if job.experience_type == "new_grad" and job.min_years == 0 and job.max_years == 0:
+            exp_type, min_y, max_y = classify_experience(job.role, "")
+            job.experience_type = exp_type
+            job.min_years = min_y
+            job.max_years = max_y
+
+    new_grad_count = sum(1 for j in all_jobs if j.experience_type == "new_grad")
+    entry_count = sum(1 for j in all_jobs if j.experience_type == "entry_level")
+    logger.info(f"Experience split: {new_grad_count} new grad, {entry_count} entry level")
 
     # Prune stale listings
     all_jobs = prune_stale(all_jobs)

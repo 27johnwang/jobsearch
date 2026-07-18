@@ -12,7 +12,7 @@ from datetime import datetime, date
 import re
 
 from scraper.models import Job
-from scraper.filters import classify_role, is_new_grad, is_2026_role
+from scraper.filters import classify_role, is_new_grad, is_2026_role, is_entry_level_role, classify_experience
 
 logger = logging.getLogger(__name__)
 
@@ -59,6 +59,11 @@ SEARCH_QUERIES = [
     "campus analyst 2026",
     "entry level analyst program",
     "rotational analyst program",
+    "entry level financial analyst",
+    "junior analyst",
+    "analyst I",
+    "junior financial analyst",
+    "entry level risk analyst",
 ]
 
 HEADERS = {
@@ -147,7 +152,7 @@ def scrape_workday_site(api_url: str, company_name: str) -> List[Job]:
             date_posted = _parse_posted_on(posted_on)
             description = " ".join(bullet_fields) if bullet_fields else ""
 
-            if not is_new_grad(title, description):
+            if not is_entry_level_role(title, description):
                 continue
 
             category = classify_role(title, description, company_name)

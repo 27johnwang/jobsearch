@@ -10,7 +10,7 @@ from typing import List
 from datetime import datetime, date
 
 from scraper.models import Job
-from scraper.filters import classify_role, is_new_grad, is_2026_role
+from scraper.filters import classify_role, is_new_grad, is_2026_role, is_entry_level_role, classify_experience
 
 logger = logging.getLogger(__name__)
 
@@ -73,7 +73,7 @@ def scrape_company(company_id: str, company_name: str) -> List[Job]:
                 except ValueError:
                     pass
 
-            if not is_new_grad(title, ""):
+            if not is_entry_level_role(title, ""):
                 continue
 
             category = classify_role(title, "", actual_name)

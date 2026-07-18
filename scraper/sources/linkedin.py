@@ -13,7 +13,7 @@ from datetime import date
 from bs4 import BeautifulSoup
 
 from scraper.models import Job
-from scraper.filters import classify_role, is_2026_role
+from scraper.filters import classify_role, is_2026_role, is_entry_level_role, classify_experience
 
 logger = logging.getLogger(__name__)
 
@@ -26,33 +26,49 @@ HEADERS = {
     ),
 }
 
-SEARCH_QUERIES = [
-    "new grad analyst 2026 finance",
+# New grad / campus program queries (2027 class)
+NEW_GRAD_QUERIES = [
     "new grad analyst 2027 finance",
-    "investment banking analyst 2026",
     "investment banking analyst 2027",
+    "investment banking analyst 2028",
     "sales trading analyst 2027",
     "quantitative analyst new grad",
     "quantitative researcher new grad",
     "quantitative trader new grad",
     "asset management analyst program 2027",
     "corporate finance analyst new grad",
-    "FP&A analyst new grad entry level",
-    "risk analyst entry level finance",
     "consulting analyst 2027",
     "financial analyst rotation program",
-    "compliance analyst entry level finance",
     "private equity analyst program",
-    "investment banking analyst 2028",
     "analyst program 2027 full time",
     "graduate program finance 2027",
     "wealth management analyst new grad",
-    "credit analyst entry level",
     "fixed income analyst new grad",
     "equity research analyst new grad",
     "fintech analyst new grad 2027",
     "trader new grad 2027",
 ]
+
+# Entry-level queries (0-2 years experience)
+ENTRY_LEVEL_QUERIES = [
+    "entry level financial analyst",
+    "entry level investment analyst",
+    "junior financial analyst",
+    "junior investment analyst",
+    "FP&A analyst entry level",
+    "risk analyst entry level finance",
+    "credit analyst entry level",
+    "compliance analyst entry level finance",
+    "entry level corporate finance analyst",
+    "financial analyst 0-2 years",
+    "junior quantitative analyst",
+    "entry level trading analyst",
+    "junior risk analyst",
+    "entry level wealth management analyst",
+    "analyst I finance",
+]
+
+SEARCH_QUERIES = NEW_GRAD_QUERIES + ENTRY_LEVEL_QUERIES
 
 PAGES_PER_QUERY = 3
 
@@ -147,8 +163,13 @@ def scrape_linkedin() -> List[Job]:
         if not category:
             continue
 
+        if not is_entry_level_role(data["title"], ""):
+            continue
+
         if not is_2026_role(data["title"], "", data["date_posted"]):
             continue
+
+        exp_type, min_y, max_y = classify_experience(data["title"], "")
 
         jobs.append(
             Job(
@@ -160,10 +181,13 @@ def scrape_linkedin() -> List[Job]:
                 category=category,
                 source="linkedin",
                 date_added=today,
+                experience_type=exp_type,
+                min_years=min_y,
+                max_years=max_y,
             )
         )
 
-    logger.info(f"LinkedIn: {len(jobs)} finance new-grad roles (last 7 days)")
+    logger.info(f"LinkedIn: {len(jobs)} finance roles (last 7 days)")
     return jobs
 
 

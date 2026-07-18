@@ -12,7 +12,7 @@ from datetime import date, timedelta
 from bs4 import BeautifulSoup
 
 from scraper.models import Job
-from scraper.filters import classify_role, is_2026_role
+from scraper.filters import classify_role, is_2026_role, classify_experience
 
 logger = logging.getLogger(__name__)
 

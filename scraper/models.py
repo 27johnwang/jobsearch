@@ -21,6 +21,9 @@ class Job:
     company_url: Optional[str] = None
     tags: list = field(default_factory=list)
     date_added: str = ""  # ISO date when we first discovered/added this listing
+    experience_type: str = "new_grad"  # "new_grad" or "entry_level"
+    min_years: int = 0  # minimum years of experience (0 for new grad)
+    max_years: int = 0  # maximum years of experience (0 for new grad, up to 2 for entry level)
 
     def to_dict(self):
         return asdict(self)

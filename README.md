@@ -1,6 +1,6 @@
-# 2026 New Grad Finance Positions 💰
+# Finance Jobs Tracker 💰
 
-> A daily-updated list of **183+ open** new graduate positions in finance for the Class of 2026.
+> A daily-updated list of **183+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,24 +27,16 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-## Categories
+**Total listings: 183** | **Open: 183** | **New Grad: 173** | **Entry Level: 10**
 
-- [🏦 Investment Banking (42)](#investment-banking-42-open)
-- [📊 Sales & Trading (10)](#sales--trading-10-open)
-- [💼 Consulting (3)](#consulting-3-open)
-- [📈 Asset Management (21)](#asset-management-21-open)
-- [🔢 Quantitative Finance (30)](#quantitative-finance-30-open)
-- [🏢 Corporate Finance (54)](#corporate-finance-54-open)
-- [🛡️ Risk Management (20)](#risk-management-20-open)
-- [💻 Financial Technology (3)](#financial-technology-3-open)
+> **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-**Total listings: 183** | **Open: 183**
+# 🎓 2027 New Grad Programs (173 open)
 
-🏦 Investment Banking: 42 | 📊 Sales & Trading: 10 | 💼 Consulting: 3 | 📈 Asset Management: 21 | 🔢 Quantitative Finance: 30 | 🏢 Corporate Finance: 54 | 🛡️ Risk Management: 20 | 💻 Financial Technology: 3
+Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
----
 
 ## 🏦 Investment Banking (42 open)
 
@@ -353,7 +345,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 📊 Sales & Trading (10 open)
+## 📊 Sales & Trading (9 open)
 
 <table>
 <tr>
@@ -404,13 +396,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>New York, United States</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/sales-analyst-capital-solutions-at-nasdaq-private-market-4438425999"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>3d</td>
-</tr>
-<tr>
-<td>**Akuna Capital**</td>
-<td>Junior Trader</td>
-<td>Chicago</td>
-<td><div align="center"><a href="https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>5d</td>
 </tr>
 <tr>
 <td>**Santander US**</td>
@@ -630,7 +615,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🔢 Quantitative Finance (30 open)
+## 🔢 Quantitative Finance (23 open)
 
 <table>
 <tr>
@@ -669,24 +654,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>1d</td>
 </tr>
 <tr>
-<td>**Societe Generale**</td>
-<td>Junior Quantitative Specialist</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-specialist-at-societe-generale-4438444968"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
 <td>**PIMCO**</td>
 <td>Quantitative Research Analyst – Client Analytics</td>
 <td>Newport Beach, CA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-research-analyst-%E2%80%93-client-analytics-at-pimco-4424009459"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td>**Hudson River Trading**</td>
-<td>Junior Treasury Quant Researcher</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-treasury-quant-researcher-at-hudson-river-trading-4431868094"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -725,31 +696,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>4d</td>
 </tr>
 <tr>
-<td>**Akuna Capital**</td>
-<td>Junior Quantitative Developer & Strategist</td>
-<td>Chicago, IL</td>
-<td><div align="center"><a href="https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
 <td>**Hudson River Trading**</td>
 <td>Algorithm Developer New Grad - Quant Researcher</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td>**Akuna Capital University**</td>
-<td>Junior Quantitative Researcher</td>
-<td>Chicago, IL</td>
-<td><div align="center"><a href="https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td>**↳**</td>
-<td>Junior Quantitative Developer & Strategist</td>
-<td>Chicago, IL</td>
-<td><div align="center"><a href="https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>4d</td>
 </tr>
 <tr>
@@ -774,13 +724,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>4d</td>
 </tr>
 <tr>
-<td>**Akuna Capital**</td>
-<td>Junior Quantitative Researcher</td>
-<td>Chicago, IL</td>
-<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-researcher-at-akuna-capital-4440311158"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
 <td>**Trexquant Investment LP**</td>
 <td>Quantitative Researcher - Early Career (USA)</td>
 <td>New York, NY</td>
@@ -799,13 +742,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>Point72 Fund Flow Analyst</td>
 <td>New York, Stamford, London</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8003977002?gh_jid=8003977002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>**Akuna Capital**</td>
-<td>Junior Quantitative Researcher - Prediction Markets</td>
-<td>Chicago, IL</td>
-<td><div align="center"><a href="https://www.akunacapital.com/careers/job/7863348/?gh_jid=7863348"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>5d</td>
 </tr>
 <tr>
@@ -853,7 +789,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🏢 Corporate Finance (54 open)
+## 🏢 Corporate Finance (53 open)
 
 <table>
 <tr>
@@ -994,13 +930,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>CREDit Graduate Program Analyst - Americas Public Finance</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/credit-graduate-program-analyst-americas-public-finance-at-s-p-global-4441101362"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td>**Duke Energy Corporation**</td>
-<td>Finance Associate OR Financial Analyst I (3 open positions)</td>
-<td>Charlotte, NC</td>
-<td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-associate-or-financial-analyst-i-3-open-positions-at-duke-energy-corporation-4441680446"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -1244,7 +1173,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 </table>
 
 
-## 🛡️ Risk Management (20 open)
+## 🛡️ Risk Management (19 open)
 
 <table>
 <tr>
@@ -1339,13 +1268,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <td>4d</td>
 </tr>
 <tr>
-<td>**AD Mortgage LLC**</td>
-<td>Junior Compliance Analyst</td>
-<td>Miami-Fort Lauderdale Area</td>
-<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-compliance-analyst-at-ad-mortgage-llc-4418765541"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
 <td>**SMBC Group**</td>
 <td>Credit Risk Analytics Analyst</td>
 <td>New York, NY</td>
@@ -1433,9 +1355,140 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
+# 💼 Entry-Level Roles — 0-2 Years Experience (10 open)
+
+Roles for recent grads and early-career professionals with 0-2 years of experience.
+
+> **Filter by experience:** Use [jobs.html](jobs.html) to select your exact years of experience and see only matching roles.
+
+
+## 📊 Sales & Trading (1 open)
+
+<table>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
+</tr>
+<tr>
+<td>**Akuna Capital**</td>
+<td>Junior Trader</td>
+<td>Chicago</td>
+<td><div align="center"><a href="https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+</table>
+
+
+## 🔢 Quantitative Finance (7 open)
+
+<table>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
+</tr>
+<tr>
+<td>**Societe Generale**</td>
+<td>Junior Quantitative Specialist</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-specialist-at-societe-generale-4438444968"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>**Hudson River Trading**</td>
+<td>Junior Treasury Quant Researcher</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-treasury-quant-researcher-at-hudson-river-trading-4431868094"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>**Akuna Capital**</td>
+<td>Junior Quantitative Developer & Strategist</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**Akuna Capital University**</td>
+<td>Junior Quantitative Researcher</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**↳**</td>
+<td>Junior Quantitative Developer & Strategist</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**Akuna Capital**</td>
+<td>Junior Quantitative Researcher</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-researcher-at-akuna-capital-4440311158"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>**Akuna Capital**</td>
+<td>Junior Quantitative Researcher - Prediction Markets</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.akunacapital.com/careers/job/7863348/?gh_jid=7863348"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+</table>
+
+
+## 🏢 Corporate Finance (1 open)
+
+<table>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
+</tr>
+<tr>
+<td>**Duke Energy Corporation**</td>
+<td>Finance Associate OR Financial Analyst I (3 open positions)</td>
+<td>Charlotte, NC</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-associate-or-financial-analyst-i-3-open-positions-at-duke-energy-corporation-4441680446"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+</table>
+
+
+## 🛡️ Risk Management (1 open)
+
+<table>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
+</tr>
+<tr>
+<td>**AD Mortgage LLC**</td>
+<td>Junior Compliance Analyst</td>
+<td>Miami-Fort Lauderdale Area</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-compliance-analyst-at-ad-mortgage-llc-4418765541"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+</table>
+
+
+---
+
 <div align="center">
 
-**Last updated: July 18, 2026 at 07:33 PM**
+**Last updated: July 18, 2026 at 10:17 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
