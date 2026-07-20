@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **244+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **252+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 244** | **Open: 244** | **New Grad: 70** | **Entry Level: 174**
+**Total listings: 252** | **Open: 252** | **New Grad: 72** | **Entry Level: 180**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (70 open)
+# 🎓 2027 New Grad Programs (72 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -390,7 +390,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (24 open)
+## 🏢 Corporate Finance (26 open)
 
 <table>
 <tr>
@@ -412,6 +412,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2026 APAC Find Your Fit in Corporate Analyst Development Program (CADP) – Hong Kong</td>
 <td>Hong Kong</td>
 <td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770975"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**TotalEnergies**</td>
+<td>Finance Rotational Graduate Program</td>
+<td>Greater Houston</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-rotational-graduate-program-at-totalenergies-4442756038"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Capital One**</td>
+<td>Associate, Software Engineer, New Grad Card Expansion</td>
+<td>Toronto, ON</td>
+<td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -621,7 +635,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (174 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (180 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -933,7 +947,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📈 Asset Management (17 open)
+## 📈 Asset Management (18 open)
 
 <table>
 <tr>
@@ -942,6 +956,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**StepStone Group**</td>
+<td>Junior Analyst - Venture Capital</td>
+<td>Baltimore, MD</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-analyst-venture-capital-at-stepstone-group-4403776149"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
 </tr>
 <tr>
 <td>**StepStone Group**</td>
@@ -1065,7 +1086,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (32 open)
+## 🔢 Quantitative Finance (34 open)
 
 <table>
 <tr>
@@ -1074,6 +1095,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Engelhart**</td>
+<td>Junior Quantitative Developer</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-developer-at-engelhart-4442712765"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**DV Trading LLC**</td>
@@ -1150,6 +1178,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>AM Quantitative Analyst I</td>
 <td>Boston, MA</td>
 <td><div align="center"><a href="https://fmr.wd1.myworkdayjobs.com/FidelityCareers/job/Boston-MA/AM-Quantitative-Analyst-I_2132397"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>**Fionics**</td>
+<td>Junior Quant Trader/Developer</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quant-trader-developer-at-fionics-4440240178"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>5d</td>
 </tr>
 <tr>
@@ -1302,7 +1337,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🏢 Corporate Finance (40 open)
+## 🏢 Corporate Finance (41 open)
 
 <table>
 <tr>
@@ -1311,6 +1346,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**TP Mechanical**</td>
+<td>Entry Level Finance Analyst</td>
+<td>Cincinnati, OH</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/entry-level-finance-analyst-at-tp-mechanical-4402800474"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Deloitte**</td>
@@ -1595,7 +1637,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (26 open)
+## 🛡️ Risk Management (27 open)
 
 <table>
 <tr>
@@ -1604,6 +1646,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Serve You Rx**</td>
+<td>Compliance Analyst I</td>
+<td>Milwaukee, WI</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/compliance-analyst-i-at-serve-you-rx-4434275658"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Hillcrest Bank**</td>
@@ -1921,7 +1970,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🤝 Sales (Financial Services) (6 open)
+## 🤝 Sales (Financial Services) (7 open)
 
 <table>
 <tr>
@@ -1930,6 +1979,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**PrincePerelson and Associates**</td>
+<td>Client Service Analyst – Alternative Investments (Entry-Level)</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/client-service-analyst-%E2%80%93-alternative-investments-entry-level-at-princeperelson-and-associates-4442084409"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**PrincePerelson and Associates**</td>
@@ -1980,7 +2036,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: July 20, 2026 at 11:14 AM**
+**Last updated: July 20, 2026 at 07:55 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
