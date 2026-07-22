@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **262+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **267+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 262** | **Open: 262** | **New Grad: 77** | **Entry Level: 185**
+**Total listings: 267** | **Open: 267** | **New Grad: 78** | **Entry Level: 189**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (77 open)
+# 🎓 2027 New Grad Programs (78 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -233,12 +233,12 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Strategy Consulting Associate - 2027</td>
 <td>McLean, VA</td>
 <td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Strategy-Consulting-Associate---2027_R244134-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td></td>
+<td>0d</td>
 </tr>
 </table>
 
 
-## 📈 Asset Management (5 open)
+## 📈 Asset Management (6 open)
 
 <table>
 <tr>
@@ -247,6 +247,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**JPMorgan Chase**</td>
+<td>2027 Asset Management Investments Full Time Analyst Program</td>
+<td><details><summary>New York, NY, United States (+4 more)</summary>Columbus, OH, United States</br>Indianapolis, IN, United States</br>Los Angeles, CA, United States</br>San Francisco, CA, United States</details></td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763509"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**JPMorganChase**</td>
@@ -670,7 +677,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (185 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (189 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -989,7 +996,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📈 Asset Management (18 open)
+## 📈 Asset Management (21 open)
 
 <table>
 <tr>
@@ -998,6 +1005,27 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**The Great Giveback**</td>
+<td>Entry Level - Wealth Management Associate</td>
+<td>United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/entry-level-wealth-management-associate-at-the-great-giveback-4443977450"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Equitable Advisors**</td>
+<td>Entry Level Wealth Management Associate</td>
+<td>Greater Boston</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/entry-level-wealth-management-associate-at-equitable-advisors-4443512659"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**Equitable Advisors**</td>
+<td>Entry Level - Wealth Management Associate</td>
+<td>Dallas, TX</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/entry-level-wealth-management-associate-at-equitable-advisors-4338931166"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
 </tr>
 <tr>
 <td>**StepStone Group**</td>
@@ -1700,7 +1728,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (27 open)
+## 🛡️ Risk Management (28 open)
 
 <table>
 <tr>
@@ -1715,6 +1743,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Compliance Analyst I</td>
 <td>Milwaukee, WI</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/compliance-analyst-i-at-serve-you-rx-4434275658"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>**ORBIT Relocations, Fine Art & Exhibition Logistics**</td>
+<td>Junior Risk Analyst</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-orbit-relocations-fine-art-exhibition-logistics-4440183281"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -2106,7 +2141,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: July 22, 2026 at 10:37 AM**
+**Last updated: July 22, 2026 at 07:34 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
