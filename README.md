@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **316+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **317+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,7 +27,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 316** | **Open: 316** | **New Grad: 96** | **Entry Level: 220**
+**Total listings: 317** | **Open: 317** | **New Grad: 96** | **Entry Level: 221**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
@@ -803,7 +803,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (220 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (221 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -1310,7 +1310,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (40 open)
+## 🔢 Quantitative Finance (41 open)
 
 <table>
 <tr>
@@ -1325,6 +1325,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Quant Analytics Associate I - Fraud Strategy</td>
 <td>Wilmington, DE</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/quant-analytics-associate-i-fraud-strategy-at-hackajob-4435465572"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**WorldQuant**</td>
+<td>Financial Data Operations Analyst</td>
+<td>Montevideo</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/worldquant/jobs/4697238006"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -2484,7 +2491,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: July 28, 2026 at 10:47 AM**
+**Last updated: July 28, 2026 at 07:45 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
