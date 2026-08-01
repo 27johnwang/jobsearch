@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **363+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **365+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 363** | **Open: 363** | **New Grad: 111** | **Entry Level: 252**
+**Total listings: 365** | **Open: 365** | **New Grad: 112** | **Entry Level: 253**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (111 open)
+# 🎓 2027 New Grad Programs (112 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -294,7 +294,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 📈 Asset Management (7 open)
+## 📈 Asset Management (8 open)
 
 <table>
 <tr>
@@ -309,6 +309,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Asset Management Investments Full Time Analyst Program</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-asset-management-investments-full-time-analyst-program-at-jpmorganchase-4439538562"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**JPMorganChase**</td>
+<td>2027 Asset & Wealth Management Risk Full Time Analyst Program</td>
+<td>Columbus, OH</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-asset-wealth-management-risk-full-time-analyst-program-at-jpmorganchase-4439534930"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -908,7 +915,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (252 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (253 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -2197,7 +2204,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (50 open)
+## 🛡️ Risk Management (51 open)
 
 <table>
 <tr>
@@ -2212,6 +2219,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Audit and Compliance Analyst I</td>
 <td>Mansfield, TX</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/audit-and-compliance-analyst-i-at-klein-tools-4447713634"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Premier Holding**</td>
+<td>Junior Risk Analyst</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-premier-holding-4447816468"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -2813,7 +2827,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: August 01, 2026 at 10:10 AM**
+**Last updated: August 01, 2026 at 07:21 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
