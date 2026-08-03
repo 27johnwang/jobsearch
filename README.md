@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **372+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **378+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 372** | **Open: 372** | **New Grad: 116** | **Entry Level: 256**
+**Total listings: 378** | **Open: 378** | **New Grad: 121** | **Entry Level: 257**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (116 open)
+# 🎓 2027 New Grad Programs (121 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (29 open)
+## 🏦 Investment Banking (31 open)
 
 <table>
 <tr>
@@ -60,6 +60,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Commercial & Investment Bank Global Payments Full Time Analyst Program</td>
 <td>Jersey City, NJ, United States</td>
 <td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770246"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**JPMorganChase**</td>
+<td>2027 Commercial & Investment Bank Global Payments Full Time Analyst Program</td>
+<td>Jersey City, NJ</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-commercial-investment-bank-global-payments-full-time-analyst-program-at-jpmorganchase-4448199521"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**JPMorganChase**</td>
+<td>2027 Commercial & Investment Bank Innovation Development Full-Time Analyst Program</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-commercial-investment-bank-innovation-development-full-time-analyst-program-at-jpmorganchase-4448301537"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -377,7 +391,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🔢 Quantitative Finance (20 open)
+## 🔢 Quantitative Finance (22 open)
 
 <table>
 <tr>
@@ -392,6 +406,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Quantitative Researcher New Grad</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/emergingtalent/jobs/8048830"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Maven Securities**</td>
+<td>Graduate Quant Researcher 2027 - Chicago</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/graduate-quant-researcher-2027-chicago-at-maven-securities-4448217661"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Maven Securities**</td>
+<td>Quantitative Researcher New Grad</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -530,7 +558,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (49 open)
+## 🏢 Corporate Finance (50 open)
 
 <table>
 <tr>
@@ -539,6 +567,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Capital One**</td>
+<td>Commercial Rotation Program Associate - 2027</td>
+<td>6 Locations</td>
+<td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Commercial-Rotation-Program-Associate---2027_R244235-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**JPMorgan Chase**</td>
@@ -943,7 +978,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (256 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (257 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -1841,7 +1876,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🏢 Corporate Finance (56 open)
+## 🏢 Corporate Finance (57 open)
 
 <table>
 <tr>
@@ -1856,6 +1891,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Operations Associate, Sanctions</td>
 <td>Bengaluru</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8098394"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Citigroup**</td>
+<td>Junior Applications Developer - Programmer Analyst</td>
+<td>Jacksonville Florida United States</td>
+<td><div align="center"><a href="https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Junior-Applications-Developer---Programmer-Analyst_26971294"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -2876,7 +2918,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: August 03, 2026 at 11:39 AM**
+**Last updated: August 03, 2026 at 07:49 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
