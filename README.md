@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **402+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **405+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 402** | **Open: 402** | **New Grad: 136** | **Entry Level: 266**
+**Total listings: 405** | **Open: 405** | **New Grad: 137** | **Entry Level: 268**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (136 open)
+# 🎓 2027 New Grad Programs (137 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -282,7 +282,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 📊 Sales & Trading (3 open)
+## 📊 Sales & Trading (4 open)
 
 <table>
 <tr>
@@ -297,6 +297,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Commodity Trading Associate 2027 - Multiple U.S. Locations</td>
 <td>Eddyville, IA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/commodity-trading-associate-2027-multiple-u-s-locations-at-cargill-4446662939"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**Cargill**</td>
+<td>Commodity Trading Associate 2027 - Multiple U.S. Locations</td>
+<td>Olathe, KS</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/commodity-trading-associate-2027-multiple-u-s-locations-at-cargill-4446663880"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -1083,7 +1090,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (266 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (268 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -2009,7 +2016,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🏢 Corporate Finance (58 open)
+## 🏢 Corporate Finance (59 open)
 
 <table>
 <tr>
@@ -2018,6 +2025,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Maven**</td>
+<td>Junior FP&A Analyst</td>
+<td>Palo Alto, CA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-fp-a-analyst-at-maven-4449625986"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Wealthfront**</td>
@@ -2428,7 +2442,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (55 open)
+## 🛡️ Risk Management (56 open)
 
 <table>
 <tr>
@@ -2437,6 +2451,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Omega Dairy (Pvt.) Ltd.**</td>
+<td>Junior Risk Analyst</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-omega-dairy-pvt-ltd-4449675844"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**HII**</td>
@@ -3086,7 +3107,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: August 05, 2026 at 10:48 AM**
+**Last updated: August 05, 2026 at 07:49 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
