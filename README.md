@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **423+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **427+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 423** | **Open: 423** | **New Grad: 144** | **Entry Level: 279**
+**Total listings: 427** | **Open: 427** | **New Grad: 147** | **Entry Level: 280**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (144 open)
+# 🎓 2027 New Grad Programs (147 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (34 open)
+## 🏦 Investment Banking (35 open)
 
 <table>
 <tr>
@@ -47,6 +47,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Deutsche Bank**</td>
+<td>Deutsche Bank Graduate Program Investment Bank & Capital Markets: Investment Bank Capital Markets - New York 2027</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/deutsche-bank-graduate-program-investment-bank-capital-markets-investment-bank-capital-markets-new-york-2027-at-deutsche-bank-4448499123"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Harris Williams**</td>
@@ -426,7 +433,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🔢 Quantitative Finance (30 open)
+## 🔢 Quantitative Finance (31 open)
 
 <table>
 <tr>
@@ -435,6 +442,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Headlands Technologies LLC**</td>
+<td>Quantitative Researcher – New Grad</td>
+<td>Amsterdam, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-new-grad-at-headlands-technologies-llc-4450030556"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Citadel**</td>
@@ -1082,7 +1096,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🛡️ Risk Management (6 open)
+## 🛡️ Risk Management (7 open)
 
 <table>
 <tr>
@@ -1091,6 +1105,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**JPMorganChase**</td>
+<td>2027 Commercial & Investment Bank Risk Management Full-Time Analyst Program</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-commercial-investment-bank-risk-management-full-time-analyst-program-at-jpmorganchase-4440304995"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3d</td>
 </tr>
 <tr>
 <td>**Barclays**</td>
@@ -1139,7 +1160,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (279 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (280 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -1723,7 +1744,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (50 open)
+## 🔢 Quantitative Finance (51 open)
 
 <table>
 <tr>
@@ -1732,6 +1753,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Stripe**</td>
+<td> Credit Risk Operations Associate</td>
+<td>Bangalore</td>
+<td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8104748"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Squarepoint Capital**</td>
@@ -3233,7 +3261,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: August 07, 2026 at 12:13 AM**
+**Last updated: August 07, 2026 at 09:12 AM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
