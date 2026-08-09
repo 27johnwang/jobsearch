@@ -27,3 +27,6 @@ Thumbs.db
 # Environment variables
 .env
 .env.local
+
+# resy_sniper secrets (never commit your auth token)
+resy_sniper/config.json

@@ -1,0 +1,12 @@
+{
+  "_comment": "Copy to config.json and fill in. config.json is gitignored. Do NOT commit your auth_token.",
+  "auth_token": "PUT_YOUR_RESY_AUTH_TOKEN_HERE_OR_USE_RESY_AUTH_TOKEN_ENV",
+  "venue_id": "12345",
+  "day": "2026-09-01",
+  "party_size": 2,
+  "preferred_times": ["19:00", "19:30", "18:30", "20:00"],
+  "table_types": ["Dining Room"],
+  "time_window_minutes": 90,
+  "burst_seconds": 20,
+  "burst_interval": 0.25
+}
