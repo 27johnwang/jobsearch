@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **445+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **450+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 445** | **Open: 445** | **New Grad: 162** | **Entry Level: 283**
+**Total listings: 450** | **Open: 450** | **New Grad: 166** | **Entry Level: 284**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (162 open)
+# 🎓 2027 New Grad Programs (166 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (36 open)
+## 🏦 Investment Banking (38 open)
 
 <table>
 <tr>
@@ -47,6 +47,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Ensis Partners**</td>
+<td>Investment Banking Analyst 2027 - Restructuring</td>
+<td>New York City Metropolitan Area</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-banking-analyst-2027-restructuring-at-ensis-partners-4451554251"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Capital One**</td>
+<td>MBA, Investment Banking Associate - 2027</td>
+<td>McLean, VA</td>
+<td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA--Investment-Banking-Associate---2027_R245955-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Deutsche Bank**</td>
@@ -740,7 +754,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (63 open)
+## 🏢 Corporate Finance (64 open)
 
 <table>
 <tr>
@@ -749,6 +763,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**KeyBank**</td>
+<td>2027 Commercial Credit Analyst Program - Cleveland</td>
+<td>Brooklyn, OH</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-commercial-credit-analyst-program-cleveland-at-keybank-4451415425"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Wells Fargo**</td>
@@ -1263,9 +1284,29 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
+## 📱 Product Management (Finance) (1 open)
+
+<table>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
+</tr>
+<tr>
+<td>**SharkNinja**</td>
+<td>Product Management Associate - Digital - Early Careers</td>
+<td>London, UK</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703013006"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+</table>
+
+
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (283 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (284 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -1654,7 +1695,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📈 Asset Management (27 open)
+## 📈 Asset Management (28 open)
 
 <table>
 <tr>
@@ -1663,6 +1704,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**OpenAI**</td>
+<td>Maintenance Analyst, Data Center Delivery</td>
+<td><details><summary>San Francisco (+2 more)</summary>Seattle</br>US - Remote</details></td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/openai/43fb1de2-1d32-4841-a685-412bc7bd56b6"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Equitable Advisors**</td>
@@ -3387,7 +3435,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: August 10, 2026 at 09:46 AM**
+**Last updated: August 10, 2026 at 07:10 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
