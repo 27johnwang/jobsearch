@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **472+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **479+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 472** | **Open: 472** | **New Grad: 182** | **Entry Level: 290**
+**Total listings: 479** | **Open: 479** | **New Grad: 187** | **Entry Level: 292**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (182 open)
+# 🎓 2027 New Grad Programs (187 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (47 open)
+## 🏦 Investment Banking (49 open)
 
 <table>
 <tr>
@@ -53,6 +53,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Analyst I Equity Capital Markets (New York, NY)</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-analyst-i-equity-capital-markets-new-york-ny-at-citizens-4453014700"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**CIBC US**</td>
+<td>2026 Analyst I, Investment Banking - US Middle Market</td>
+<td>Green Bay, Wisconsin Metropolitan Area</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2026-analyst-i-investment-banking-us-middle-market-at-cibc-us-4453168064"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**The DAK Group**</td>
+<td>Investment Banking Analyst 2026</td>
+<td>Ridgewood, NJ</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-banking-analyst-2026-at-the-dak-group-4452731645"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -455,7 +469,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 📈 Asset Management (8 open)
+## 📈 Asset Management (9 open)
 
 <table>
 <tr>
@@ -464,6 +478,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Soul Equity Solutions**</td>
+<td>Private Equity Associate 2027 start</td>
+<td>Philadelphia, PA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/private-equity-associate-2027-start-at-soul-equity-solutions-4449800190"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
 </tr>
 <tr>
 <td>**JPMorganChase**</td>
@@ -524,7 +545,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🔢 Quantitative Finance (42 open)
+## 🔢 Quantitative Finance (43 open)
 
 <table>
 <tr>
@@ -533,6 +554,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Montgomery Investment Technology, Inc.**</td>
+<td>Quantitative Finance Analyst 2026</td>
+<td>Cinnaminson, NJ</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-finance-analyst-2026-at-montgomery-investment-technology-inc-4451695654"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
 </tr>
 <tr>
 <td>**↳**</td>
@@ -831,7 +859,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (68 open)
+## 🏢 Corporate Finance (69 open)
 
 <table>
 <tr>
@@ -874,6 +902,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Commercial Credit Analyst Program - Cleveland</td>
 <td>Brooklyn, OH</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-commercial-credit-analyst-program-cleveland-at-keybank-4451415425"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>**Houlihan Lokey**</td>
+<td>Summer 2027 Financial Analyst (Class of 2028), Transaction Opinions - Dallas</td>
+<td>Dallas, TX</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/summer-2027-financial-analyst-class-of-2028-transaction-opinions-dallas-at-houlihan-lokey-4451867669"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -1418,7 +1453,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (290 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (292 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -2875,7 +2910,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (60 open)
+## 🛡️ Risk Management (62 open)
 
 <table>
 <tr>
@@ -2884,6 +2919,20 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**AECOM**</td>
+<td>Risk Management Analyst I</td>
+<td>Houston, TX</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/risk-management-analyst-i-at-aecom-4450176152"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Carra**</td>
+<td>Risk Management Analyst I</td>
+<td>Houston, TX</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/risk-management-analyst-i-at-carra-4452742134"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Omega College of Pharmacy**</td>
@@ -3589,7 +3638,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: August 12, 2026 at 09:23 AM**
+**Last updated: August 12, 2026 at 07:14 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
