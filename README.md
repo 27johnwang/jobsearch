@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **488+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **493+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 488** | **Open: 488** | **New Grad: 194** | **Entry Level: 294**
+**Total listings: 493** | **Open: 493** | **New Grad: 195** | **Entry Level: 298**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (194 open)
+# 🎓 2027 New Grad Programs (195 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -566,7 +566,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🔢 Quantitative Finance (47 open)
+## 🔢 Quantitative Finance (48 open)
 
 <table>
 <tr>
@@ -602,6 +602,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Quantitative Analytics Program – Risk Analytics and Decision Science (PhD) – Early Careers</td>
 <td>CHARLOTTE, NC</td>
 <td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program---Risk-Analytics-and-Decision-Science--PhD----Early-Careers_R-568247"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 Quantitative Analytics Program Capital Markets (Masters) - Early Careers</td>
+<td>Charlotte, NC</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-quantitative-analytics-program-capital-markets-masters-early-careers-at-wells-fargo-4454003113"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -1502,7 +1509,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (294 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (298 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -2128,7 +2135,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (54 open)
+## 🔢 Quantitative Finance (57 open)
 
 <table>
 <tr>
@@ -2137,6 +2144,27 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Squarepoint Capital**</td>
+<td>Quantitative Researcher - Convertible Bonds</td>
+<td>New York</td>
+<td><div align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=8122268&gh_jid=8122268"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Squarepoint Capital**</td>
+<td>Quantitative Researcher - Systematic Macro</td>
+<td>New York</td>
+<td><div align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=8122239&gh_jid=8122239"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Jump Trading**</td>
+<td>Portfolio Finance Trader</td>
+<td>New York</td>
+<td><div align="center"><a href="https://www.jumptrading.com/hr/job?gh_jid=8089950"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Fidelity**</td>
@@ -2966,7 +2994,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (63 open)
+## 🛡️ Risk Management (64 open)
 
 <table>
 <tr>
@@ -2975,6 +3003,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**CACI International Inc**</td>
+<td>Junior Risk Analyst – Enterprise Risk Management</td>
+<td>Reston, VA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-%E2%80%93-enterprise-risk-management-at-caci-international-inc-4450815261"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**AECOM**</td>
@@ -3701,7 +3736,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: August 13, 2026 at 09:24 AM**
+**Last updated: August 13, 2026 at 07:14 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
