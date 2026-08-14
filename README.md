@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **500+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **505+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 500** | **Open: 500** | **New Grad: 200** | **Entry Level: 300**
+**Total listings: 505** | **Open: 505** | **New Grad: 203** | **Entry Level: 302**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (200 open)
+# 🎓 2027 New Grad Programs (203 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (54 open)
+## 🏦 Investment Banking (56 open)
 
 <table>
 <tr>
@@ -56,6 +56,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>0d</td>
 </tr>
 <tr>
+<td>**Cantor Fitzgerald**</td>
+<td>Investment Banking Analyst, Technology Group (Class of 2027)</td>
+<td>San Francisco, CA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-banking-analyst-technology-group-class-of-2027-at-cantor-fitzgerald-4453568906"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td>**Houlihan Lokey**</td>
 <td>Investment Banking Financial Analyst | Boston Technology (Class of 2027)</td>
 <td>Boston, MA</td>
@@ -67,6 +74,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Investment Banking Financial Analyst | Washington DC, Industrials (Class of 2027)</td>
 <td>Washington, DC</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-banking-financial-analyst-washington-dc-industrials-class-of-2027-at-houlihan-lokey-4454303440"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**Houlihan Lokey**</td>
+<td>Financial Analyst (Class of 2027) - Financial Restructuring - Minneapolis</td>
+<td>Minneapolis, MN</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/financial-analyst-class-of-2027-financial-restructuring-minneapolis-at-houlihan-lokey-4443979854"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -936,7 +950,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (71 open)
+## 🏢 Corporate Finance (72 open)
 
 <table>
 <tr>
@@ -958,6 +972,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Analyst Development Program - AS/COO track</td>
 <td>Limerick, Ireland</td>
 <td><div align="center"><a href="https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Limerick-Ireland/Analyst-Development-Program---AS-COO-track_R159510-2"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Alvarez & Marsal**</td>
+<td>2027 Analyst, Corporate Performance Improvement (CPI)</td>
+<td>Atlanta, GA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-analyst-corporate-performance-improvement-cpi-at-alvarez-marsal-4454572135"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -1544,7 +1565,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (300 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (302 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -1954,7 +1975,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📈 Asset Management (29 open)
+## 📈 Asset Management (30 open)
 
 <table>
 <tr>
@@ -1963,6 +1984,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Collyde, Inc.**</td>
+<td>Multi-Family Office Associate (Entry-Level) | Wealth Management (New York)</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/multi-family-office-associate-entry-level-wealth-management-new-york-at-collyde-inc-4454329033"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Frost**</td>
@@ -3043,7 +3071,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (64 open)
+## 🛡️ Risk Management (65 open)
 
 <table>
 <tr>
@@ -3052,6 +3080,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Signature Roofing Solutions**</td>
+<td>Junior Risk Analyst</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-signature-roofing-solutions-4451264382"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**CACI International Inc**</td>
@@ -3785,7 +3820,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: August 14, 2026 at 09:18 AM**
+**Last updated: August 14, 2026 at 07:07 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
