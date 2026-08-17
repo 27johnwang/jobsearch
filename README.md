@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **517+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **525+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 517** | **Open: 517** | **New Grad: 211** | **Entry Level: 306**
+**Total listings: 525** | **Open: 525** | **New Grad: 218** | **Entry Level: 307**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (211 open)
+# 🎓 2027 New Grad Programs (218 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (59 open)
+## 🏦 Investment Banking (61 open)
 
 <table>
 <tr>
@@ -53,6 +53,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Investment Banking Graduate Programme 2027 Hong Kong</td>
 <td>Hong Kong, Cheung Kong Center</td>
 <td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Investment-Banking-Graduate-Programme-2027-Hong-Kong_JR-0000128137"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 Investment Banking Associate Program - Early Careers</td>
+<td>5 Locations</td>
+<td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/XMLNAME-2027-Investment-Banking-Associate-Program---Early-Careers_R-568553"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 Investment Banking Associate Program (CA) - Early Careers</td>
+<td>2 Locations</td>
+<td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Investment-Banking-Associate-Program--CA----Early-Careers_R-568575"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -985,7 +999,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (73 open)
+## 🏢 Corporate Finance (78 open)
 
 <table>
 <tr>
@@ -1000,6 +1014,34 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>International Corporate Banking Graduate Programme 2027 Singapore</td>
 <td>Singapore, Marina Bay Financial Tower 2</td>
 <td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/International-Corporate-Banking-Graduate-Programme-2027-Singapore_JR-0000128134"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**JPMorgan Chase**</td>
+<td>2026 Find Your Fit – Early Career Programs in China – Tsinghua University</td>
+<td>Beijing, China</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778140"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**JPMorgan Chase**</td>
+<td>2026 Find Your Fit – Early Career Programs in China – Fudan University</td>
+<td>Shanghai, China</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778564"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**JPMorgan Chase**</td>
+<td>2026 Find Your Fit – Early Career Programs in China – Peking University</td>
+<td>Beijing, China</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778133"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**JPMorgan Chase**</td>
+<td>2026 Find Your Fit – Early Career Programs in China – Shanghai Jiao Tong University</td>
+<td>Shanghai, China</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778580"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -1049,6 +1091,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Customer Experience Associate (New Grad)</td>
 <td>Westlake, TX</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8122623?t=gh_src=&gh_jid=8122623"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td>**L.E.K. Consulting**</td>
+<td>U.S. Associate - 2027</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/u-s-associate-2027-at-l-e-k-consulting-4434150535"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
@@ -1634,7 +1683,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (306 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (307 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -3636,7 +3685,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 💻 Financial Technology (22 open)
+## 💻 Financial Technology (23 open)
 
 <table>
 <tr>
@@ -3645,6 +3694,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Twilio**</td>
+<td>Fraud Specialist 1</td>
+<td>Remote - Estonia</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/twilio/jobs/8132266"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Figure**</td>
@@ -3917,7 +3973,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: August 17, 2026 at 08:57 AM**
+**Last updated: August 17, 2026 at 06:52 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
