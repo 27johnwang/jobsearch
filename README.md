@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **592+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **599+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 592** | **Open: 592** | **New Grad: 268** | **Entry Level: 324**
+**Total listings: 599** | **Open: 599** | **New Grad: 273** | **Entry Level: 326**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (268 open)
+# 🎓 2027 New Grad Programs (273 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (74 open)
+## 🏦 Investment Banking (75 open)
 
 <table>
 <tr>
@@ -47,6 +47,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Houlihan Lokey**</td>
+<td>Investment Banking Financial Analyst | New York, Business Services (Class of 2027)</td>
+<td>New York, NY, USA</td>
+<td><div align="center"><a href="https://hl.wd1.myworkdayjobs.com/External/job/New-York-NY-USA/Investment-Banking-Financial-Analyst---New-York--Business-Services--Class-of-2027-_R3460"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Deutsche Bank**</td>
@@ -569,7 +576,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 📊 Sales & Trading (7 open)
+## 📊 Sales & Trading (8 open)
 
 <table>
 <tr>
@@ -578,6 +585,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**AQR Capital Management**</td>
+<td>2027 Trading Analyst</td>
+<td>Greenwich, CT</td>
+<td><div align="center"><a href="https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Apple**</td>
@@ -1174,7 +1188,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (102 open)
+## 🏢 Corporate Finance (105 open)
 
 <table>
 <tr>
@@ -1183,6 +1197,27 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Avient Corporation**</td>
+<td>Finance Associate - 2027 Leadership Development Program</td>
+<td>Avon Lake, OH</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-associate-2027-leadership-development-program-at-avient-corporation-4456930609"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**EY**</td>
+<td>Tax - Transfer Pricing - Junior Consultant | Starting September 2026 (Luxembourg, LU, L-1855)</td>
+<td>United States</td>
+<td><div align="center"><a href="https://careers.ey.com/ey/job/Luxembourg-Tax-Transfer-Pricing-Junior-Consultant-Starting-September-2026-L-1855/1282511901/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Fidelity Investments**</td>
+<td>Software Engineer New Grad - LEAP</td>
+<td>Westlake, TX</br>Merrimack, NH</td>
+<td><div align="center"><a href="https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2134380"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**JPMorgan Chase**</td>
@@ -2033,7 +2068,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (324 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (326 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -2464,7 +2499,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📈 Asset Management (30 open)
+## 📈 Asset Management (31 open)
 
 <table>
 <tr>
@@ -2473,6 +2508,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Point72**</td>
+<td>Equities Trade Support Analyst</td>
+<td>Stamford, CT</td>
+<td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8729509002?gh_jid=8729509002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Collyde, Inc.**</td>
@@ -2687,7 +2729,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (58 open)
+## 🔢 Quantitative Finance (59 open)
 
 <table>
 <tr>
@@ -2696,6 +2738,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Deeter Analytics**</td>
+<td>Junior Quantitative Researcher</td>
+<td>United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-researcher-at-deeter-analytics-4457483803"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Fionics**</td>
@@ -4442,7 +4491,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: August 25, 2026 at 08:57 AM**
+**Last updated: August 25, 2026 at 06:51 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
