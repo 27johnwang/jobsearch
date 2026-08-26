@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **602+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **607+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 602** | **Open: 602** | **New Grad: 274** | **Entry Level: 328**
+**Total listings: 607** | **Open: 607** | **New Grad: 276** | **Entry Level: 331**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (274 open)
+# 🎓 2027 New Grad Programs (276 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (76 open)
+## 🏦 Investment Banking (78 open)
 
 <table>
 <tr>
@@ -47,6 +47,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Houlihan Lokey**</td>
+<td>Investment Banking Financial Analyst | New York, Healthcare (Class of 2027)</td>
+<td>New York, NY, USA</td>
+<td><div align="center"><a href="https://hl.wd1.myworkdayjobs.com/External/job/New-York-NY-USA/Investment-Banking-Financial-Analyst---New-York--Healthcare--Class-of-2027-_R3516"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Houlihan Lokey**</td>
@@ -61,6 +68,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>St. Petersburg, FL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-capital-markets-analyst-program-st-petersburg-fl-at-raymond-james-4456956535"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1d</td>
+</tr>
+<tr>
+<td>**Capital One**</td>
+<td>MBA, Investment Banking Associate - 2027</td>
+<td>McLean, VA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/mba-investment-banking-associate-2027-at-capital-one-4457573083"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**Deutsche Bank**</td>
@@ -2075,7 +2089,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (328 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (331 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -2409,7 +2423,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 💼 Consulting (12 open)
+## 💼 Consulting (13 open)
 
 <table>
 <tr>
@@ -2418,6 +2432,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Stripe**</td>
+<td>Operations Associate, Financial Crimes EDD/PEP</td>
+<td>Bangalore</td>
+<td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8102597"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Guidehouse**</td>
@@ -2736,7 +2757,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (59 open)
+## 🔢 Quantitative Finance (60 open)
 
 <table>
 <tr>
@@ -2745,6 +2766,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Flow Traders**</td>
+<td>Junior Quantitative Researcher </td>
+<td>New York</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/flowtraders/jobs/8156203"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Deeter Analytics**</td>
@@ -3665,7 +3693,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (72 open)
+## 🛡️ Risk Management (73 open)
 
 <table>
 <tr>
@@ -3674,6 +3702,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Stellantis Financial Services US**</td>
+<td>Risk Analyst 1, Economic and Residual Management</td>
+<td>Dallas, TX</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/risk-analyst-1-economic-and-residual-management-at-stellantis-financial-services-us-4457971502"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Global Credit Union**</td>
@@ -4512,7 +4547,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: August 26, 2026 at 09:03 AM**
+**Last updated: August 26, 2026 at 07:59 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
