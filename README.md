@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **618+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **626+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 618** | **Open: 618** | **New Grad: 282** | **Entry Level: 336**
+**Total listings: 626** | **Open: 626** | **New Grad: 286** | **Entry Level: 340**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (282 open)
+# 🎓 2027 New Grad Programs (286 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (81 open)
+## 🏦 Investment Banking (83 open)
 
 <table>
 <tr>
@@ -56,10 +56,24 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>0d</td>
 </tr>
 <tr>
+<td>**Huron**</td>
+<td>Turnaround and Restructuring Analyst 2027 Graduates (Q3/Q4 2027 Start Dates; Chicago or NY)</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/turnaround-and-restructuring-analyst-2027-graduates-q3-q4-2027-start-dates-chicago-or-ny-at-huron-4458420637"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td>**Piper Sandler**</td>
 <td>Campus Recruiting - 2027 Investment Banking Analyst - Healthcare</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/campus-recruiting-2027-investment-banking-analyst-healthcare-at-piper-sandler-4458005551"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**JPMorganChase**</td>
+<td>2027 Commercial & Investment Bank Markets Full Time Analyst Program</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-commercial-investment-bank-markets-full-time-analyst-program-at-jpmorganchase-4440937823"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -839,7 +853,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🔢 Quantitative Finance (56 open)
+## 🔢 Quantitative Finance (57 open)
 
 <table>
 <tr>
@@ -848,6 +862,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**GTS**</td>
+<td>Quantitative Trader - 2027 Graduates</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-trader-2027-graduates-at-gts-4458406722"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Wells Fargo**</td>
@@ -1244,7 +1265,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (106 open)
+## 🏢 Corporate Finance (107 open)
 
 <table>
 <tr>
@@ -1581,6 +1602,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Entry Level Equity Trader - March 2027</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/entry-level-equity-trader-march-2027-at-chimera-securities-llc-4450762243"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3w</td>
+</tr>
+<tr>
+<td>**Squarepoint Capital**</td>
+<td>Trading Infrastructure Specialist – Graduate Programme</td>
+<td>London, Montreal, Hong Kong, New York, Singapore</td>
+<td><div align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>3w</td>
 </tr>
 <tr>
@@ -2131,7 +2159,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (336 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (340 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -3246,7 +3274,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🏢 Corporate Finance (71 open)
+## 🏢 Corporate Finance (73 open)
 
 <table>
 <tr>
@@ -3255,6 +3283,20 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Kaiser Permanente**</td>
+<td>Financial Planning & Analysis Analyst I</td>
+<td>Pleasanton, CA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/financial-planning-analysis-analyst-i-at-kaiser-permanente-4458955542"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**GM Financial**</td>
+<td>Financial Analyst I - FP&A Cost Analytics</td>
+<td>Fort Worth, TX</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/financial-analyst-i-fp-a-cost-analytics-at-gm-financial-4459421421"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Lucid Software**</td>
@@ -3756,7 +3798,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (75 open)
+## 🛡️ Risk Management (77 open)
 
 <table>
 <tr>
@@ -3765,6 +3807,20 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**RISE Partners LLC**</td>
+<td>Junior Risk Analyst</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-rise-partners-llc-4460513408"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Carta**</td>
+<td>Junior Inbound Compliance Analyst (KYC)</td>
+<td>New York City Metropolitan Area</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-inbound-compliance-analyst-kyc-at-carta-4458417528"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Stellantis Insurance US**</td>
@@ -4624,7 +4680,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: August 28, 2026 at 02:13 AM**
+**Last updated: August 28, 2026 at 08:15 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
