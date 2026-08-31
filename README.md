@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **636+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **640+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 636** | **Open: 636** | **New Grad: 292** | **Entry Level: 344**
+**Total listings: 640** | **Open: 640** | **New Grad: 295** | **Entry Level: 345**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (292 open)
+# 🎓 2027 New Grad Programs (295 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -1279,7 +1279,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (111 open)
+## 🏢 Corporate Finance (114 open)
 
 <table>
 <tr>
@@ -1294,6 +1294,27 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Analyst, Finance Rotational Program (August 2027 Start Date)</td>
 <td>Miami, FL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/analyst-finance-rotational-program-august-2027-start-date-at-royal-caribbean-group-4461094779"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**L.E.K. Consulting**</td>
+<td>U.S. Associate - 2027</td>
+<td>Boston, MA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/u-s-associate-2027-at-l-e-k-consulting-4459224076"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**KeyBank**</td>
+<td>2027 KeyBank Consumer Analyst Development Program - Buffalo, NY</td>
+<td>Buffalo, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-keybank-consumer-analyst-development-program-buffalo-ny-at-keybank-4460043255"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Citigroup**</td>
+<td>Market Operations Junior Analyst Program Hybrid</td>
+<td>Getzville New York United States</td>
+<td><div align="center"><a href="https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Market-Operations-Junior-Analyst-Program-Hybrid_26991391-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -2201,14 +2222,14 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (344 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (345 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
 > **Filter by experience:** Use [jobs.html](jobs.html) to select your exact years of experience and see only matching roles.
 
 
-## 🏦 Investment Banking (24 open)
+## 🏦 Investment Banking (25 open)
 
 <table>
 <tr>
@@ -2217,6 +2238,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Truist**</td>
+<td>Investment Grade- Debt Capital Markets Analyst I</td>
+<td>Atlanta, GA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-grade-debt-capital-markets-analyst-i-at-truist-4461271096"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Fifth Third Bank**</td>
@@ -4750,7 +4778,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: August 31, 2026 at 04:11 PM**
+**Last updated: August 31, 2026 at 10:47 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
