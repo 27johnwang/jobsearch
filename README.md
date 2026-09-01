@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **661+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **681+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 661** | **Open: 661** | **New Grad: 317** | **Entry Level: 344**
+**Total listings: 681** | **Open: 681** | **New Grad: 337** | **Entry Level: 344**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (317 open)
+# 🎓 2027 New Grad Programs (337 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (86 open)
+## 🏦 Investment Banking (90 open)
 
 <table>
 <tr>
@@ -53,6 +53,34 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Global Investment Banking Analyst Program – 2027 (“GCIB Analyst Program”)</td>
 <td>Palo Alto, CA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/global-investment-banking-analyst-program-%E2%80%93-2027-%E2%80%9Cgcib-analyst-program%E2%80%9D-at-bank-of-america-4460274815"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Bank of America**</td>
+<td>Global Investment Banking Analyst Program – 2027</td>
+<td>Palo Alto, CA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/global-investment-banking-analyst-program-%E2%80%93-2027-at-bank-of-america-4460274815"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**MUFG**</td>
+<td>2027 Corporate, Investment Banking and Markets (CIB&M) Full-Time Analyst Program – Sponsor Finance & Direct Lending | New York</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-corporate-investment-banking-and-markets-cib-m-full-time-analyst-program-%E2%80%93-sponsor-finance-direct-lending-new-york-at-mufg-4462024266"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>Banking Analyst (Coverage M&A) Graduate Program 2027 New York City</td>
+<td>New York, 745 7th Avenue</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Banking-Analyst--Coverage-M-A--Graduate-Program-2027-New-York-City_JR-0000123420-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>Banking Analyst (Capital Markets) Graduate Program 2027 New York City</td>
+<td>New York, 745 7th Avenue</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Banking-Analyst--Capital-Markets--Graduate-Program-2027-New-York-City_JR-0000123468-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -784,7 +812,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 📈 Asset Management (16 open)
+## 📈 Asset Management (18 open)
 
 <table>
 <tr>
@@ -806,6 +834,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Graduate Talent Program - Asset Management Infrastructure - NY</td>
 <td>New York, United States</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-graduate-talent-program-asset-management-infrastructure-ny-at-ubs-4461548570"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**UBS**</td>
+<td>2027 Graduate Talent Program - Asset Management Investments - New York</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-graduate-talent-program-asset-management-investments-new-york-at-ubs-4461540725"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**UBS**</td>
+<td>2027 Graduate Talent Program - Global Wealth Management - NJ/NY</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-graduate-talent-program-global-wealth-management-nj-ny-at-ubs-4461545625"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -1321,7 +1363,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (130 open)
+## 🏢 Corporate Finance (144 open)
 
 <table>
 <tr>
@@ -1427,6 +1469,104 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Software Engineer New Grad</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8157838"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**AIG**</td>
+<td>2027 Early Careers: Analyst, Finance– United States, New York, NY</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-early-careers-analyst-finance%E2%80%93-united-states-new-york-ny-at-aig-4460621674"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**MetLife**</td>
+<td>2027 MIM Analyst Program</td>
+<td>Whippany, NJ</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-mim-analyst-program-at-metlife-4462040509"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Deutsche Bank**</td>
+<td>Deutsche Bank Graduate Program - Chief Risk Office - New York 2027</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/deutsche-bank-graduate-program-chief-risk-office-new-york-2027-at-deutsche-bank-4459560180"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**AIG**</td>
+<td>2027 Early Careers: Analyst, Underwriting – Aviation – United States, Chicago, IL</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-early-careers-analyst-underwriting-%E2%80%93-aviation-%E2%80%93-united-states-chicago-il-at-aig-4460601877"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**AIG**</td>
+<td>2027 Early Careers: Analyst, Claims – United States, Lenexa, KS, Houston, TX, Atlanta, GA & New York, NY</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-early-careers-analyst-claims-%E2%80%93-united-states-lenexa-ks-houston-tx-atlanta-ga-new-york-ny-at-aig-4460600988"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Deutsche Bank**</td>
+<td>Deutsche Bank Graduate Program - Group Audit - New York 2027</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/deutsche-bank-graduate-program-group-audit-new-york-2027-at-deutsche-bank-4459563092"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**AIG**</td>
+<td>2027 Early Careers: Analyst, CUO (Commercial Underwriting Office) – United States, Multiple Locations</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-early-careers-analyst-cuo-commercial-underwriting-office-%E2%80%93-united-states-multiple-locations-at-aig-4460622006"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>Banking Associate Graduate Program 2027 New York City</td>
+<td>New York, 745 7th Avenue</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Banking-Associate-Graduate-Program-2027-New-York-City_JR-0000123461-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>International Corporate Banking Analyst Graduate Program 2027 New York</td>
+<td>New York, 745 7th Avenue</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/International-Corporate-Banking-Analyst-Graduate-Program-2027-New-York_JR-0000123450-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Morgan Stanley**</td>
+<td>Parametric Investment Analyst Winter Cohort 2027</td>
+<td>Seattle, Washington, United States of America</td>
+<td><div align="center"><a href="https://ms.wd5.myworkdayjobs.com/External/job/Seattle-Washington-United-States-of-America/Parametric-Investment-Analyst-Winter-Cohort-2027_JR042797"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 CIB Commercial Real Estate Analyst Program - Early Careers - Toronto</td>
+<td>Toronto, Canada</td>
+<td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Toronto-Canada/XMLNAME-2027-CIB-Commercial-Real-Estate-Analyst-Program---Early-Careers---Toronto_R-572467"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**American Express**</td>
+<td>Campus Undergraduate Full-Time Analyst - 2027 Data & Analytics, Enterprise Technology Services- Phoenix, AZ</td>
+<td>Phoenix, AZ, United States</td>
+<td><div align="center"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013281"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**American Express**</td>
+<td>Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ</td>
+<td>Phoenix, AZ, United States</td>
+<td><div align="center"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013352"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**American Express**</td>
+<td>Campus Undergraduate Full-Time Analyst - 2027 Data Engineer I, Enterprise Technology Services- Phoenix, AZ</td>
+<td>Phoenix, AZ, United States</td>
+<td><div align="center"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013286"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -4925,7 +5065,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: September 01, 2026 at 01:30 PM**
+**Last updated: September 01, 2026 at 08:57 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
