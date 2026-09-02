@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **700+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **710+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 700** | **Open: 700** | **New Grad: 354** | **Entry Level: 346**
+**Total listings: 710** | **Open: 710** | **New Grad: 362** | **Entry Level: 348**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (354 open)
+# 🎓 2027 New Grad Programs (362 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (90 open)
+## 🏦 Investment Banking (91 open)
 
 <table>
 <tr>
@@ -47,6 +47,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Bank of America**</td>
+<td>Global Investment Banking Analyst Program – 2027</td>
+<td>Palo Alto, CA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/global-investment-banking-analyst-program-%E2%80%93-2027-at-bank-of-america-4461306816"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Bank of America**</td>
@@ -958,7 +965,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🔢 Quantitative Finance (58 open)
+## 🔢 Quantitative Finance (59 open)
 
 <table>
 <tr>
@@ -967,6 +974,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Old Mission Capital**</td>
+<td>Fundamental Research Analyst - 2027 Graduate Program - (August Start)</td>
+<td>Chicago, IL, United States</td>
+<td><div align="center"><a href="https://www.oldmissioncapital.com/careers/?gh_jid=7982061003"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Gunvor Group**</td>
@@ -1377,7 +1391,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (158 open)
+## 🏢 Corporate Finance (164 open)
 
 <table>
 <tr>
@@ -1427,6 +1441,48 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Banking Graduate Programme 2027 Frankfurt</td>
 <td>Frankfurt, Taunus Turm</td>
 <td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Frankfurt-Taunus-Turm/Banking-Graduate-Programme-2027-Frankfurt_JR-0000124547"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Old Mission**</td>
+<td>Fundamental Research Analyst - 2027 Graduate Program - (August Start)</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/fundamental-research-analyst-2027-graduate-program-august-start-at-old-mission-4462401519"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Point72**</td>
+<td>Point72 Academy Investment Analyst Program for Upcoming Graduates (US) 2027</td>
+<td>Miami Beach, FL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/point72-academy-investment-analyst-program-for-upcoming-graduates-us-2027-at-point72-4459599420"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Prudential Financial**</td>
+<td>Prudential: 2027 Corporate, Chief Investment Office (CIO) Analyst Program</td>
+<td>Newark, NJ</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/prudential-2027-corporate-chief-investment-office-cio-analyst-program-at-prudential-financial-4460996700"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Point72**</td>
+<td>Point72 Academy 2026 Investment Analyst Program for Experienced Professionals-US</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/point72-academy-2026-investment-analyst-program-for-experienced-professionals-us-at-point72-4459901316"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**American Express**</td>
+<td>Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA</td>
+<td>Atlanta, GA, United States</td>
+<td><div align="center"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013319"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**American Express**</td>
+<td>Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY</td>
+<td>New York, NY, United States</td>
+<td><div align="center"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013354"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -2635,7 +2691,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (346 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (348 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -3303,7 +3359,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (63 open)
+## 🔢 Quantitative Finance (65 open)
 
 <table>
 <tr>
@@ -3318,6 +3374,20 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Entry-Level Quantitative Researcher</td>
 <td>New York, United States</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/entry-level-quantitative-researcher-at-point72-4459903231"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Lighthouse Investment Partners, LLC**</td>
+<td>Junior Quantitative Analyst</td>
+<td>New York City Metropolitan Area</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-analyst-at-lighthouse-investment-partners-llc-4462458199"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Point72**</td>
+<td>Entry-Level Quantitative Researcher</td>
+<td>Seattle, WA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/entry-level-quantitative-researcher-at-point72-4459596749"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -5198,7 +5268,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: September 02, 2026 at 12:48 PM**
+**Last updated: September 02, 2026 at 08:56 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
