@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **737+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **748+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 737** | **Open: 737** | **New Grad: 385** | **Entry Level: 352**
+**Total listings: 748** | **Open: 748** | **New Grad: 395** | **Entry Level: 353**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (385 open)
+# 🎓 2027 New Grad Programs (395 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -820,7 +820,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 💼 Consulting (4 open)
+## 💼 Consulting (5 open)
 
 <table>
 <tr>
@@ -829,6 +829,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Hatch**</td>
+<td>Analyst - Management Consulting - New Graduate 2027</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/analyst-management-consulting-new-graduate-2027-at-hatch-4461935336"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
 </tr>
 <tr>
 <td>**Robinhood**</td>
@@ -1000,7 +1007,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🔢 Quantitative Finance (59 open)
+## 🔢 Quantitative Finance (61 open)
 
 <table>
 <tr>
@@ -1009,6 +1016,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>2027 Quantitative Analytics Analyst Graduate Program New York</td>
+<td>New York, 745 7th Avenue</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/XMLNAME-2027-Quantitative-Analytics-Analyst-Graduate-Program-New-York_JR-0000131452"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>Quantitative Analytics Associate Graduate Programme 2027 London</td>
+<td>Canary Wharf, 1 Churchill Place</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Analytics-Associate-Graduate-Programme-2027-London_JR-0000124678"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Old Mission Capital**</td>
@@ -1426,7 +1447,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (177 open)
+## 🏢 Corporate Finance (183 open)
 
 <table>
 <tr>
@@ -1455,6 +1476,48 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Campus Undergraduate Full-Time Analyst - 2027 Enterprise Strategy - New York, NY</td>
 <td>New York, NY, United States</td>
 <td><div align="center"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013162"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**BlackRock**</td>
+<td>2027 Full-Time Analyst Program - AMRS</td>
+<td>Albuquerque-Santa Fe Metropolitan Area</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-full-time-analyst-program-amrs-at-blackrock-4463615369"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Deutsche Bank**</td>
+<td>Deutsche Bank Graduate Program - Corporate Bank - New York 2027</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/deutsche-bank-graduate-program-corporate-bank-new-york-2027-at-deutsche-bank-4461189541"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>2027 Finance Analyst Graduate Program New York</td>
+<td>New York, 745 7th Avenue</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/XMLNAME-2027-Finance-Analyst-Graduate-Program-New-York_JR-0000131451"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>2027 Technology Developer Expert Graduate Program Wilmington</td>
+<td>United States</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Expert-Graduate-Program-Wilmington_JR-0000123440"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>2027 Operations Analyst Graduate Program Whippany</td>
+<td>Building 400-Whippany Campus, Jefferson Park</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/XMLNAME-2027-Operations-Analyst-Graduate-Program-Whippany_JR-0000123433-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>2027 Technology Developer Graduate Program Whippany</td>
+<td>United States</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -2678,7 +2741,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🛡️ Risk Management (10 open)
+## 🛡️ Risk Management (11 open)
 
 <table>
 <tr>
@@ -2687,6 +2750,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>2027 Risk Analyst Graduate Program Wilmington</td>
+<td>United States</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Risk-Analyst-Graduate-Program-Wilmington_JR-0000123241-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Credit One Bank**</td>
@@ -2852,7 +2922,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (352 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (353 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4554,7 +4624,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (80 open)
+## 🛡️ Risk Management (81 open)
 
 <table>
 <tr>
@@ -4563,6 +4633,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**SUNRISE ENERGY**</td>
+<td>Junior Risk Analyst</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-sunrise-energy-4461412016"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**NeerInfo Solutions**</td>
@@ -5457,7 +5534,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: September 04, 2026 at 12:45 PM**
+**Last updated: September 04, 2026 at 08:40 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
