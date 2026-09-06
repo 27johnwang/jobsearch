@@ -1,5 +1,23 @@
 [
   {
+    "company": "Citizens",
+    "role": "Investment Banking Analyst I, Equity Capital Markets",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/investment-banking-analyst-i-equity-capital-markets-at-citizens-4463789981",
+    "date_posted": "2026-09-06",
+    "category": "Investment Banking",
+    "source": "linkedin",
+    "is_closed": false,
+    "requires_visa_sponsorship": true,
+    "us_citizenship_required": false,
+    "company_url": null,
+    "tags": [],
+    "date_added": "2026-09-06",
+    "experience_type": "entry_level",
+    "min_years": 0,
+    "max_years": 2
+  },
+  {
     "company": "Citizens Wealth Management",
     "role": "Investment Banking Analyst I, Equity Capital MarketsNew York,  New YorkNew York, New York",
     "location": "New York, NY",
@@ -49,6 +67,24 @@
     "company_url": null,
     "tags": [],
     "date_added": "2026-09-05",
+    "experience_type": "new_grad",
+    "min_years": 0,
+    "max_years": 0
+  },
+  {
+    "company": "Barclays",
+    "role": "2027 Finance Analyst Graduate Program New York",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/2027-finance-analyst-graduate-program-new-york-at-barclays-4461493225",
+    "date_posted": "2026-09-05",
+    "category": "Corporate Finance",
+    "source": "linkedin",
+    "is_closed": false,
+    "requires_visa_sponsorship": true,
+    "us_citizenship_required": false,
+    "company_url": null,
+    "tags": [],
+    "date_added": "2026-09-06",
     "experience_type": "new_grad",
     "min_years": 0,
     "max_years": 0
