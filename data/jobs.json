@@ -1,5 +1,23 @@
 [
   {
+    "company": "Wells Fargo",
+    "role": "2027 Human Resources Development Program \u2013 Early Careers",
+    "location": "CHARLOTTE, NC",
+    "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Human-Resources-Development-Program---Early-Careers_R-572880",
+    "date_posted": "2026-09-07",
+    "category": "Corporate Finance",
+    "source": "workday",
+    "is_closed": false,
+    "requires_visa_sponsorship": true,
+    "us_citizenship_required": false,
+    "company_url": null,
+    "tags": [],
+    "date_added": "2026-09-07",
+    "experience_type": "new_grad",
+    "min_years": 0,
+    "max_years": 0
+  },
+  {
     "company": "Citizens",
     "role": "Investment Banking Analyst I, Equity Capital Markets",
     "location": "New York, NY",
@@ -124,6 +142,24 @@
     "experience_type": "new_grad",
     "min_years": 0,
     "max_years": 0
+  },
+  {
+    "company": "Eccalon, LLC",
+    "role": "Junior Finance Analyst",
+    "location": "Detroit, MI",
+    "url": "https://www.linkedin.com/jobs/view/junior-finance-analyst-at-eccalon-llc-4462341355",
+    "date_posted": "2026-09-05",
+    "category": "Corporate Finance",
+    "source": "linkedin",
+    "is_closed": false,
+    "requires_visa_sponsorship": true,
+    "us_citizenship_required": false,
+    "company_url": null,
+    "tags": [],
+    "date_added": "2026-09-07",
+    "experience_type": "entry_level",
+    "min_years": 0,
+    "max_years": 2
   },
   {
     "company": "Bank of America",
@@ -13642,23 +13678,5 @@
     "experience_type": "new_grad",
     "min_years": 0,
     "max_years": 0
-  },
-  {
-    "company": "Ramp",
-    "role": "Software Engineer, Onboarding",
-    "location": "New York, NY (HQ)",
-    "url": "https://jobs.ashbyhq.com/ramp/f1b3ca8d-d55f-4159-9a3b-f69ad0d981bc",
-    "date_posted": "2026-06-08",
-    "category": "Financial Technology",
-    "source": "ashby",
-    "is_closed": false,
-    "requires_visa_sponsorship": true,
-    "us_citizenship_required": false,
-    "company_url": null,
-    "tags": [],
-    "date_added": "2026-07-19",
-    "experience_type": "entry_level",
-    "min_years": 0,
-    "max_years": 2
   }
 ]
