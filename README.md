@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **767+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **785+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 767** | **Open: 767** | **New Grad: 409** | **Entry Level: 358**
+**Total listings: 785** | **Open: 785** | **New Grad: 423** | **Entry Level: 362**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (409 open)
+# 🎓 2027 New Grad Programs (423 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (98 open)
+## 🏦 Investment Banking (103 open)
 
 <table>
 <tr>
@@ -47,6 +47,41 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**CIBC**</td>
+<td>Global Investment Banking Analyst, Winter 2027 Analyst (Winnipeg)</td>
+<td>Winnipeg, MB</td>
+<td><div align="center"><a href="https://cibc.wd3.myworkdayjobs.com/Campus/job/Winnipeg-MB/Global-Investment-Banking-Analyst--Winter-2027-Analyst--Winnipeg-_2618453"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**CIBC**</td>
+<td>Global Investment Banking Analyst, Winter 2027 Analyst (Calgary)</td>
+<td>Calgary, AB</td>
+<td><div align="center"><a href="https://cibc.wd3.myworkdayjobs.com/Campus/job/Calgary-AB/Global-Investment-Banking-Analyst--Winter-2027-Analyst--Calgary-_2618460"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**CIBC**</td>
+<td>Capital Markets, Alternate Solutions Group, Winter 2027 Analyst</td>
+<td>Toronto, ON</td>
+<td><div align="center"><a href="https://cibc.wd3.myworkdayjobs.com/Campus/job/Toronto-ON/Capital-Markets--Alternate-Solutions-Group--Winter-2027-Analyst_2618471"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**CIBC**</td>
+<td>2027 Investment Banking Analyst I - Energy, Infrastructure, & Transition (Houston)</td>
+<td>Houston, TX</td>
+<td><div align="center"><a href="https://cibc.wd3.myworkdayjobs.com/Campus/job/Houston-TX/Analyst-I--Global-Investment-Banking_2616134"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Houlihan Lokey**</td>
+<td>2027 Investment Banking Summer Financial Analyst (Class of 2028) – Mumbai</td>
+<td>Mumbai, India</td>
+<td><div align="center"><a href="https://hl.wd1.myworkdayjobs.com/External/job/Mumbai-India/XMLNAME-2027-Investment-Banking-Summer-Financial-Analyst--Class-of-2028----Mumbai_R3566-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Bank of America**</td>
@@ -1468,7 +1503,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (194 open)
+## 🏢 Corporate Finance (203 open)
 
 <table>
 <tr>
@@ -1504,6 +1539,55 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Commercial Banking Early Career Development Program (CA/CO)</td>
 <td>2 Locations</td>
 <td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LOS-ANGELES-CA/XMLNAME-2027-Commercial-Banking-Early-Career-Development-Program--CA-CO-_R-572757"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**U.S. Bank**</td>
+<td>2027 Finance, Treasury, & Accounting Full-time Rotational Program - Finance Track</td>
+<td>Minneapolis, MN</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-finance-treasury-accounting-full-time-rotational-program-finance-track-at-u-s-bank-4464667360"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 Commercial Banking Early Career Development Program</td>
+<td>Minneapolis, MN</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-commercial-banking-early-career-development-program-at-wells-fargo-4464470305"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Clarios**</td>
+<td>Finance Rotational Program Associate (2027)</td>
+<td>Glendale, WI</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-rotational-program-associate-2027-at-clarios-4464452929"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**U.S. Bank**</td>
+<td>2027 Finance, Treasury, & Accounting Full-time Rotational Program - Accounting Track</td>
+<td>Minneapolis, MN</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-finance-treasury-accounting-full-time-rotational-program-accounting-track-at-u-s-bank-4464660932"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 Finance Analyst Rotational Program – Early Careers</td>
+<td>3 Locations</td>
+<td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Finance-Analyst-Rotational-Program---Early-Careers_R-573947"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 Commercial Banking Program - Early Careers</td>
+<td>Bengaluru, India</td>
+<td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Commercial-Banking-Program---Early-Careers_R-573851"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Capital One**</td>
+<td>Associate, Data Analyst - New Grad, 2027 Start</td>
+<td>Toronto, ON</td>
+<td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -1749,6 +1833,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Banking Associate Graduate Program 2027 New York City – Real Estate, Gaming and Lodging</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/banking-associate-graduate-program-2027-new-york-city-%E2%80%93-real-estate-gaming-and-lodging-at-barclays-4459599414"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td>**Corning Incorporated**</td>
+<td>Finance Rotational Analyst</td>
+<td>Painted Post, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-rotational-analyst-at-corning-incorporated-4460443000"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
@@ -2022,6 +2113,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 MIM Analyst Program</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-mim-analyst-program-at-metlife-4462042469"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1w</td>
+</tr>
+<tr>
+<td>**AIG**</td>
+<td>2027 Early Careers: Analyst, Underwriting – United States, Multiple Locations</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-early-careers-analyst-underwriting-%E2%80%93-united-states-multiple-locations-at-aig-4460650779"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1w</td>
 </tr>
 <tr>
@@ -3020,14 +3118,14 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (358 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (362 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
 > **Filter by experience:** Use [jobs.html](jobs.html) to select your exact years of experience and see only matching roles.
 
 
-## 🏦 Investment Banking (28 open)
+## 🏦 Investment Banking (31 open)
 
 <table>
 <tr>
@@ -3036,6 +3134,20 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**T. Rowe Price**</td>
+<td>Junior Trader, Equity Capital Markets</td>
+<td>Baltimore, MD</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-trader-equity-capital-markets-at-t-rowe-price-4462506630"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**T. Rowe Price**</td>
+<td>Junior Trader, Equity Capital Markets</td>
+<td>Baltimore, MD</td>
+<td><div align="center"><a href="https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Junior-Trader--Equity-Capital-Markets_82212"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Citizens**</td>
@@ -3056,6 +3168,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Capital Markets Analyst I – Loan Trading</td>
 <td>United States</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/capital-markets-analyst-i-%E2%80%93-loan-trading-at-pathward-4463626567"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**Pathward**</td>
+<td>Capital Markets Analyst I – Warehouse Finance</td>
+<td>United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/capital-markets-analyst-i-%E2%80%93-warehouse-finance-at-pathward-4463647005"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>4d</td>
 </tr>
 <tr>
@@ -3486,7 +3605,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📈 Asset Management (30 open)
+## 📈 Asset Management (31 open)
 
 <table>
 <tr>
@@ -3495,6 +3614,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**JPMorgan Chase**</td>
+<td>Wealth Management Executive Office Investigator Analyst I</td>
+<td>Columbus, OH, United States</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783137"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Point72**</td>
@@ -5667,7 +5793,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: September 08, 2026 at 12:55 PM**
+**Last updated: September 08, 2026 at 09:03 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
