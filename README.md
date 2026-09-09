@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **804+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **820+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 804** | **Open: 804** | **New Grad: 438** | **Entry Level: 366**
+**Total listings: 820** | **Open: 820** | **New Grad: 451** | **Entry Level: 369**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (438 open)
+# 🎓 2027 New Grad Programs (451 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (109 open)
+## 🏦 Investment Banking (110 open)
 
 <table>
 <tr>
@@ -67,6 +67,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Commodities Analyst - Capital Markets Analyst Program</td>
 <td>Charlotte, NC</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/commodities-analyst-capital-markets-analyst-program-at-zions-bancorporation-4463559943"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Truist**</td>
+<td>2027 Truist Securities - Investment Banking Analyst Program (Full-Time)</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-truist-securities-investment-banking-analyst-program-full-time-at-truist-4465308257"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -1112,7 +1119,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🔢 Quantitative Finance (64 open)
+## 🔢 Quantitative Finance (66 open)
 
 <table>
 <tr>
@@ -1134,6 +1141,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Quantitative Analytics Program – Applied Computational Intelligence (ACI PhD) – Early Careers</td>
 <td>CHARLOTTE, NC</td>
 <td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program---Applied-Computational-Intelligence--ACI-PhD----Early-Careers_R-574026"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>2027 Quantitative Analytics Associate Graduate Programme Glasgow</td>
+<td>Glasgow Campus</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-Glasgow_JR-0000129392"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>2027 Quantitative Analytics Associate Graduate Programme London</td>
+<td>Canary Wharf, 1 Churchill Place</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-London_JR-0000129352"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -1573,7 +1594,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (209 open)
+## 🏢 Corporate Finance (219 open)
 
 <table>
 <tr>
@@ -1616,6 +1637,69 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>State Street Markets Professional Development Program - Entry Level - London - July 2027</td>
 <td>London, England</td>
 <td><div align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Global-Markets-Professional-Development-Programme---Entry-Level---London---July-2027_R-797595-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 Finance Analyst Rotational Program - Early Careers</td>
+<td>Minneapolis, MN</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-finance-analyst-rotational-program-early-careers-at-wells-fargo-4465015468"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Zions Bancorporation**</td>
+<td>Syndicated & Leveraged Finance Analyst - Capital Markets Analyst Program</td>
+<td>El Segundo, CA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/syndicated-leveraged-finance-analyst-capital-markets-analyst-program-at-zions-bancorporation-4463584049"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>2027 Technology Developer Graduate Programme Northampton</td>
+<td>Northampton, Barclays Campus, Pavilion Drive</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Graduate-Programme-Northampton_JR-0000129374"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>2027 Human Resources Analyst Graduate Programme London</td>
+<td>Canary Wharf, 1 Churchill Place</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Human-Resources-Analyst-Graduate-Programme-London_JR-0000129206"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>2027 Retail, Business and Customer Banking Graduate Programme Northampton</td>
+<td>Northampton, Barclays Campus, Pavilion Drive</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Retail--Business-and-Customer-Banking-Graduate-Programme-Northampton_JR-0000129087"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>2027 Technology Analyst Graduate Programme Knutsford</td>
+<td>Knutsford, Radbroke Hall</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Analyst-Graduate-Programme-Knutsford_JR-0000129359"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>2027 Technology Developer Graduate Programme Knutsford</td>
+<td>Knutsford, Radbroke Hall</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Graduate-Programme-Knutsford_JR-0000129319"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>2027 Technology Developer Graduate Programme Glasgow</td>
+<td>Glasgow Campus</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Graduate-Programme-Glasgow_JR-0000129313"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 Audit Analyst Development Program – Early Careers</td>
+<td>3 Locations</td>
+<td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Audit-Analyst-Development-Program---Early-Careers_R-574043"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -1693,6 +1777,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Associate, Data Analyst - New Grad, 2027 Start</td>
 <td>Toronto, ON</td>
 <td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**Bose Corporation**</td>
+<td>Finance Rotational Program</td>
+<td>Framingham, MA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-rotational-program-at-bose-corporation-4464697355"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -3223,7 +3314,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (366 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (369 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -3460,7 +3551,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📊 Sales & Trading (19 open)
+## 📊 Sales & Trading (20 open)
 
 <table>
 <tr>
@@ -3469,6 +3560,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**CI SBH Asset Management**</td>
+<td>Junior Fixed Income Trader</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-fixed-income-trader-at-ci-sbh-asset-management-4465302475"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**PTMA Financial Solutions**</td>
@@ -4981,7 +5079,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (86 open)
+## 🛡️ Risk Management (88 open)
 
 <table>
 <tr>
@@ -5003,6 +5101,20 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Payments Risk Analyst I</td>
 <td>Manila, Philippines</td>
 <td><div align="center"><a href="https://www.coinbase.com/careers/positions/8147660?gh_jid=8147660"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Drift AI**</td>
+<td>Junior Inbound Compliance Analyst (KYC)</td>
+<td>Sandy, UT</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-inbound-compliance-analyst-kyc-at-drift-ai-4465071843"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**InComm Payments**</td>
+<td>Risk Analyst I</td>
+<td>Atlanta, GA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/risk-analyst-i-at-incomm-payments-4465096973"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -5926,7 +6038,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: September 09, 2026 at 12:59 PM**
+**Last updated: September 09, 2026 at 08:51 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
