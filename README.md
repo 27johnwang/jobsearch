@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **906+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **912+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 906** | **Open: 906** | **New Grad: 513** | **Entry Level: 393**
+**Total listings: 912** | **Open: 912** | **New Grad: 517** | **Entry Level: 395**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (513 open)
+# 🎓 2027 New Grad Programs (517 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (122 open)
+## 🏦 Investment Banking (123 open)
 
 <table>
 <tr>
@@ -47,6 +47,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Cantor Fitzgerald**</td>
+<td>Investment Banking Analyst - Real Estate (class of 2027)</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-banking-analyst-real-estate-class-of-2027-at-cantor-fitzgerald-4467584247"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Piper Sandler**</td>
@@ -1009,7 +1016,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 💼 Consulting (8 open)
+## 💼 Consulting (9 open)
 
 <table>
 <tr>
@@ -1031,6 +1038,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Early Career Associate Consultant</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/early-career-associate-consultant-at-wsp-in-the-u-s-4467796105"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>**WSP in the U.S.**</td>
+<td>Early Career Associate Consultant</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/early-career-associate-consultant-at-wsp-in-the-u-s-4467775557"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -1769,7 +1783,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (244 open)
+## 🏢 Corporate Finance (246 open)
 
 <table>
 <tr>
@@ -1815,6 +1829,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>0d</td>
 </tr>
 <tr>
+<td>**Barclays**</td>
+<td>2027 Human Resources Analyst Graduate Programme Glasgow</td>
+<td>Glasgow Campus</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Human-Resources-Analyst-Graduate-Programme-Glasgow_JR-0000129195"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td>**Old Mission**</td>
 <td>Floor Trader - 2027 Graduate Program (August Start)</td>
 <td>Chicago, IL</td>
@@ -1840,6 +1861,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Commercial Banking Early Career Development Program (CA)</td>
 <td>Los Angeles, CA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-commercial-banking-early-career-development-program-ca-at-wells-fargo-4467716679"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>**Bank of America**</td>
+<td>Global Operations Analyst Program - 2027</td>
+<td>Phoenix, AZ</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/global-operations-analyst-program-2027-at-bank-of-america-4466193727"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -3748,7 +3776,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (393 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (395 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4277,7 +4305,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📈 Asset Management (35 open)
+## 📈 Asset Management (36 open)
 
 <table>
 <tr>
@@ -4292,6 +4320,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Associate Analyst I - Mutual Fund - Wealth Management</td>
 <td>St Louis, MO</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/associate-analyst-i-mutual-fund-wealth-management-at-edward-jones-4467149064"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Mark Asset Management**</td>
+<td>Junior Equity Analyst (Technology) – Hedge Fund</td>
+<td>Manhattan, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-equity-analyst-technology-%E2%80%93-hedge-fund-at-mark-asset-management-4467568411"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -5611,7 +5646,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (97 open)
+## 🛡️ Risk Management (98 open)
 
 <table>
 <tr>
@@ -5626,6 +5661,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Junior Risk Analyst</td>
 <td>New York, United States</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-msp-de-la-concorde-4468605202"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Unicargas SU,Lda**</td>
+<td>Junior Risk Analyst</td>
+<td>United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-unicargas-su-lda-4467810313"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -6640,7 +6682,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: September 17, 2026 at 01:24 PM**
+**Last updated: September 17, 2026 at 09:15 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
