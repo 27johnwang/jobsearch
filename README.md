@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **918+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **924+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 918** | **Open: 918** | **New Grad: 520** | **Entry Level: 398**
+**Total listings: 924** | **Open: 924** | **New Grad: 522** | **Entry Level: 402**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (520 open)
+# 🎓 2027 New Grad Programs (522 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -1092,7 +1092,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 📈 Asset Management (26 open)
+## 📈 Asset Management (27 open)
 
 <table>
 <tr>
@@ -1101,6 +1101,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 Wealth & Investment Management Program – Early Careers​</td>
+<td>2 Locations</td>
+<td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Wealth---Investment-Management-Program---Early-Careers-_R-576571"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Barclays**</td>
@@ -1783,7 +1790,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (248 open)
+## 🏢 Corporate Finance (249 open)
 
 <table>
 <tr>
@@ -1798,6 +1805,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Marketing Analyst Graduate Programme London</td>
 <td>Canary Wharf, 1 Churchill Place</td>
 <td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Marketing-Analyst-Graduate-Programme-London_JR-0000129077"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 Commercial Banking Early Career Development Program (CO)</td>
+<td>DENVER, CO</td>
+<td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/DENVER-CO/XMLNAME-2027-Commercial-Banking-Early-Career-Development-Program--CO-_R-576358"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -3797,7 +3811,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (398 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (402 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4333,7 +4347,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📈 Asset Management (36 open)
+## 📈 Asset Management (37 open)
 
 <table>
 <tr>
@@ -4342,6 +4356,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Frost**</td>
+<td>Wealth Portfolio Management Analyst I</td>
+<td>Dallas, TX</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/wealth-portfolio-management-analyst-i-at-frost-4466933247"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Edward Jones**</td>
@@ -4598,7 +4619,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (70 open)
+## 🔢 Quantitative Finance (71 open)
 
 <table>
 <tr>
@@ -4613,6 +4634,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Junior Quantitative Researcher </td>
 <td>Hong Kong</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/flowtraders/jobs/8213037"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Akuna Capital**</td>
+<td>Junior Quantitative Researcher</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-researcher-at-akuna-capital-4469179025"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -5101,7 +5129,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🏢 Corporate Finance (81 open)
+## 🏢 Corporate Finance (82 open)
 
 <table>
 <tr>
@@ -5110,6 +5138,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Credit One Bank**</td>
+<td>FP&A - Financial Analyst I</td>
+<td>Las Vegas, NV</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/fp-a-financial-analyst-i-at-credit-one-bank-4468827190"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
 </tr>
 <tr>
 <td>**Kobalt Music**</td>
@@ -5681,7 +5716,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (99 open)
+## 🛡️ Risk Management (100 open)
 
 <table>
 <tr>
@@ -5696,6 +5731,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Junior Risk Analyst</td>
 <td>Downers Grove, IL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-invesco-4469135787"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**St. Francis’ College, Lucknow, India**</td>
+<td>Junior Risk Analyst</td>
+<td>United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-st-francis%E2%80%99-college-lucknow-india-4469239117"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -6724,7 +6766,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: September 18, 2026 at 12:59 PM**
+**Last updated: September 18, 2026 at 08:48 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
