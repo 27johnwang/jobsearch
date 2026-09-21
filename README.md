@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **928+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **931+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 928** | **Open: 928** | **New Grad: 526** | **Entry Level: 402**
+**Total listings: 931** | **Open: 931** | **New Grad: 528** | **Entry Level: 403**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (526 open)
+# 🎓 2027 New Grad Programs (528 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -1099,7 +1099,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 📈 Asset Management (27 open)
+## 📈 Asset Management (28 open)
 
 <table>
 <tr>
@@ -1108,6 +1108,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Soul Equity Solutions**</td>
+<td>Private Equity Associate 2027 start</td>
+<td>Philadelphia, PA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/private-equity-associate-2027-start-at-soul-equity-solutions-4469944857"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Wells Fargo**</td>
@@ -1797,7 +1804,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (252 open)
+## 🏢 Corporate Finance (253 open)
 
 <table>
 <tr>
@@ -1826,6 +1833,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>WM Operations Analyst Program - Fresh Graduates Hiring</td>
 <td>Metro Manila, National Capital Region, Philippines</td>
 <td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791199"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**JPMorganChase**</td>
+<td>2027 Commercial & Specialized Industries Full-time Analyst Program - Diversified</td>
+<td>Phoenix, AZ</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-commercial-specialized-industries-full-time-analyst-program-diversified-at-jpmorganchase-4468167688"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -3839,7 +3853,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (402 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (403 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -5744,7 +5758,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (102 open)
+## 🛡️ Risk Management (103 open)
 
 <table>
 <tr>
@@ -5753,6 +5767,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Bank OZK**</td>
+<td>Operational Risk Analyst I</td>
+<td>Little Rock, AR</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/operational-risk-analyst-i-at-bank-ozk-4468152584"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**George Mason University - Department of Information Sciences and Technology**</td>
@@ -6794,7 +6815,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: September 21, 2026 at 03:08 PM**
+**Last updated: September 21, 2026 at 09:57 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
