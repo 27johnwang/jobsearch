@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **936+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **946+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 936** | **Open: 936** | **New Grad: 533** | **Entry Level: 403**
+**Total listings: 946** | **Open: 946** | **New Grad: 540** | **Entry Level: 406**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (533 open)
+# 🎓 2027 New Grad Programs (540 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (128 open)
+## 🏦 Investment Banking (130 open)
 
 <table>
 <tr>
@@ -60,6 +60,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 - Global Investment Banking Analyst Program - Full-Time - London</td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775719"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**CIBC US**</td>
+<td>2027 Analyst I, Global Investment Banking - Industrials</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-analyst-i-global-investment-banking-industrials-at-cibc-us-4470473417"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**CIBC**</td>
+<td>2027 Analyst I, Global Investment Banking - Industrials</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://cibc.wd3.myworkdayjobs.com/Campus/job/New-York-NY/XMLNAME-2027-Analyst-I--Global-Investment-Banking---Industrials_2619415"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -1051,7 +1065,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 💼 Consulting (9 open)
+## 💼 Consulting (10 open)
 
 <table>
 <tr>
@@ -1060,6 +1074,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**WSP in the U.S.**</td>
+<td>Early Career Associate Consultant</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/early-career-associate-consultant-at-wsp-in-the-u-s-4469971397"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
 </tr>
 <tr>
 <td>**WSP in the U.S.**</td>
@@ -1832,7 +1853,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (254 open)
+## 🏢 Corporate Finance (258 open)
 
 <table>
 <tr>
@@ -1847,6 +1868,27 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 - Corporate Functions - Corporate Analyst Development Program - Full-Time Analyst Program - London</td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793412"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**UBS**</td>
+<td>2027 Graduate Talent Program - Technology - Raleigh</td>
+<td>Raleigh, NC</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-graduate-talent-program-technology-raleigh-at-ubs-4461538761"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>Global Transaction Banking Graduate Programme 2027 Dublin</td>
+<td>Dublin, Molesworth Street</td>
+<td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Dublin-Molesworth-Street/Global-Transaction-Banking-Graduate-Programme-2027-Dublin_JR-0000124216-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Capital One**</td>
+<td>Product Development Program Associate - 2027</td>
+<td>5 Locations</td>
+<td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Program-Associate---2027_R244269-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -1875,6 +1917,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Commercial & Specialized Industries Full-time Analyst Program - Diversified</td>
 <td>Phoenix, AZ</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-commercial-specialized-industries-full-time-analyst-program-diversified-at-jpmorganchase-4468167688"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**ServiceNow**</td>
+<td>Finance Development Rotation Program (FDRP)</td>
+<td>Santa Clara, CA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-development-rotation-program-fdrp-at-servicenow-4468158143"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -3888,7 +3937,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (403 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (406 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4146,7 +4195,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📊 Sales & Trading (23 open)
+## 📊 Sales & Trading (24 open)
 
 <table>
 <tr>
@@ -4155,6 +4204,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**WorldQuant**</td>
+<td>Junior Execution Trader</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-execution-trader-at-worldquant-4470463444"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Squarepoint Capital**</td>
@@ -4696,7 +4752,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (71 open)
+## 🔢 Quantitative Finance (72 open)
 
 <table>
 <tr>
@@ -4705,6 +4761,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Reinsurance Group of America, Incorporated**</td>
+<td>Structured Quantitative Analyst I</td>
+<td>Chesterfield, MO</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/structured-quantitative-analyst-i-at-reinsurance-group-of-america-incorporated-4470470097"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Flow Traders**</td>
@@ -5793,7 +5856,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (103 open)
+## 🛡️ Risk Management (104 open)
 
 <table>
 <tr>
@@ -5802,6 +5865,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Jay M Robinson High School**</td>
+<td>Junior Risk Analyst</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-jay-m-robinson-high-school-4469050648"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Bank OZK**</td>
@@ -6850,7 +6920,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: September 22, 2026 at 01:28 PM**
+**Last updated: September 22, 2026 at 09:11 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
