@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **959+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **962+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 959** | **Open: 959** | **New Grad: 550** | **Entry Level: 409**
+**Total listings: 962** | **Open: 962** | **New Grad: 552** | **Entry Level: 410**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (550 open)
+# 🎓 2027 New Grad Programs (552 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -1874,7 +1874,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (265 open)
+## 🏢 Corporate Finance (267 open)
 
 <table>
 <tr>
@@ -1883,6 +1883,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Houlihan Lokey**</td>
+<td>2027 Financial Analyst (Class of 2027) - Transaction Opinions and Board & Special Committee Advisory - Atlanta</td>
+<td>Atlanta, GA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-financial-analyst-class-of-2027-transaction-opinions-and-board-special-committee-advisory-atlanta-at-houlihan-lokey-4471673701"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Geon Performance Solutions**</td>
+<td>Finance Rotational Program</td>
+<td>Westlake, OH</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-rotational-program-at-geon-performance-solutions-4471689074"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Wells Fargo**</td>
@@ -4007,7 +4021,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (409 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (410 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4822,7 +4836,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (73 open)
+## 🔢 Quantitative Finance (74 open)
 
 <table>
 <tr>
@@ -4831,6 +4845,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**IMC Trading**</td>
+<td>Trading Engineer</td>
+<td>Aarhus, Central Denmark Region, Denmark</td>
+<td><div align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4899716101"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Reinsurance Group of America, Incorporated**</td>
@@ -7011,7 +7032,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: September 24, 2026 at 01:34 PM**
+**Last updated: September 24, 2026 at 09:27 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
