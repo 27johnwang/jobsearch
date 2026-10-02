@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **1010+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **1016+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 1010** | **Open: 1010** | **New Grad: 580** | **Entry Level: 430**
+**Total listings: 1016** | **Open: 1016** | **New Grad: 586** | **Entry Level: 430**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (580 open)
+# 🎓 2027 New Grad Programs (586 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (135 open)
+## 🏦 Investment Banking (136 open)
 
 <table>
 <tr>
@@ -47,6 +47,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Standard Chartered**</td>
+<td>Mergers & Acquisitions Corporate & Investment Banking Graduate Programme 2027</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/mergers-acquisitions-corporate-investment-banking-graduate-programme-2027-at-standard-chartered-4474797889"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**JPMorgan Chase**</td>
@@ -1225,7 +1232,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 📈 Asset Management (30 open)
+## 📈 Asset Management (31 open)
 
 <table>
 <tr>
@@ -1234,6 +1241,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Wells Fargo**</td>
+<td>2027 Wealth & Investment Management Analyst Program - Early Careers</td>
+<td>St Louis, MO</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-wealth-investment-management-analyst-program-early-careers-at-wells-fargo-4475028734"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Soul Equity Solutions**</td>
@@ -1958,7 +1972,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (281 open)
+## 🏢 Corporate Finance (282 open)
 
 <table>
 <tr>
@@ -1973,6 +1987,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Internal Audit Analyst Graduate Program New York</td>
 <td>New York, 745 7th Avenue</td>
 <td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/XMLNAME-2027-Internal-Audit-Analyst-Graduate-Program-New-York_JR-0000123215-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Brex**</td>
+<td>Brex Rotational Program</td>
+<td>Salt Lake City, UT</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/brex-rotational-program-at-brex-4475048055"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -3938,7 +3959,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🛡️ Risk Management (14 open)
+## 🛡️ Risk Management (17 open)
 
 <table>
 <tr>
@@ -3947,6 +3968,27 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Brex**</td>
+<td>Brex Rotational Program</td>
+<td>Vancouver, British Columbia, Canada</td>
+<td><div align="center"><a href="https://www.brex.com/careers/8864170002?gh_jid=8864170002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Brex**</td>
+<td>Brex Rotational Program</td>
+<td>Salt Lake City, Utah, United States</td>
+<td><div align="center"><a href="https://www.brex.com/careers/8864176002?gh_jid=8864176002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Brex**</td>
+<td>Brex Rotational Program</td>
+<td>São Paulo, São Paulo, Brazil</td>
+<td><div align="center"><a href="https://www.brex.com/careers/8864174002?gh_jid=8864174002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**IMC Trading**</td>
@@ -7368,7 +7410,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: October 02, 2026 at 02:45 PM**
+**Last updated: October 02, 2026 at 10:07 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
