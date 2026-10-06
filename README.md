@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **1023+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **1029+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 1023** | **Open: 1023** | **New Grad: 589** | **Entry Level: 434**
+**Total listings: 1029** | **Open: 1029** | **New Grad: 593** | **Entry Level: 436**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (589 open)
+# 🎓 2027 New Grad Programs (593 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (137 open)
+## 🏦 Investment Banking (138 open)
 
 <table>
 <tr>
@@ -47,6 +47,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**CIBC**</td>
+<td>2027 Analyst I, Global Leveraged Finance (Houston)</td>
+<td>Houston, TX</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-analyst-i-global-leveraged-finance-houston-at-cibc-4474982677"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**MUFG**</td>
@@ -1965,7 +1972,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (285 open)
+## 🏢 Corporate Finance (288 open)
 
 <table>
 <tr>
@@ -1990,6 +1997,27 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>0d</td>
 </tr>
 <tr>
+<td>**Maximus**</td>
+<td>Rotational Program Associate Analyst- Corporate Finance and Accounting 2027</td>
+<td>McLean, VA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/rotational-program-associate-analyst-corporate-finance-and-accounting-2027-at-maximus-4476354631"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Capital One**</td>
+<td>Associate, Software Engineer, New Grad</td>
+<td>Toronto, ON</td>
+<td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003048"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Capital One**</td>
+<td>Associate, Software Engineer, New Grad</td>
+<td>Toronto, ON</td>
+<td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003046"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td>**Houlihan Lokey**</td>
 <td>2027 Summer Financial Analyst (Class of 2028), Corporate Valuation Advisory Services, Complex Securities - Multiple Locations</td>
 <td>Los Angeles, CA</td>
@@ -2001,7 +2029,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Software Engineer New Grad</td>
 <td>SF</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**Barclays**</td>
@@ -4280,7 +4308,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (434 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (436 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -5703,7 +5731,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🏢 Corporate Finance (83 open)
+## 🏢 Corporate Finance (84 open)
 
 <table>
 <tr>
@@ -5712,6 +5740,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Dutch Bros Coffee**</td>
+<td>Junior Treasury Analyst</td>
+<td>Tempe, AZ</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-treasury-analyst-at-dutch-bros-coffee-4465172632"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3d</td>
 </tr>
 <tr>
 <td>**Adyen**</td>
@@ -6297,7 +6332,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (117 open)
+## 🛡️ Risk Management (118 open)
 
 <table>
 <tr>
@@ -6319,6 +6354,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Credit and Risk Analyst I</td>
 <td>Alpharetta, GA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/credit-and-risk-analyst-i-at-inhabit%C2%AE-4472976943"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**Sutton Bank**</td>
+<td>Third Party Risk Analyst I</td>
+<td>Attica, OH</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/third-party-risk-analyst-i-at-sutton-bank-4475016483"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>4d</td>
 </tr>
 <tr>
@@ -7459,7 +7501,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: October 06, 2026 at 03:06 PM**
+**Last updated: October 06, 2026 at 10:38 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
