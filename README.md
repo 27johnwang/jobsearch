@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **1037+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **1042+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 1037** | **Open: 1037** | **New Grad: 601** | **Entry Level: 436**
+**Total listings: 1042** | **Open: 1042** | **New Grad: 605** | **Entry Level: 437**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (601 open)
+# 🎓 2027 New Grad Programs (605 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (140 open)
+## 🏦 Investment Banking (141 open)
 
 <table>
 <tr>
@@ -53,6 +53,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Analyst I, Debt Capital Markets</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://cibc.wd3.myworkdayjobs.com/Campus/job/New-York-NY/XMLNAME-2027-Analyst-I--Debt-Capital-Markets_2616141"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**CIBC US**</td>
+<td>2027 Analyst I, Debt Capital Markets</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-analyst-i-debt-capital-markets-at-cibc-us-4477427038"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -1142,7 +1149,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 💼 Consulting (15 open)
+## 💼 Consulting (16 open)
 
 <table>
 <tr>
@@ -1151,6 +1158,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Mastercard**</td>
+<td>Associate Consultant, Launch Graduate Program – 2027, Almaty, Kazakhstan</td>
+<td>Almaty, Kazakhstan</td>
+<td><div align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Almaty-Kazakhstan/Associate-Consultant--Launch-Graduate-Program---2027--Almaty--Kazakhstan_R-287584"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Mastercard**</td>
@@ -2000,7 +2014,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (290 open)
+## 🏢 Corporate Finance (292 open)
 
 <table>
 <tr>
@@ -2015,6 +2029,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Swiss Graduate Programme 2027_Private Bank US&EI</td>
 <td>Zürich Prime Tower</td>
 <td><div align="center"><a href="https://db.wd3.myworkdayjobs.com/DBWebsite/job/Zrich-Prime-Tower/Swiss-Graduate-Programme-2027-Private-Bank-US-EI_R0452541"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**KeyBank**</td>
+<td>2027 Key Technology & Services: Cyber/Information Security Track Rotational Analyst Program - Cleveland</td>
+<td>Brooklyn, OH</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-key-technology-services-cyber-information-security-track-rotational-analyst-program-cleveland-at-keybank-4475970797"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Two Sigma**</td>
+<td>Software Engineer New Grad</td>
+<td>London, UK</td>
+<td><div align="center"><a href="https://twosigma.avature.net/careers/JobDetail/14020"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -4364,7 +4392,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (436 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (437 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -7227,7 +7255,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 💻 Financial Technology (29 open)
+## 💻 Financial Technology (30 open)
 
 <table>
 <tr>
@@ -7257,6 +7285,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Remote - Argentina</td>
 <td><div align="center"><a href="https://www.coinbase.com/careers/positions/8250934?gh_jid=8250934"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1d</td>
+</tr>
+<tr>
+<td>**Robinhood**</td>
+<td>Software Engineer, Backend</td>
+<td>Menlo Park, CA</br>New York, NY</td>
+<td><div align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>6d</td>
 </tr>
 <tr>
 <td>**Twilio**</td>
@@ -7557,7 +7592,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: October 08, 2026 at 03:35 PM**
+**Last updated: October 08, 2026 at 11:15 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
