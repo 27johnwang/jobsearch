@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **988+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **995+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 988** | **Open: 988** | **New Grad: 589** | **Entry Level: 399**
+**Total listings: 995** | **Open: 995** | **New Grad: 592** | **Entry Level: 403**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (589 open)
+# 🎓 2027 New Grad Programs (592 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (134 open)
+## 🏦 Investment Banking (135 open)
 
 <table>
 <tr>
@@ -47,6 +47,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**JPMorgan Chase**</td>
+<td>Campus Recruiting Associate - Commercial & Investment Bank Risk</td>
+<td>Jersey City, NJ, United States</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780807"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**CIBC**</td>
@@ -1434,7 +1441,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🔢 Quantitative Finance (63 open)
+## 🔢 Quantitative Finance (64 open)
 
 <table>
 <tr>
@@ -1443,6 +1450,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Montgomery Investment Technology, Inc.**</td>
+<td>Quantitative Finance Analyst 2026</td>
+<td>Riverton, NJ</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-finance-analyst-2026-at-montgomery-investment-technology-inc-4479018443"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
 </tr>
 <tr>
 <td>**Citadel**</td>
@@ -1888,7 +1902,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (295 open)
+## 🏢 Corporate Finance (296 open)
 
 <table>
 <tr>
@@ -1897,6 +1911,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Houlihan Lokey**</td>
+<td>2027 Financial Analyst (Class of 2027), Portfolio Valuation and Fund Advisory Services - Chicago</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-financial-analyst-class-of-2027-portfolio-valuation-and-fund-advisory-services-chicago-at-houlihan-lokey-4478730931"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**JPMorgan Chase**</td>
@@ -4280,7 +4301,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (399 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (403 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4503,7 +4524,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📊 Sales & Trading (22 open)
+## 📊 Sales & Trading (23 open)
 
 <table>
 <tr>
@@ -4525,6 +4546,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Junior Trader</td>
 <td>Chicago</td>
 <td><div align="center"><a href="https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**Akuna Capital**</td>
+<td>Junior Trader </td>
+<td>London, UK</td>
+<td><div align="center"><a href="https://www.akunacapital.com/careers/job/8275358/?gh_jid=8275358"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -4760,7 +4788,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📈 Asset Management (31 open)
+## 📈 Asset Management (32 open)
 
 <table>
 <tr>
@@ -4769,6 +4797,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**WorldQuant**</td>
+<td>Security Analyst</td>
+<td>Budapest</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/worldquant/jobs/4721408006"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Rho**</td>
@@ -4990,7 +5025,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (75 open)
+## 🔢 Quantitative Finance (77 open)
 
 <table>
 <tr>
@@ -4999,6 +5034,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Hudson River Trading**</td>
+<td>Junior Treasury Quant Researcher</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-treasury-quant-researcher-at-hudson-river-trading-4477999328"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Man Group**</td>
@@ -5124,6 +5166,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Junior Quantitative Researcher</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-researcher-at-akuna-capital-4469179025"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3w</td>
+</tr>
+<tr>
+<td>**Akuna Capital**</td>
+<td>Junior Quantitative Researcher</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>3w</td>
 </tr>
 <tr>
@@ -7214,7 +7263,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: October 13, 2026 at 12:30 AM**
+**Last updated: October 13, 2026 at 03:55 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
