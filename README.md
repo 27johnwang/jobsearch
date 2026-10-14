@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **968+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **971+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 968** | **Open: 968** | **New Grad: 587** | **Entry Level: 381**
+**Total listings: 971** | **Open: 971** | **New Grad: 588** | **Entry Level: 383**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (587 open)
+# 🎓 2027 New Grad Programs (588 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -1860,7 +1860,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (296 open)
+## 🏢 Corporate Finance (297 open)
 
 <table>
 <tr>
@@ -1889,6 +1889,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Operations Analyst Program – Full-Time Analyst – March Cohort (OH, DE, TX, NY, IL, FL)</td>
 <td><details><summary>Columbus, OH, United States (+5 more)</summary>Newark, DE, United States</br>New York, NY, United States</br>Chicago, IL, United States</br>Plano, TX, United States</br>Tampa, FL, United States</details></td>
 <td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793035"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>**JPMorganChase**</td>
+<td>2027 Operations Analyst Program - Full-Time Analyst - March Cohort (OH, DE, TX, NY, IL, FL)</td>
+<td>Columbus, OH</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-operations-analyst-program-full-time-analyst-march-cohort-oh-de-tx-ny-il-fl-at-jpmorganchase-4478594651"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -4266,7 +4273,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (381 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (383 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4718,7 +4725,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📈 Asset Management (29 open)
+## 📈 Asset Management (30 open)
 
 <table>
 <tr>
@@ -4727,6 +4734,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Stripe**</td>
+<td> IT Support Engineer</td>
+<td>New York</td>
+<td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8265151"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**WorldQuant**</td>
@@ -4934,7 +4948,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (73 open)
+## 🔢 Quantitative Finance (74 open)
 
 <table>
 <tr>
@@ -4943,6 +4957,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Bank of America**</td>
+<td>Client Quantitative Analyst I</td>
+<td>12 Locations</td>
+<td><div align="center"><a href="https://ghr.wd1.myworkdayjobs.com/lateral-us/job/Addison/Client-Quantitative-Analyst-I_26036939"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Hudson River Trading**</td>
@@ -7074,7 +7095,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: October 14, 2026 at 01:37 PM**
+**Last updated: October 14, 2026 at 09:34 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
