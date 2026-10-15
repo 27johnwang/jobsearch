@@ -54,6 +54,24 @@
     "max_years": 2
   },
   {
+    "company": "Pockyt",
+    "role": "Junior Compliance Analyst",
+    "location": "New York City Metropolitan Area",
+    "url": "https://www.linkedin.com/jobs/view/junior-compliance-analyst-at-pockyt-4479738728",
+    "date_posted": "2026-10-15",
+    "category": "Risk Management",
+    "source": "linkedin",
+    "is_closed": false,
+    "requires_visa_sponsorship": true,
+    "us_citizenship_required": false,
+    "company_url": null,
+    "tags": [],
+    "date_added": "2026-10-15",
+    "experience_type": "entry_level",
+    "min_years": 0,
+    "max_years": 2
+  },
+  {
     "company": "WTW",
     "role": "Early Careers: Corporate Risk and Broking (CRB) Graduate Development Program Analyst \u2013 Risk & Analytics - Enterprise Risk Consulting \u2013 NY - 2027",
     "location": "New York, NY",
@@ -3292,6 +3310,24 @@
     "experience_type": "new_grad",
     "min_years": 0,
     "max_years": 0
+  },
+  {
+    "company": "AQR Capital Management",
+    "role": "Operations - Tax Operations - Analyst",
+    "location": "Bengaluru",
+    "url": "https://careers.aqr.com/jobs?gh_jid=7894372&gh_jid=7894372",
+    "date_posted": "2026-09-21",
+    "category": "Asset Management",
+    "source": "greenhouse",
+    "is_closed": false,
+    "requires_visa_sponsorship": true,
+    "us_citizenship_required": false,
+    "company_url": null,
+    "tags": [],
+    "date_added": "2026-10-15",
+    "experience_type": "entry_level",
+    "min_years": 0,
+    "max_years": 2
   },
   {
     "company": "George Mason University - Department of Information Sciences and Technology",

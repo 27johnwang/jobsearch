@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **942+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **944+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,7 +27,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 942** | **Open: 942** | **New Grad: 583** | **Entry Level: 359**
+**Total listings: 944** | **Open: 944** | **New Grad: 583** | **Entry Level: 361**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
@@ -4238,7 +4238,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (359 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (361 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4641,7 +4641,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📈 Asset Management (26 open)
+## 📈 Asset Management (27 open)
 
 <table>
 <tr>
@@ -4671,6 +4671,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/rho/9e92d5b4-8cce-4d14-af21-2d24f9f0bfba"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2w</td>
+</tr>
+<tr>
+<td>**AQR Capital Management**</td>
+<td>Operations - Tax Operations - Analyst</td>
+<td>Bengaluru</td>
+<td><div align="center"><a href="https://careers.aqr.com/jobs?gh_jid=7894372&gh_jid=7894372"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**Frost**</td>
@@ -5800,7 +5807,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (110 open)
+## 🛡️ Risk Management (111 open)
 
 <table>
 <tr>
@@ -5809,6 +5816,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Pockyt**</td>
+<td>Junior Compliance Analyst</td>
+<td>New York City Metropolitan Area</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-compliance-analyst-at-pockyt-4479738728"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**TEAM PARAGON**</td>
@@ -6892,7 +6906,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: October 15, 2026 at 01:22 PM**
+**Last updated: October 15, 2026 at 09:15 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
