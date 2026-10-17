@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **909+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **916+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 909** | **Open: 909** | **New Grad: 574** | **Entry Level: 335**
+**Total listings: 916** | **Open: 916** | **New Grad: 580** | **Entry Level: 336**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (574 open)
+# 🎓 2027 New Grad Programs (580 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -1818,7 +1818,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (288 open)
+## 🏢 Corporate Finance (294 open)
 
 <table>
 <tr>
@@ -1850,6 +1850,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2d</td>
 </tr>
 <tr>
+<td>**EY**</td>
+<td>Audit Graduate Programme - September 2027 intake</td>
+<td>Newcastle, CA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/audit-graduate-programme-september-2027-intake-at-ey-4471492070"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
 <td>**Barclays**</td>
 <td>Global Transaction Banking Graduate Programme 2027 Paris</td>
 <td>Paris, 52 avenue Hoche</td>
@@ -1857,10 +1864,31 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>3d</td>
 </tr>
 <tr>
+<td>**AIG**</td>
+<td>2027 Early Careers: Analyst, Claims – United States, Lenexa, KS, Houston, TX, & New York, NY</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-early-careers-analyst-claims-%E2%80%93-united-states-lenexa-ks-houston-tx-new-york-ny-at-aig-4460600988"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td>**AIG**</td>
+<td>2027 Early Careers: Analyst, Actuarial – United States, New York City</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-early-careers-analyst-actuarial-%E2%80%93-united-states-new-york-city-at-aig-4460618075"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
 <td>**Houlihan Lokey**</td>
 <td>2027 Financial Analyst (Class of 2027), Portfolio Valuation and Fund Advisory Services - Chicago</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-financial-analyst-class-of-2027-portfolio-valuation-and-fund-advisory-services-chicago-at-houlihan-lokey-4478730931"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>**JPMorganChase**</td>
+<td>2027 Commercial Real Estate Full-Time Analyst Program</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-commercial-real-estate-full-time-analyst-program-at-jpmorganchase-4468160379"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>4d</td>
 </tr>
 <tr>
@@ -3844,6 +3872,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2mo</td>
 </tr>
+<tr>
+<td>**Citigroup**</td>
+<td>2025 LATAM Markets Analyst Program - Colombia</td>
+<td>Bogota  Colombia</td>
+<td><div align="center"><a href="https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/XMLNAME-2025-LATAM-Markets-Analyst-Program---Colombia_25831823"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td></td>
+</tr>
+<tr>
+<td>**Citigroup**</td>
+<td>2025 Corporate Banking Full Time Analyst Program - Mexico</td>
+<td>Ciudad De Mexico Distrito Federal Mexico</td>
+<td><div align="center"><a href="https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/XMLNAME-2025-Corporate-Banking-Full-Time-Analyst-Program---Mexico_24801282"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td></td>
+</tr>
 </table>
 
 
@@ -4175,7 +4217,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (335 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (336 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -5227,7 +5269,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🏢 Corporate Finance (53 open)
+## 🏢 Corporate Finance (54 open)
 
 <table>
 <tr>
@@ -5236,6 +5278,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Sierra Space**</td>
+<td>FP&A Analyst I</td>
+<td>Centennial, CO</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/fp-a-analyst-i-at-sierra-space-4472046461"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Loma Linda University Health**</td>
@@ -6661,7 +6710,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: October 17, 2026 at 12:10 PM**
+**Last updated: October 17, 2026 at 08:27 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
