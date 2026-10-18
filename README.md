@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **909+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **913+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,7 +27,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 909** | **Open: 909** | **New Grad: 580** | **Entry Level: 329**
+**Total listings: 913** | **Open: 913** | **New Grad: 580** | **Entry Level: 333**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
@@ -4217,14 +4217,14 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (329 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (333 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
 > **Filter by experience:** Use [jobs.html](jobs.html) to select your exact years of experience and see only matching roles.
 
 
-## 🏦 Investment Banking (15 open)
+## 🏦 Investment Banking (16 open)
 
 <table>
 <tr>
@@ -4338,6 +4338,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Cleveland, OH</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-banking-analyst-i-m-a-at-fifth-third-bank-4450757373"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2mo</td>
+</tr>
+<tr>
+<td>**Citigroup**</td>
+<td>Investment Banking Junior Controller</td>
+<td>Warsaw  Poland</td>
+<td><div align="center"><a href="https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Investment-Banking-Junior-Controller_24805362"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td></td>
 </tr>
 </table>
 
@@ -4564,7 +4571,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📈 Asset Management (25 open)
+## 📈 Asset Management (26 open)
 
 <table>
 <tr>
@@ -4748,6 +4755,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Dallas, TX</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/entry-level-wealth-management-associate-at-equitable-advisors-4338931166"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2mo</td>
+</tr>
+<tr>
+<td>**Morgan Stanley**</td>
+<td>Junior Sales (Sales Support), Analyst/Associate, Investment Management</td>
+<td>Seoul, Korea, Republic of</td>
+<td><div align="center"><a href="https://ms.wd5.myworkdayjobs.com/External/job/Seoul-Korea-Republic-of/Junior-Sales--Sales-Support---Analyst-Associate--Investment-Management_JR037120"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td></td>
 </tr>
 </table>
 
@@ -5241,7 +5255,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🏢 Corporate Finance (53 open)
+## 🏢 Corporate Finance (54 open)
 
 <table>
 <tr>
@@ -5622,10 +5636,17 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-fp-a-analyst-i-at-chemelex-4443003021"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>3mo</td>
 </tr>
+<tr>
+<td>**Citigroup**</td>
+<td>Finance Product Control Junior Analyst - Markets Treasury</td>
+<td>Warsaw  Poland</td>
+<td><div align="center"><a href="https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Finance-Product-Control-Junior-Analyst---Markets-Treasury_24795572"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td></td>
+</tr>
 </table>
 
 
-## 🛡️ Risk Management (105 open)
+## 🛡️ Risk Management (106 open)
 
 <table>
 <tr>
@@ -6370,6 +6391,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-orbit-relocations-fine-art-exhibition-logistics-4440183281"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>3mo</td>
 </tr>
+<tr>
+<td>**Citigroup**</td>
+<td>Regulatory Risk Analyst I - C09 - Dalian</td>
+<td>7 HUI XIAN YUAN DALIAN HI-TECH INDUSTRIAL ZONE DALIAN</td>
+<td><div align="center"><a href="https://citi.wd5.myworkdayjobs.com/2/job/7-HUI-XIAN-YUAN-DALIAN-HI-TECH-INDUSTRIAL-ZONE-DALIAN/Regulatory-Risk-Analyst-I---C09---SHENZHEN_24799883"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td></td>
+</tr>
 </table>
 
 
@@ -6661,7 +6689,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: October 18, 2026 at 12:38 PM**
+**Last updated: October 18, 2026 at 08:27 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
