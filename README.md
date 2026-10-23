@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **895+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **886+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 895** | **Open: 895** | **New Grad: 582** | **Entry Level: 313**
+**Total listings: 886** | **Open: 886** | **New Grad: 579** | **Entry Level: 307**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (582 open)
+# 🎓 2027 New Grad Programs (579 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -53,7 +53,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Investment Banking Analyst I Diversified Industrials McLean, VA</td>
 <td>McLean, VA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-investment-banking-analyst-i-diversified-industrials-mclean-va-at-raymond-james-4477715959"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>1w</td>
 </tr>
 <tr>
 <td>**JPMorgan Chase**</td>
@@ -109,7 +109,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Mergers & Acquisitions Corporate & Investment Banking Graduate Programme 2027</td>
 <td>New York, United States</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/mergers-acquisitions-corporate-investment-banking-graduate-programme-2027-at-standard-chartered-4474797889"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**JPMorgan Chase**</td>
@@ -137,28 +137,28 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Investment Banking Associate Program - Early Careers</td>
 <td>Washington, DC</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-investment-banking-associate-program-early-careers-at-wells-fargo-4472090933"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Wells Fargo**</td>
 <td>2027 Investment Banking Associate Program (CA) - Early Careers</td>
 <td>Los Angeles, CA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-investment-banking-associate-program-ca-early-careers-at-wells-fargo-4472201207"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Deutsche Bank**</td>
 <td>Deutsche Bank Graduate Program - Investment Bank: Fixed Income & Currencies - New York 2027</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/deutsche-bank-graduate-program-investment-bank-fixed-income-currencies-new-york-2027-at-deutsche-bank-4468949170"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4w</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>**Cantor Fitzgerald**</td>
 <td>Analyst - Consumer & Retail Investment Banking (Class of 2027)</td>
 <td>New York, United States</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/analyst-consumer-retail-investment-banking-class-of-2027-at-cantor-fitzgerald-4469608769"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4w</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>**The Global Institute for Health and Human Rights**</td>
@@ -934,7 +934,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Commodity Trading Analyst New Grad 🎓</td>
 <td>United Kingdom</td>
 <td><div align="center"><a href="https://centrica.wd3.myworkdayjobs.com/Centrica/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>1w</td>
 </tr>
 <tr>
 <td>**Coulter Services**</td>
@@ -1066,7 +1066,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Associate Consultant, Launch Graduate Program 2027 – Hungary</td>
 <td>Budapest, Hungary</td>
 <td><div align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Mastercard**</td>
@@ -1156,35 +1156,35 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Private Bank and Wealth Management Graduate Programme 2027 Jersey</td>
 <td>Jersey, 5-6 Esplanade</td>
 <td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Jersey-5-6-Esplanade/Private-Bank-and-Wealth-Management-Graduate-Programme-2027-Jersey_JR-0000125604"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td>**Point72**</td>
 <td>Point72 Academy Investment Analyst Program for Experienced Professionals — Greater China</td>
 <td>Hong Kong</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8875470002?gh_jid=8875470002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td>**Asana Partners**</td>
 <td>Analyst - Private Equity Analyst Program</td>
 <td>Charlotte, NC</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/analyst-private-equity-analyst-program-at-asana-partners-4481546403"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>**Soul Equity Solutions**</td>
 <td>Private Equity Associate 2027 start</td>
 <td>Philadelphia, PA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/private-equity-associate-2027-start-at-soul-equity-solutions-4478604877"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**BOK Financial**</td>
 <td>2027 Associate Wealth Management (Tulsa) - Accelerated Career Track (81881)</td>
 <td>Tulsa, OK</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-associate-wealth-management-tulsa-accelerated-career-track-81881-at-bok-financial-4454315003"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td>**Soul Equity Solutions**</td>
@@ -1205,7 +1205,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Wealth & Investment Management Analyst Program - Early Careers</td>
 <td>St Louis, MO</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-wealth-investment-management-analyst-program-early-careers-at-wells-fargo-4475028734"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**Soul Equity Solutions**</td>
@@ -1219,7 +1219,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Wealth & Investment Management Analyst Program - Early Careers</td>
 <td>St Louis, MO</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-wealth-investment-management-analyst-program-early-careers-at-wells-fargo-4472206023"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Soul Equity Solutions**</td>
@@ -1331,7 +1331,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Private Equity Associate 2027 start</td>
 <td>Philadelphia, PA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/private-equity-associate-2027-start-at-soul-equity-solutions-4456510978"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td>**Deutsche Bank**</td>
@@ -1393,14 +1393,14 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Quantitative Researcher – HFT, Early Career (Futures & Equities)</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-hft-early-career-futures-equities-at-fionics-4480272676"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**Two Sigma**</td>
 <td>Quantitative Researcher - Full-Time Campus Hire</td>
 <td>New York, United States</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-researcher-full-time-campus-hire-at-two-sigma-4432783973"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td>**Aquatic Capital Management**</td>
@@ -1442,7 +1442,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Quantitative Researcher – HFT, Early Career (Futures & Equities)</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-hft-early-career-futures-equities-at-fionics-4470319479"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Federal Home Loan Bank of Chicago**</td>
@@ -1827,12 +1827,12 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Quantitative Strategy Developer - New Grad</td>
 <td>Bala-Cynwyd, PA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-strategy-developer-new-grad-at-susquehanna-international-group-4406717651"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 </table>
 
 
-## 🏢 Corporate Finance (295 open)
+## 🏢 Corporate Finance (292 open)
 
 <table>
 <tr>
@@ -1847,84 +1847,84 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Analyst Development Program - Plano,TX/Seattle,WA (June 2027 and September 2027)</td>
 <td>Seattle, WA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/analyst-development-program-plano-tx-seattle-wa-june-2027-and-september-2027-at-liberty-mutual-insurance-4464906405"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td>**Deutsche Bank**</td>
 <td>Swiss Graduate Programme 2027_Private Bank (BLIS)</td>
 <td>Zürich Prime Tower</td>
 <td><div align="center"><a href="https://db.wd3.myworkdayjobs.com/DBWebsite/job/Zrich-Prime-Tower/Swiss-Graduate-Programme-2027-Private-Bank--BLIS-_R0450493"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td>**Google**</td>
 <td>Associate Finance Analyst, University Graduate</td>
 <td>Sunnyvale, CA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/associate-finance-analyst-university-graduate-at-google-4481111963"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td>**AIG**</td>
 <td>2027 Early Careers: Analyst, Underwriting – Structured Credit (Political Risk)– United States, New York, NY</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-early-careers-analyst-underwriting-%E2%80%93-structured-credit-political-risk-%E2%80%93-united-states-new-york-ny-at-aig-4460600986"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td>**Applied Materials**</td>
 <td>FP&A Analyst New College Grad (MBA - Austin, TX)</td>
 <td>Austin, TX</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/fp-a-analyst-new-college-grad-mba-austin-tx-at-applied-materials-4479465142"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td>**KeyBank**</td>
 <td>2027 Marketing Analytics Analyst Program - Cleveland, OH</td>
 <td>Brooklyn, OH</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-marketing-analytics-analyst-program-cleveland-oh-at-keybank-4481169383"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td>**Citi**</td>
 <td>Market Operations Junior Analyst Program Hybrid</td>
 <td>Getzville, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/market-operations-junior-analyst-program-hybrid-at-citi-4480498125"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>**Capital One**</td>
 <td>Associate, Software Engineer, New Grad Card Expansion</td>
 <td>Toronto, ON</td>
 <td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>**State Street**</td>
 <td>Operations Early Career Entry Program</td>
 <td>6 Locations</td>
 <td><div align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Operations-Early-Career-Entry-Program_R-799807"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**PwC**</td>
 <td>ETIC, Cyber Security - Cloud Security - Graduate Program</td>
 <td>Cairo - ETIC</td>
 <td><div align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Cyber-Security---Cloud-Security---Graduate-Program_768012WD"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**PwC**</td>
 <td>ETIC, Cyber Security - Cloud Security - Graduate Program (German Speaker)</td>
 <td>Cairo - ETIC</td>
 <td><div align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Cyber-Security---Cloud-Security---Graduate-Program--German-Speaker-_768014WD"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**McCormick & Company**</td>
 <td>FINANCE ROTATIONAL ANALYST</td>
 <td>Hunt Valley, MD</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-rotational-analyst-at-mccormick-company-4479307808"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>1w</td>
 </tr>
 <tr>
 <td>**Houlihan Lokey**</td>
@@ -2015,14 +2015,14 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Marketing Analyst - Early Careers Programme</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://apply.workable.com/twocircles/j/EFF3A1D282/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 <tr>
 <td>**Fiserv**</td>
 <td>2027 Finance Analyst Program (New York, NY)</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-finance-analyst-program-new-york-ny-at-fiserv-4476804813"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 <tr>
 <td>**Deutsche Bank**</td>
@@ -2106,21 +2106,21 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Software Engineer New Grad</td>
 <td>SF</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**Barclays**</td>
 <td>2027 Internal Audit Analyst Graduate Program New York</td>
 <td>New York, 745 7th Avenue</td>
 <td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/XMLNAME-2027-Internal-Audit-Analyst-Graduate-Program-New-York_JR-0000123215-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**Brex**</td>
 <td>Brex Rotational Program</td>
 <td>Salt Lake City, UT</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/brex-rotational-program-at-brex-4475048055"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**JPMorganChase**</td>
@@ -2190,42 +2190,42 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Operations Associate, New Grad (Mexico)</td>
 <td>Mexico City, Mexico</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=7544547"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
 <td>Tech Operations Associate, New Grad (Mexico)</td>
 <td>Mexico City, Mexico</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=7718947"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Wells Fargo**</td>
 <td>2027 Finance Analyst Rotational Program – Early Careers</td>
 <td>Irving, TX</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-finance-analyst-rotational-program-%E2%80%93-early-careers-at-wells-fargo-4472088913"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Wells Fargo**</td>
 <td>2027 Audit Analyst Development Program – Early Careers</td>
 <td>Irving, TX</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-audit-analyst-development-program-%E2%80%93-early-careers-at-wells-fargo-4472089895"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Keystone Technologies**</td>
 <td>Associates and Consultants (2027 Graduates)</td>
 <td>San Francisco Bay Area</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/associates-and-consultants-2027-graduates-at-keystone-technologies-4472273923"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Wells Fargo**</td>
 <td>2027 Finance Analyst Rotational Program – Early Careers</td>
 <td>Charlotte, NC</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-finance-analyst-rotational-program-%E2%80%93-early-careers-at-wells-fargo-4472203105"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Houlihan Lokey**</td>
@@ -2246,49 +2246,49 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Commercial Real Estate Early Career Program</td>
 <td>CITY OF LONDON,</td>
 <td><div align="center"><a href="https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CITY-OF-LONDON/Commercial-Real-Estate-Early-Career-Program_R-577361"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4w</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>**S&P Global**</td>
 <td>CREDit Graduate Program Analyst</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/credit-graduate-program-analyst-at-s-p-global-4469608432"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4w</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>**AIG**</td>
 <td>2027 Early Careers: Analyst, Underwriting – Energy – United States, Houston, TX</td>
 <td>Houston, TX</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-early-careers-analyst-underwriting-%E2%80%93-energy-%E2%80%93-united-states-houston-tx-at-aig-4460605799"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4w</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>**American Express**</td>
 <td>Campus Undergraduate Full-Time Analyst - 2027 Data & Analytics , Enterprise Technology Services- Charlotte, NC</td>
 <td>Charlotte, NC, United States</td>
 <td><div align="center"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013679"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4w</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>**AIG**</td>
 <td>2027 Early Careers: Analyst, Underwriting – Political Risk – United States, New York, NY</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-early-careers-analyst-underwriting-%E2%80%93-political-risk-%E2%80%93-united-states-new-york-ny-at-aig-4460600986"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4w</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>**American Express**</td>
 <td>Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ</td>
 <td>Phoenix, AZ</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/campus-undergraduate-full-time-associate-2027-cybersecurity-analyst-enterprise-technology-services-phoenix-az-at-american-express-4460689175"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4w</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>**American Express**</td>
 <td>Campus Undergraduate Full-Time Analyst - 2027 Data & Analytics , Enterprise Technology Services- Charlotte, NC</td>
 <td>Charlotte, NC</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/campus-undergraduate-full-time-analyst-2027-data-analytics-enterprise-technology-services-charlotte-nc-at-american-express-4469611930"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4w</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>**JPMorgan Chase**</td>
@@ -3408,28 +3408,28 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2026 APAC Career4Corp Case Challenge – Corporate Analyst Development Program (Singapore)</td>
 <td>Singapore</td>
 <td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782445"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td>**JPMorgan Chase**</td>
 <td>2026 APAC Career4Corp Case Challenge – Corporate Analyst Development Program (Hong Kong)</td>
 <td>Hong Kong</td>
 <td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782453"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td>**Travelers**</td>
 <td>Investment Analyst Development Program</td>
 <td>St Paul, MN</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-analyst-development-program-at-travelers-4456894643"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td>**JPMorganChase**</td>
 <td>2027 Internal Audit Analyst Program - Full Time Analyst Opportunity</td>
 <td>Plano, TX</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-internal-audit-analyst-program-full-time-analyst-opportunity-at-jpmorganchase-4448156493"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td>**Robinhood**</td>
@@ -3856,41 +3856,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Tax - People Advisory Services - Junior Consultant | Starting July 2026 (Luxembourg, LU, L-1274)</td>
 <td>United States</td>
 <td><div align="center"><a href="https://careers.ey.com/ey/job/Luxembourg-Tax-People-Advisory-Services-Junior-Consultant-Starting-July-2026-L-1274/1284360501/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>**UBS**</td>
 <td>UBS Veterans Associate Program (VAP) 2027</td>
 <td>New York, United States</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/ubs-veterans-associate-program-vap-2027-at-ubs-4407091012"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>**Brex**</td>
 <td>Brex Rotational Program</td>
 <td>Salt Lake City, UT</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/brex-rotational-program-at-brex-4404539569"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>**Bank of America**</td>
-<td>Veterans Associate Program (VAP)</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://www.linkedin.com/jobs/view/veterans-associate-program-vap-at-bank-of-america-4436420735"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3mo</td>
-</tr>
-<tr>
-<td>**Wells Fargo**</td>
-<td>2027 CIB Corporate Banking Analyst Program - Early Careers</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-cib-corporate-banking-analyst-program-early-careers-at-wells-fargo-4444939252"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3mo</td>
-</tr>
-<tr>
-<td>**Capital One**</td>
-<td>Associate, Software Engineer, New Grad Card Expansion</td>
-<td>Toronto, ON</td>
-<td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247335"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>3mo</td>
 </tr>
 <tr>
@@ -3946,21 +3925,21 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Brex Rotational Program</td>
 <td>Vancouver, British Columbia, Canada</td>
 <td><div align="center"><a href="https://www.brex.com/careers/8864170002?gh_jid=8864170002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**Brex**</td>
 <td>Brex Rotational Program</td>
 <td>Salt Lake City, Utah, United States</td>
 <td><div align="center"><a href="https://www.brex.com/careers/8864176002?gh_jid=8864176002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**Brex**</td>
 <td>Brex Rotational Program</td>
 <td>São Paulo, São Paulo, Brazil</td>
 <td><div align="center"><a href="https://www.brex.com/careers/8864174002?gh_jid=8864174002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**IMC Trading**</td>
@@ -3974,14 +3953,14 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Risk Analyst Graduate Programme Glasgow</td>
 <td>Glasgow Campus</td>
 <td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Risk-Analyst-Graduate-Programme-Glasgow_JR-0000129169"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**CIBC**</td>
 <td>Career Programs Networking Event, October 28th 2026 Graduate Leadership Development Program (GLDP)-Risk Management</td>
 <td>Toronto, ON</td>
 <td><div align="center"><a href="https://cibc.wd3.myworkdayjobs.com/Campus/job/Toronto-ON/Career-Programs-Networking-Event--October-28th-2026-Graduate-Leadership-Development-Program--GLDP--Risk_2619727"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Barclays**</td>
@@ -4023,7 +4002,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Compliance Analyst Graduate Program New York</td>
 <td>New York, United States</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-compliance-analyst-graduate-program-new-york-at-compliance-officer-jobs-4456847651"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td>**Compliance Officer Jobs**</td>
@@ -4078,7 +4057,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 BNY Analyst Program - Product Management (Luxembourg)</td>
 <td>Luxembourg</td>
 <td><div align="center"><a href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/82536"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Visa**</td>
@@ -4231,7 +4210,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (313 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (307 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4253,21 +4232,21 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Junior Analyst Data Corporate & Investment Banking</td>
 <td>Montreal, QC, Canada</td>
 <td><div align="center"><a href="https://bnc.avature.net/en_CA/careers/JobDetail/36150"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>1w</td>
 </tr>
 <tr>
 <td>**Truist**</td>
 <td>Equity Capital Markets Analyst I</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/equity-capital-markets-analyst-i-at-truist-4471860593"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Siebert Financial**</td>
 <td>Investment Banking Analyst- 1-2 years experience</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-banking-analyst-1-2-years-experience-at-siebert-financial-4470117763"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Truist**</td>
@@ -4524,14 +4503,14 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Junior Financial Consultant</td>
 <td>Jacksonville, FL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-financial-consultant-at-apis-financial-planning-4481140423"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td>**Apis Financial Planning**</td>
 <td>Junior Financial Consultant</td>
 <td>Jacksonville, FL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-financial-consultant-at-apis-financial-planning-4480256123"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>**Elastic**</td>
@@ -4545,7 +4524,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Operations Associate, Financial Crimes EDD/PEP</td>
 <td>Mexico City</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=7202953"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Column**</td>
@@ -4599,7 +4578,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📈 Asset Management (23 open)
+## 📈 Asset Management (21 open)
 
 <table>
 <tr>
@@ -4614,7 +4593,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Account Executive - Startup SaaS Platforms, Scaled UK Hunter</td>
 <td>Dublin</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8288876"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>1w</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
@@ -4750,20 +4729,6 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>2mo</td>
 </tr>
 <tr>
-<td>**Equitable Advisors**</td>
-<td>Entry Level- Wealth Management Associate</td>
-<td>Buffalo, NY</td>
-<td><div align="center"><a href="https://www.linkedin.com/jobs/view/entry-level-wealth-management-associate-at-equitable-advisors-4428882247"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3mo</td>
-</tr>
-<tr>
-<td>**Selby Jennings**</td>
-<td>Junior Credit Analyst - Multi-Strat Hedge Fund</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-credit-analyst-multi-strat-hedge-fund-at-selby-jennings-4444978840"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3mo</td>
-</tr>
-<tr>
 <td>**Morgan Stanley**</td>
 <td>Junior Sales (Sales Support), Analyst/Associate, Investment Management</td>
 <td>Seoul, Korea, Republic of</td>
@@ -4773,7 +4738,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (66 open)
+## 🔢 Quantitative Finance (65 open)
 
 <table>
 <tr>
@@ -4788,21 +4753,21 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Junior Quantitative Researcher (Ph.D.)</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-researcher-ph-d-at-ashby-4481152462"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td>**Hunter Bond**</td>
 <td>Junior Quantitative Researcher</td>
 <td>New York, United States</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-researcher-at-hunter-bond-4478284883"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**Lyft**</td>
 <td>UX Researcher</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8896666002?gh_jid=8896666002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>6d</td>
+<td>1w</td>
 </tr>
 <tr>
 <td>**IMC Trading**</td>
@@ -4830,14 +4795,14 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Junior Quant - PM Analytics</td>
 <td>Boston, MA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quant-pm-analytics-at-man-group-4477658881"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 <tr>
 <td>**Squarepoint Capital**</td>
 <td>Quantitative Researcher, Volatility - Medium-Frequency</td>
 <td>New York</td>
 <td><div align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=8257346&gh_jid=8257346"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
@@ -4914,7 +4879,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Trading Engineer</td>
 <td>Amsterdam, Netherlands</td>
 <td><div align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4986999101"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**IMC Trading**</td>
@@ -5238,17 +5203,10 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td><div align="center"><a href="https://www.jumptrading.com/hr/job?gh_jid=8089986"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2mo</td>
 </tr>
-<tr>
-<td>**Macquarie Group**</td>
-<td>Junior Energy Quantitative Analyst</td>
-<td>Greater Houston</td>
-<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-energy-quantitative-analyst-at-macquarie-group-4406082701"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3mo</td>
-</tr>
 </table>
 
 
-## 🏢 Corporate Finance (48 open)
+## 🏢 Corporate Finance (44 open)
 
 <table>
 <tr>
@@ -5263,7 +5221,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>FP&A Analyst I</td>
 <td>Centennial, CO</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/fp-a-analyst-i-at-sierra-space-4472046461"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td>**Loma Linda University Health**</td>
@@ -5284,7 +5242,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Software Engineer</td>
 <td>Seattle, WA</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8267736"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 <tr>
 <td>**Labcorp**</td>
@@ -5312,7 +5270,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Finance Support Specialist</td>
 <td>Amsterdam</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/adyen/jobs/8239154"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
@@ -5557,34 +5515,6 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Finance Analyst 1 - Southwest District</td>
 <td>Sandy, UT</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-analyst-1-southwest-district-at-kiewit-4444624525"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>**Mayer Brown**</td>
-<td>Analyst I: Financial Planning and Analysis</td>
-<td>Chicago, IL</td>
-<td><div align="center"><a href="https://www.linkedin.com/jobs/view/analyst-i-financial-planning-and-analysis-at-mayer-brown-4445223384"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3mo</td>
-</tr>
-<tr>
-<td>**Allstate**</td>
-<td>Entry Level Internal Auditor - Data & AI-Enabled Audit</td>
-<td>United States</td>
-<td><div align="center"><a href="https://www.linkedin.com/jobs/view/entry-level-internal-auditor-data-ai-enabled-audit-at-allstate-4444395710"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3mo</td>
-</tr>
-<tr>
-<td>**Carlisle Construction Materials**</td>
-<td>Finance Analyst I - Commercial</td>
-<td>Carlisle, PA</td>
-<td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-analyst-i-commercial-at-carlisle-construction-materials-4444612976"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3mo</td>
-</tr>
-<tr>
-<td>**GM Financial**</td>
-<td>Financial Analyst I - FP&A Cost Analytics</td>
-<td>Fort Worth, TX</td>
-<td><div align="center"><a href="https://www.linkedin.com/jobs/view/financial-analyst-i-fp-a-cost-analytics-at-gm-financial-4444383964"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>3mo</td>
 </tr>
 <tr>
@@ -5612,7 +5542,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Compliance Analyst</td>
 <td>London, England, United Kingdom</td>
 <td><div align="center"><a href="https://www.janestreet.com/join-jane-street/apply/8894046002?gh_jid=8894046002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td>**Pockyt**</td>
@@ -5675,14 +5605,14 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Risk Analyst I</td>
 <td>Las Vegas, NV</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/risk-analyst-i-at-credit-one-bank-4477636121"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 <tr>
 <td>**Cardiologia Novara**</td>
 <td>Junior Risk Analyst</td>
 <td>New York, United States</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-cardiologia-novara-4477880467"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>1w</td>
+<td>2w</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
@@ -5703,14 +5633,14 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Credit and Risk Analyst I</td>
 <td>Alpharetta, GA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/credit-and-risk-analyst-i-at-inhabit%C2%AE-4472976943"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**Sutton Bank**</td>
 <td>Third Party Risk Analyst I</td>
 <td>Attica, OH</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/third-party-risk-analyst-i-at-sutton-bank-4475016483"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**First Federal Bank of Kansas City**</td>
@@ -5766,14 +5696,14 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Compliance Associate I</td>
 <td>Duluth, GA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/compliance-associate-i-at-platinum-federal-credit-union-4472042991"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**The Ritz-Carlton Yacht Collection**</td>
 <td>Junior Analyst, Risk Management</td>
 <td>Fort Lauderdale, FL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-analyst-risk-management-at-the-ritz-carlton-yacht-collection-4469610474"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>4w</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>**Jay M Robinson High School**</td>
@@ -6284,14 +6214,14 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Part-Time Fraud Risk Analyst I</td>
 <td>Vinita, OK</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/part-time-fraud-risk-analyst-i-at-rcb-bank-4445293243"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>**Jobera.com**</td>
 <td>Risk Analyst I</td>
 <td>Lubbock, TX</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/risk-analyst-i-at-jobera-com-4444682687"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>**Citigroup**</td>
@@ -6303,7 +6233,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 💻 Financial Technology (26 open)
+## 💻 Financial Technology (27 open)
 
 <table>
 <tr>
@@ -6312,6 +6242,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Adyen**</td>
+<td>FinCrime Analyst</td>
+<td>Madrid</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/adyen/jobs/8300919"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Twilio**</td>
@@ -6353,7 +6290,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Software Engineer, Backend</td>
 <td>Menlo Park, CA</br>New York, NY</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>2w</td>
+<td>3w</td>
 </tr>
 <tr>
 <td>**Twilio**</td>
@@ -6367,14 +6304,14 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Sanctions, Operations Associate(CDMX)</td>
 <td>Mexico City</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8017084"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Twilio**</td>
 <td>Compliance Operations Specialist 1</td>
 <td>Remote - Colombia</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/twilio/jobs/8197328"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
-<td>3w</td>
+<td>4w</td>
 </tr>
 <tr>
 <td>**Robinhood**</td>
@@ -6563,7 +6500,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: October 22, 2026 at 09:29 PM**
+**Last updated: October 23, 2026 at 01:23 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
