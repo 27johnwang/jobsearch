@@ -6521,7 +6521,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: October 24, 2026 at 12:39 PM**
+**Last updated: October 24, 2026 at 08:36 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
