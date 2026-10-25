@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **888+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **890+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,7 +27,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 888** | **Open: 888** | **New Grad: 583** | **Entry Level: 305**
+**Total listings: 890** | **Open: 890** | **New Grad: 583** | **Entry Level: 307**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
@@ -4238,7 +4238,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (305 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (307 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4766,7 +4766,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (67 open)
+## 🔢 Quantitative Finance (69 open)
 
 <table>
 <tr>
@@ -4775,6 +4775,20 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Hunter Bond**</td>
+<td>Junior Quantitative Researcher</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-researcher-at-hunter-bond-4481411062"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Old Mission**</td>
+<td>Junior Quantitative Trader (Asian Market Hours)</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-trader-asian-market-hours-at-old-mission-4483377795"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Man Group**</td>
@@ -6514,7 +6528,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: October 25, 2026 at 01:12 PM**
+**Last updated: October 25, 2026 at 08:44 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
