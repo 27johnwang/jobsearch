@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **877+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **883+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 877** | **Open: 877** | **New Grad: 581** | **Entry Level: 296**
+**Total listings: 883** | **Open: 883** | **New Grad: 584** | **Entry Level: 299**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (581 open)
+# 🎓 2027 New Grad Programs (584 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -1804,7 +1804,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (298 open)
+## 🏢 Corporate Finance (301 open)
 
 <table>
 <tr>
@@ -1826,6 +1826,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>ETIC, Cybersecurity - IDAM - Graduate Program</td>
 <td>Cairo - ETIC</td>
 <td><div align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Cybersecurity---IDAM---Graduate-Program_769872WD"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**ArchBridge Family Office**</td>
+<td>Rotational Analyst Fellowship</td>
+<td>St Louis, MO</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/rotational-analyst-fellowship-at-archbridge-family-office-4483646978"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Maximus**</td>
+<td>Rotational Program Associate Analyst- Corporate Finance and Accounting 2027</td>
+<td>McLean, VA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/rotational-program-associate-analyst-corporate-finance-and-accounting-2027-at-maximus-4484241738"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -1903,6 +1917,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Associate Finance Analyst, University Graduate</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/associate-finance-analyst-university-graduate-at-google-4481144233"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td>**General Dynamics Mission Systems**</td>
+<td>Finance Analyst - 36-month Rotation Program</td>
+<td>Chantilly, VA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-analyst-36-month-rotation-program-at-general-dynamics-mission-systems-4480746860"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
@@ -4224,14 +4245,14 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (296 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (299 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
 > **Filter by experience:** Use [jobs.html](jobs.html) to select your exact years of experience and see only matching roles.
 
 
-## 🏦 Investment Banking (17 open)
+## 🏦 Investment Banking (18 open)
 
 <table>
 <tr>
@@ -4240,6 +4261,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Victory Partners**</td>
+<td>Investment Banking Analyst I</td>
+<td>West Palm Beach, FL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-banking-analyst-i-at-victory-partners-4484066809"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**National Bank of Canada**</td>
@@ -4724,7 +4752,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (67 open)
+## 🔢 Quantitative Finance (68 open)
 
 <table>
 <tr>
@@ -5176,6 +5204,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>2mo</td>
 </tr>
 <tr>
+<td>**WorldQuant**</td>
+<td>Reference Data Operations Analyst</td>
+<td>Montevideo</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/worldquant/jobs/4697238006"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2mo</td>
+</tr>
+<tr>
 <td>**IMC Trading**</td>
 <td>Graduate Trader</td>
 <td>Amsterdam, Netherlands</td>
@@ -5520,7 +5555,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (94 open)
+## 🛡️ Risk Management (95 open)
 
 <table>
 <tr>
@@ -5529,6 +5564,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Plexus Corp.**</td>
+<td>IT Governance, Risk & Compliance Analyst I</td>
+<td>Neenah, WI</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/it-governance-risk-compliance-analyst-i-at-plexus-corp-4482808103"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**Jane Street**</td>
@@ -6437,7 +6479,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: October 27, 2026 at 02:24 PM**
+**Last updated: October 27, 2026 at 10:06 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
