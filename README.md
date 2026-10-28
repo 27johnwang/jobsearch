@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **877+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **885+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 877** | **Open: 877** | **New Grad: 582** | **Entry Level: 295**
+**Total listings: 885** | **Open: 885** | **New Grad: 587** | **Entry Level: 298**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (582 open)
+# 🎓 2027 New Grad Programs (587 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (122 open)
+## 🏦 Investment Banking (123 open)
 
 <table>
 <tr>
@@ -47,6 +47,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**RLJ Lodging Trust**</td>
+<td>Financial Analyst Program - Capital Markets and FP&A</td>
+<td>Bethesda, MD</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/financial-analyst-program-capital-markets-and-fp-a-at-rlj-lodging-trust-4484739423"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Houlihan Lokey**</td>
@@ -1120,7 +1127,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 📈 Asset Management (32 open)
+## 📈 Asset Management (34 open)
 
 <table>
 <tr>
@@ -1129,6 +1136,20 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Soul Equity Solutions**</td>
+<td>Private Equity Associate 2027 start</td>
+<td>Philadelphia, PA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/private-equity-associate-2027-start-at-soul-equity-solutions-4482546859"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Newflow Partners**</td>
+<td>Private Equity Origination Analyst (Pre-MBA / Early Career)</td>
+<td>Miami Beach, FL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/private-equity-origination-analyst-pre-mba-early-career-at-newflow-partners-4484493069"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Barclays**</td>
@@ -1357,7 +1378,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🔢 Quantitative Finance (60 open)
+## 🔢 Quantitative Finance (61 open)
 
 <table>
 <tr>
@@ -1386,6 +1407,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Quantitative Researcher, Early Career</td>
 <td>Greater Chicago Area</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-researcher-early-career-at-aquatic-capital-management-4409015822"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2w</td>
+</tr>
+<tr>
+<td>**IMC Trading**</td>
+<td>2027 EU Campus Programme Talent Community</td>
+<td>Europe</td>
+<td><div align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4940448101"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2w</td>
 </tr>
 <tr>
@@ -1790,7 +1818,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (301 open)
+## 🏢 Corporate Finance (302 open)
 
 <table>
 <tr>
@@ -3894,6 +3922,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>3mo</td>
 </tr>
 <tr>
+<td>**Capital One**</td>
+<td>Associate, Process Management- New Grad 2027</td>
+<td>Toronto, ON</td>
+<td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Process-Management--New-Grad-2027_R247470"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td></td>
+</tr>
+<tr>
 <td>**Citigroup**</td>
 <td>2025 LATAM Markets Analyst Program - Colombia</td>
 <td>Bogota  Colombia</td>
@@ -4231,14 +4266,14 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (295 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (298 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
 > **Filter by experience:** Use [jobs.html](jobs.html) to select your exact years of experience and see only matching roles.
 
 
-## 🏦 Investment Banking (18 open)
+## 🏦 Investment Banking (19 open)
 
 <table>
 <tr>
@@ -4247,6 +4282,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Truist**</td>
+<td>Investment Grade- Debt Capital Markets Analyst I</td>
+<td>Atlanta, GA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-grade-debt-capital-markets-analyst-i-at-truist-4484476735"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Victory Partners**</td>
@@ -5213,7 +5255,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🏢 Corporate Finance (43 open)
+## 🏢 Corporate Finance (44 open)
 
 <table>
 <tr>
@@ -5222,6 +5264,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**State Street**</td>
+<td>Financial Reporting Analyst, Associate 1</td>
+<td>Krakow, Poland</td>
+<td><div align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Financial-Reporting-Analyst--Associate-1_R-800377-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**New Orleans Ernest N. Morial Convention Center**</td>
@@ -5527,7 +5576,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (93 open)
+## 🛡️ Risk Management (94 open)
 
 <table>
 <tr>
@@ -5542,6 +5591,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Fraud Risk Analyst I</td>
 <td>South Portland, ME</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/fraud-risk-analyst-i-at-blackhawk-network-4484264220"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**Blackhawk Network**</td>
+<td>Fraud Risk Analyst I</td>
+<td>South Portland, ME</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/fraud-risk-analyst-i-at-blackhawk-network-4484265173"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -6437,7 +6493,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: October 28, 2026 at 03:07 PM**
+**Last updated: October 28, 2026 at 10:30 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
