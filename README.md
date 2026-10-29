@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **868+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **872+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 868** | **Open: 868** | **New Grad: 581** | **Entry Level: 287**
+**Total listings: 872** | **Open: 872** | **New Grad: 582** | **Entry Level: 290**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (581 open)
+# 🎓 2027 New Grad Programs (582 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -1811,7 +1811,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (297 open)
+## 🏢 Corporate Finance (298 open)
 
 <table>
 <tr>
@@ -1896,6 +1896,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Software Developer New Grad - Application Development</td>
 <td>Jacksonville, FL</td>
 <td><div align="center"><a href="https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2027_261004412"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td>**BlackRock**</td>
+<td>2027 Full-Time Analyst Program - AMRS</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-full-time-analyst-program-amrs-at-blackrock-4446750631"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
@@ -4224,7 +4231,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (287 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (290 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -5192,7 +5199,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🏢 Corporate Finance (42 open)
+## 🏢 Corporate Finance (44 open)
 
 <table>
 <tr>
@@ -5201,6 +5208,20 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Brex**</td>
+<td>Analyst, Banking Operations (Domestic)</td>
+<td>New York, New York, United States</td>
+<td><div align="center"><a href="https://www.brex.com/careers/8924533002?gh_jid=8924533002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Brex**</td>
+<td>Analyst, Banking Operations (Domestic)</td>
+<td>Salt Lake City, Utah, United States</td>
+<td><div align="center"><a href="https://www.brex.com/careers/8923923002?gh_jid=8923923002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**State Street**</td>
@@ -5499,7 +5520,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (88 open)
+## 🛡️ Risk Management (89 open)
 
 <table>
 <tr>
@@ -5535,6 +5556,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Compliance Analyst</td>
 <td>London, England, United Kingdom</td>
 <td><div align="center"><a href="https://www.janestreet.com/join-jane-street/apply/8894046002?gh_jid=8894046002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1w</td>
+</tr>
+<tr>
+<td>**Jane Street**</td>
+<td>FTR Trader</td>
+<td>New York, New York, United States</td>
+<td><div align="center"><a href="https://www.janestreet.com/join-jane-street/apply/6673515002?gh_jid=6673515002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1w</td>
 </tr>
 <tr>
@@ -6374,7 +6402,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: October 29, 2026 at 03:14 PM**
+**Last updated: October 29, 2026 at 10:43 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
