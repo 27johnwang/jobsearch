@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **850+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **858+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 850** | **Open: 850** | **New Grad: 572** | **Entry Level: 278**
+**Total listings: 858** | **Open: 858** | **New Grad: 574** | **Entry Level: 284**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (572 open)
+# 🎓 2027 New Grad Programs (574 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -884,7 +884,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 📊 Sales & Trading (11 open)
+## 📊 Sales & Trading (12 open)
 
 <table>
 <tr>
@@ -893,6 +893,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Barclays**</td>
+<td>S&T - Prime Sales Analyst Graduate Program 2027 New York</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/s-t-prime-sales-analyst-graduate-program-2027-new-york-at-barclays-4485008110"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Centrica**</td>
@@ -1699,7 +1706,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (304 open)
+## 🏢 Corporate Finance (305 open)
 
 <table>
 <tr>
@@ -1714,6 +1721,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>2027 Global Finance & Business Management Analyst Program  - Full Time Analyst Corporate Controllers Track (DE)</td>
 <td>Newark, DE</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-global-finance-business-management-analyst-program-full-time-analyst-corporate-controllers-track-de-at-jpmorganchase-4486848575"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Zoetis**</td>
+<td>Finance Analyst, Rotational Program - Full Time 2027</td>
+<td>Troy Hills, NJ</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-analyst-rotational-program-full-time-2027-at-zoetis-4486097644"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -4161,14 +4175,14 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (278 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (284 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
 > **Filter by experience:** Use [jobs.html](jobs.html) to select your exact years of experience and see only matching roles.
 
 
-## 🏦 Investment Banking (19 open)
+## 🏦 Investment Banking (20 open)
 
 <table>
 <tr>
@@ -4177,6 +4191,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**D.A. Davidson Companies**</td>
+<td>Experienced Investment Banking Analyst 1 or 2, Diversified Industrials Group</td>
+<td>Boston, MA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/experienced-investment-banking-analyst-1-or-2-diversified-industrials-group-at-d-a-davidson-companies-4487039115"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Truist**</td>
@@ -5394,7 +5415,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (85 open)
+## 🛡️ Risk Management (87 open)
 
 <table>
 <tr>
@@ -5403,6 +5424,20 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**International Women's Forum, Northern Italy (IWF NI)**</td>
+<td>Junior Risk Analyst</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-international-women-s-forum-northern-italy-iwf-ni-4486093797"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Premier Wires Pvt. Ltd.**</td>
+<td>Junior Risk Analyst</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-premier-wires-pvt-ltd-4485026367"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Questpro**</td>
@@ -6002,7 +6037,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 💻 Financial Technology (25 open)
+## 💻 Financial Technology (27 open)
 
 <table>
 <tr>
@@ -6011,6 +6046,20 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Figure**</td>
+<td>Customer Success Associate</td>
+<td>Charlotte, NC</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/figure/jobs/8792016002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Twilio**</td>
+<td>Compliance Operations Specialist</td>
+<td>Remote - Colombia</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/twilio/jobs/8312421"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Plaid**</td>
@@ -6217,7 +6266,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🤝 Sales (Financial Services) (2 open)
+## 🤝 Sales (Financial Services) (3 open)
 
 <table>
 <tr>
@@ -6226,6 +6275,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Ramp**</td>
+<td>Solutions Consultant, Commercial</td>
+<td><details><summary>Remote (US) (+5 more)</summary>Remote (Canada)</br>San Francisco, CA</br>New York, NY (HQ)</br>Toronto, ON</br>Miami, FL</details></td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/ramp/220e674a-fc70-439f-bacf-687553ca59c9"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**MongoDB**</td>
@@ -6248,7 +6304,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: November 03, 2026 at 04:09 PM**
+**Last updated: November 03, 2026 at 11:09 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
