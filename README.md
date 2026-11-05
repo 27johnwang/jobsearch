@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **850+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **858+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 850** | **Open: 850** | **New Grad: 572** | **Entry Level: 278**
+**Total listings: 858** | **Open: 858** | **New Grad: 576** | **Entry Level: 282**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (572 open)
+# 🎓 2027 New Grad Programs (576 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -870,7 +870,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 📊 Sales & Trading (12 open)
+## 📊 Sales & Trading (13 open)
 
 <table>
 <tr>
@@ -886,6 +886,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/s-t-prime-sales-analyst-graduate-program-2027-new-york-at-barclays-4485008110"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2d</td>
+</tr>
+<tr>
+<td>**Cargill**</td>
+<td>Commodity Trading Associate 2027 - Multiple U.S. Locations</td>
+<td>Blair, NE</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/commodity-trading-associate-2027-multiple-u-s-locations-at-cargill-4446675566"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>6d</td>
 </tr>
 <tr>
 <td>**Centrica**</td>
@@ -1078,7 +1085,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 📈 Asset Management (34 open)
+## 📈 Asset Management (35 open)
 
 <table>
 <tr>
@@ -1087,6 +1094,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Asana Partners**</td>
+<td>Analyst - Private Equity Analyst Program</td>
+<td>Charlotte, NC</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/analyst-private-equity-analyst-program-at-asana-partners-4488035608"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Soul Equity Solutions**</td>
@@ -1692,7 +1706,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (304 open)
+## 🏢 Corporate Finance (306 open)
 
 <table>
 <tr>
@@ -1707,6 +1721,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Technology Early Career Entry Program</td>
 <td>2 Locations</td>
 <td><div align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Technology-Early-Career-Entry-Program_R-800791"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Capital One**</td>
+<td>Associate, Strategy Analyst - New Grad 2027</td>
+<td>Toronto, ON</td>
+<td><div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Strategy-Analyst---New-Grad-2027_R242577-1"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -1847,6 +1868,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Floor Trader - 2027 Graduate Program (August Start)</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/floor-trader-2027-graduate-program-august-start-at-old-mission-4483886379"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1w</td>
+</tr>
+<tr>
+<td>**Squarepoint Capital**</td>
+<td>Trading Infrastructure Specialist – Graduate Program</td>
+<td>London, Montreal, Hong Kong, New York, Singapore</td>
+<td><div align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1w</td>
 </tr>
 <tr>
@@ -4161,7 +4189,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (278 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (282 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4640,7 +4668,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (61 open)
+## 🔢 Quantitative Finance (63 open)
 
 <table>
 <tr>
@@ -4676,6 +4704,20 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Junior Quantitative Researcher (Ph.D.)</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-researcher-ph-d-at-old-mission-4483888389"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1w</td>
+</tr>
+<tr>
+<td>**Squarepoint Capital**</td>
+<td>Junior Quant Researcher</td>
+<td>London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore</td>
+<td><div align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1w</td>
+</tr>
+<tr>
+<td>**Squarepoint Capital**</td>
+<td>Junior Quant Researcher - ML Alpha Research</td>
+<td>London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore</td>
+<td><div align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1w</td>
 </tr>
 <tr>
@@ -5967,7 +6009,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 💻 Financial Technology (29 open)
+## 💻 Financial Technology (30 open)
 
 <table>
 <tr>
@@ -5976,6 +6018,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Robinhood**</td>
+<td>Customer Experience Associate, Prediction Markets</td>
+<td>Westlake, TX</td>
+<td><div align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8356278?t=gh_src=&gh_jid=8356278"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Coinbase**</td>
@@ -6183,7 +6232,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📱 Product Management (Finance) (1 open)
+## 📱 Product Management (Finance) (2 open)
 
 <table>
 <tr>
@@ -6199,6 +6248,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Singapore</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8630027002?gh_jid=8630027002"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>6d</td>
+</tr>
+<tr>
+<td>**Squarepoint Capital**</td>
+<td>Junior UX/UI Engineer</td>
+<td>London</td>
+<td><div align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=7335465&gh_jid=7335465"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1w</td>
 </tr>
 </table>
 
@@ -6248,7 +6304,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: November 05, 2026 at 04:28 PM**
+**Last updated: November 05, 2026 at 11:35 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
