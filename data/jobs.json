@@ -180,6 +180,24 @@
     "max_years": 0
   },
   {
+    "company": "Amazon",
+    "role": "Amazon Finance Rotational Program (AFRP) - Operations Finance, Early Career - 2027",
+    "location": "Seattle, WA",
+    "url": "https://www.linkedin.com/jobs/view/amazon-finance-rotational-program-afrp-operations-finance-early-career-2027-at-amazon-4487753457",
+    "date_posted": "2026-11-05",
+    "category": "Corporate Finance",
+    "source": "linkedin",
+    "is_closed": false,
+    "requires_visa_sponsorship": true,
+    "us_citizenship_required": false,
+    "company_url": null,
+    "tags": [],
+    "date_added": "2026-11-06",
+    "experience_type": "new_grad",
+    "min_years": 0,
+    "max_years": 0
+  },
+  {
     "company": "First Citizens Bank",
     "role": "Underwriter I, Sponsor Finance - Analyst Development Program (Chicago, IL)",
     "location": "Chicago, IL",
@@ -846,6 +864,24 @@
     "max_years": 0
   },
   {
+    "company": "Belvedere Trading, LLC",
+    "role": "Quantitative Trader - Entry Level 2027",
+    "location": "Chicago, IL",
+    "url": "https://www.linkedin.com/jobs/view/quantitative-trader-entry-level-2027-at-belvedere-trading-llc-4449219249",
+    "date_posted": "2026-10-31",
+    "category": "Quantitative Finance",
+    "source": "linkedin",
+    "is_closed": false,
+    "requires_visa_sponsorship": true,
+    "us_citizenship_required": false,
+    "company_url": null,
+    "tags": [],
+    "date_added": "2026-11-06",
+    "experience_type": "new_grad",
+    "min_years": 0,
+    "max_years": 0
+  },
+  {
     "company": "Houlihan Lokey",
     "role": "2027 Financial Analyst (Class of 2027), Portfolio Valuation and Fund Advisory Services - Los Angeles",
     "location": "Los Angeles, CA",
@@ -1186,6 +1222,24 @@
     "experience_type": "new_grad",
     "min_years": 0,
     "max_years": 0
+  },
+  {
+    "company": "Stripe",
+    "role": " Credit Risk Operations Associate",
+    "location": "Bangalore ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8104748",
+    "date_posted": "2026-10-29",
+    "category": "Quantitative Finance",
+    "source": "greenhouse",
+    "is_closed": false,
+    "requires_visa_sponsorship": true,
+    "us_citizenship_required": false,
+    "company_url": null,
+    "tags": [],
+    "date_added": "2026-11-06",
+    "experience_type": "entry_level",
+    "min_years": 0,
+    "max_years": 2
   },
   {
     "company": "Old Mission",
