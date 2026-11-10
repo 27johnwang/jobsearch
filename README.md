@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **840+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **841+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 840** | **Open: 840** | **New Grad: 556** | **Entry Level: 284**
+**Total listings: 841** | **Open: 841** | **New Grad: 557** | **Entry Level: 284**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (556 open)
+# 🎓 2027 New Grad Programs (557 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -1552,7 +1552,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (310 open)
+## 🏢 Corporate Finance (311 open)
 
 <table>
 <tr>
@@ -1581,6 +1581,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Finance Rotational Accelerator Program (2027 New College Graduate)</td>
 <td>USA - Texas - Austin</td>
 <td><div align="center"><a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Finance-Rotational-Accelerator-Program--2027-New-College-Graduate-_JR-2604504"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**GlobalFoundries**</td>
+<td>Finance Rotational Accelerator Program (2027 New College Graduate)</td>
+<td>Austin, TX</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-rotational-accelerator-program-2027-new-college-graduate-at-globalfoundries-4488379844"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -6178,7 +6185,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: November 10, 2026 at 04:27 PM**
+**Last updated: November 10, 2026 at 11:07 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
