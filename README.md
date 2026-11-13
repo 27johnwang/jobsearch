@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **820+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **824+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 820** | **Open: 820** | **New Grad: 543** | **Entry Level: 277**
+**Total listings: 824** | **Open: 824** | **New Grad: 545** | **Entry Level: 279**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (543 open)
+# 🎓 2027 New Grad Programs (545 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (96 open)
+## 🏦 Investment Banking (97 open)
 
 <table>
 <tr>
@@ -53,6 +53,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Early Careers: Investment Banking Trainee</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/early-careers-investment-banking-trainee-at-aon-4490555293"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**Raymond James**</td>
+<td>2027 Investment Banking Analyst I Private Capital Advisory New York, NY</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-investment-banking-analyst-i-private-capital-advisory-new-york-ny-at-raymond-james-4488981590"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -1468,7 +1475,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (309 open)
+## 🏢 Corporate Finance (310 open)
 
 <table>
 <tr>
@@ -1483,6 +1490,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Analyst Development Program - Plano,TX/Seattle,WA (September 2027)</td>
 <td>Seattle, WA</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/analyst-development-program-plano-tx-seattle-wa-september-2027-at-liberty-mutual-insurance-4464906405"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**American Express**</td>
+<td>Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY</td>
+<td>New York, NY</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/campus-undergraduate-full-time-associate-2027-cybersecurity-analyst-enterprise-technology-services-new-york-ny-at-american-express-4461362174"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -3958,7 +3972,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (277 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (279 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4835,7 +4849,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🏢 Corporate Finance (35 open)
+## 🏢 Corporate Finance (36 open)
 
 <table>
 <tr>
@@ -4844,6 +4858,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Johns Hopkins Medicine**</td>
+<td>Health System FP&A Analyst I</td>
+<td>Washington DC-Baltimore Area</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/health-system-fp-a-analyst-i-at-johns-hopkins-medicine-4488956738"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Kiewit**</td>
@@ -5093,7 +5114,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (88 open)
+## 🛡️ Risk Management (89 open)
 
 <table>
 <tr>
@@ -5102,6 +5123,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**ALLETE**</td>
+<td>Compliance Analyst I</td>
+<td>Duluth, MN</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/compliance-analyst-i-at-allete-4490763303"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**IMC Trading**</td>
@@ -6038,7 +6066,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: November 13, 2026 at 04:09 PM**
+**Last updated: November 13, 2026 at 11:29 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
