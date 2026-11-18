@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **787+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **791+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,18 +27,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 787** | **Open: 787** | **New Grad: 514** | **Entry Level: 273**
+**Total listings: 791** | **Open: 791** | **New Grad: 516** | **Entry Level: 275**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (514 open)
+# 🎓 2027 New Grad Programs (516 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
 
-## 🏦 Investment Banking (85 open)
+## 🏦 Investment Banking (86 open)
 
 <table>
 <tr>
@@ -54,6 +54,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>Dallas, TX</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/investment-banking-financial-analyst-dallas-consumer-class-of-2027-at-houlihan-lokey-4491594244"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1d</td>
+</tr>
+<tr>
+<td>**CIBC**</td>
+<td>Global Investment Banking, Summer 2028 Analyst (Calgary - Energy & Infrastructure)</td>
+<td>Calgary, AB</td>
+<td><div align="center"><a href="https://cibc.wd3.myworkdayjobs.com/Campus/job/Calgary-AB/Global-Investment-Banking--Student-Analyst_2623655"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>2d</td>
 </tr>
 <tr>
 <td>**Aon**</td>
@@ -1098,7 +1105,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🔢 Quantitative Finance (31 open)
+## 🔢 Quantitative Finance (32 open)
 
 <table>
 <tr>
@@ -1107,6 +1114,13 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Susquehanna International Group**</td>
+<td>Quantitative Strategy Developer - New Grad</td>
+<td>Bala-Cynwyd, PA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-strategy-developer-new-grad-at-susquehanna-international-group-4453487626"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**Tower Research Capital**</td>
@@ -3755,7 +3769,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (273 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (275 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4206,7 +4220,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (61 open)
+## 🔢 Quantitative Finance (62 open)
 
 <table>
 <tr>
@@ -4243,6 +4257,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Cincinnati, OH</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-analyst-i-at-fifth-third-bank-4490667940"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>2d</td>
+</tr>
+<tr>
+<td>**DV Trading LLC**</td>
+<td>Junior Quantitative Trader</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-quantitative-trader-at-dv-trading-llc-4455431264"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**Jump Trading**</td>
@@ -4897,7 +4918,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (86 open)
+## 🛡️ Risk Management (87 open)
 
 <table>
 <tr>
@@ -4913,6 +4934,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <td>Spring, TX</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/risk-analyst-i-at-maverick-payments-4491270183"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>3d</td>
+</tr>
+<tr>
+<td>**Carta**</td>
+<td>Junior Inbound Compliance Analyst (KYC)</td>
+<td>Seattle, WA</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-inbound-compliance-analyst-kyc-at-carta-4453475676"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>4d</td>
 </tr>
 <tr>
 <td>**ALLETE**</td>
@@ -5807,7 +5835,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: November 18, 2026 at 12:49 AM**
+**Last updated: November 18, 2026 at 05:09 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
