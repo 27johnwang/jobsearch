@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **779+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **785+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,13 +27,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 779** | **Open: 779** | **New Grad: 503** | **Entry Level: 276**
+**Total listings: 785** | **Open: 785** | **New Grad: 505** | **Entry Level: 280**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
 ---
 
-# 🎓 2027 New Grad Programs (503 open)
+# 🎓 2027 New Grad Programs (505 open)
 
 Campus recruiting roles for the Class of 2027 — analyst programs, graduate programs, rotational programs.
 
@@ -1307,7 +1307,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 </table>
 
 
-## 🏢 Corporate Finance (294 open)
+## 🏢 Corporate Finance (296 open)
 
 <table>
 <tr>
@@ -1360,11 +1360,25 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 <td>3d</td>
 </tr>
 <tr>
+<td>**JPMorganChase**</td>
+<td>2027 Commercial Real Estate Full-Time Analyst Program - Real Estate Banking (Washington D.C.)</td>
+<td>Washington, DC</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-commercial-real-estate-full-time-analyst-program-real-estate-banking-washington-d-c-at-jpmorganchase-4491749862"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
 <td>**Westlake**</td>
 <td>Finance Rotational Program</td>
 <td>Houston, TX</td>
 <td><div align="center"><a href="https://www.linkedin.com/jobs/view/finance-rotational-program-at-westlake-4490103355"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>4d</td>
+</tr>
+<tr>
+<td>**Momentum**</td>
+<td>2027 Launch Graduate Program: FP&A Analyst</td>
+<td>Dallas, TX</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/2027-launch-graduate-program-fp-a-analyst-at-momentum-4437311526"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>6d</td>
 </tr>
 <tr>
 <td>**Liberty Mutual Insurance**</td>
@@ -3678,7 +3692,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (276 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (280 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -3838,7 +3852,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📊 Sales & Trading (10 open)
+## 📊 Sales & Trading (11 open)
 
 <table>
 <tr>
@@ -3847,6 +3861,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**AQR Capital Management**</td>
+<td>Junior Trading Analyst</td>
+<td>Greenwich, CT</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-trading-analyst-at-aqr-capital-management-4458789920"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Akuna Capital**</td>
@@ -4011,7 +4032,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 📈 Asset Management (15 open)
+## 📈 Asset Management (16 open)
 
 <table>
 <tr>
@@ -4020,6 +4041,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Jump Trading**</td>
+<td>Data Scout</td>
+<td>New York or London</td>
+<td><div align="center"><a href="https://www.jumptrading.com/hr/job?gh_jid=8303577"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Stripe**</td>
@@ -4129,7 +4157,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🔢 Quantitative Finance (63 open)
+## 🔢 Quantitative Finance (64 open)
 
 <table>
 <tr>
@@ -4138,6 +4166,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Jump Trading**</td>
+<td>Quantitative Developer | Trading Team </td>
+<td>Singapore or Hong Kong</td>
+<td><div align="center"><a href="https://www.jumptrading.com/hr/job?gh_jid=8105914"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Akuna Capital**</td>
@@ -4834,7 +4869,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (86 open)
+## 🛡️ Risk Management (87 open)
 
 <table>
 <tr>
@@ -4843,6 +4878,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**Harmony Minds Research, Training & Consultancy**</td>
+<td>Junior Risk Analyst</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-harmony-minds-research-training-consultancy-4491935272"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**Maverick Payments**</td>
@@ -5751,7 +5793,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: November 20, 2026 at 12:29 AM**
+**Last updated: November 20, 2026 at 04:55 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
