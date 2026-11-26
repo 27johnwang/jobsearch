@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **773+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **774+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,7 +27,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 773** | **Open: 773** | **New Grad: 505** | **Entry Level: 268**
+**Total listings: 774** | **Open: 774** | **New Grad: 505** | **Entry Level: 269**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
@@ -3692,7 +3692,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (268 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (269 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4820,7 +4820,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (83 open)
+## 🛡️ Risk Management (84 open)
 
 <table>
 <tr>
@@ -4829,6 +4829,13 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Location</th>
 <th>Application</th>
 <th>Age</th>
+</tr>
+<tr>
+<td>**EY**</td>
+<td>Junior Financial Crime Risk Associate (Katowice, Śląskie, PL, 40-202)</td>
+<td>United States</td>
+<td><div align="center"><a href="https://careers.ey.com/ey/job/Katowice-Junior-Financial-Crime-Risk-Associate-%C5%9Al%C4%85s-40-202/1452181433/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
 </tr>
 <tr>
 <td>**IMC Trading**</td>
@@ -5709,7 +5716,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: November 26, 2026 at 01:44 AM**
+**Last updated: November 26, 2026 at 06:20 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
