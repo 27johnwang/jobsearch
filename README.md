@@ -1,6 +1,6 @@
 # Finance Jobs Tracker 💰
 
-> A daily-updated list of **765+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
+> A daily-updated list of **768+ open** positions in finance — split into **2027 New Grad Programs** and **Entry-Level Roles (0-2 YOE)**.
 >
 > Scraped daily from 107+ ATS endpoints across 10 platforms (LinkedIn, Greenhouse, Workday, Oracle HCM,
 > Ashby, Avature, SmartRecruiters, RSS/Atom feeds, SimplifyJobs). Newest listings first.
@@ -27,7 +27,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Total listings: 765** | **Open: 765** | **New Grad: 501** | **Entry Level: 264**
+**Total listings: 768** | **Open: 768** | **New Grad: 501** | **Entry Level: 267**
 
 > **Interactive view:** See [jobs.html](jobs.html) for a filterable page where you can pick your experience level (0, 1, or 2 years) to filter entry-level roles.
 
@@ -3664,7 +3664,7 @@ Campus recruiting roles for the Class of 2027 — analyst programs, graduate pro
 
 ---
 
-# 💼 Entry-Level Roles — 0-2 Years Experience (264 open)
+# 💼 Entry-Level Roles — 0-2 Years Experience (267 open)
 
 Roles for recent grads and early-career professionals with 0-2 years of experience.
 
@@ -4771,7 +4771,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 </table>
 
 
-## 🛡️ Risk Management (82 open)
+## 🛡️ Risk Management (85 open)
 
 <table>
 <tr>
@@ -4782,10 +4782,31 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 <th>Age</th>
 </tr>
 <tr>
+<td>**Rise Utilities LTD**</td>
+<td>Junior Risk Analyst</td>
+<td>New York, United States</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/junior-risk-analyst-at-rise-utilities-ltd-4494200943"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>**EY**</td>
+<td>Junior Risk Analyst with German (Katowice, Śląskie, PL, 40-202)</td>
+<td>United States</td>
+<td><div align="center"><a href="https://careers.ey.com/ey/job/Katowice-Junior-Risk-Analyst-with-German-%C5%9Al%C4%85s-40-202/1452632733/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td>**EY**</td>
 <td>Junior Financial Crime Risk Associate (Katowice, Śląskie, PL, 40-202)</td>
 <td>United States</td>
 <td><div align="center"><a href="https://careers.ey.com/ey/job/Katowice-Junior-Financial-Crime-Risk-Associate-%C5%9Al%C4%85s-40-202/1452181433/"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td>**USAA**</td>
+<td>Quantitative Risk Analyst I – Financial Risk</td>
+<td>Charlotte, NC</td>
+<td><div align="center"><a href="https://www.linkedin.com/jobs/view/quantitative-risk-analyst-i-%E2%80%93-financial-risk-at-usaa-4493852336"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -5653,7 +5674,7 @@ Roles for recent grads and early-career professionals with 0-2 years of experien
 
 <div align="center">
 
-**Last updated: November 27, 2026 at 01:38 AM**
+**Last updated: November 27, 2026 at 06:02 PM**
 
 This list is updated daily via automated scrapers (LinkedIn, Greenhouse, Workday, Oracle HCM, Ashby, Avature, SmartRecruiters, SimplifyJobs) + community contributions.
 
